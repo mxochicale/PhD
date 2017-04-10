@@ -33,12 +33,35 @@ Year of study*:
 Year 3
 
 
+
+The following section is taken from the latest update of the abstract path
 ## Provisional title of your poster*
-
-
+How Well you Move? Movement Variability in the context of Human-Robot Interaction
 
 ## Summary of research* [1500 words]
-
+Variability is an inherent feature in a human movement that occurs both at
+individual and group level. Given the complexity and at some extent the
+subjectivity that constraint the investigation of human(s) movement variability,
+a promising research direction is the study of human-robot interaction from
+the motion imitation perspective where little research has been performed so far.
+For instance, Guneysu et al. (2015),
+in an scenario of rehabilitation with children, have analysed data from
+four physiotherapists who were asked to perform the same upper arm movements.
+As was expected, the movement variability was presented in each repetition
+of the movements as well as in the movements between physiotherapists.
+In the same spirit, this work presents some preliminary results
+of a Human-Robot Interaction scenario where the phenomenon
+of human movement variability can be observed.
+The experiment consists of a Human-Robot Imitation activity in which a humanoid
+robot is used as an instructor to perform consistent and repetitive movements.
+Following this, a (randomly chosen) group of
+20 participants were asked to mirror the robot's arm in vertical and horizontal
+direction in normal to fast speed conditions.
+We found that our metrics based on nonlinear dynamics have good
+capability in measuring how well a given participant imitates the humanoid robot.
+With this in mind, we believe that the potential applications of this research
+are many, for instance in the fields of rehabilitation, therapy,
+and entertainment to mention only a few.
 
 
 ## Extra Questions
