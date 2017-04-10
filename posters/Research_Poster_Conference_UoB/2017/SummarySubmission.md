@@ -13,7 +13,7 @@ wherever possible
 If you have any questions about the Research Poster Conference, please contact
 the University Graduate School at graduateschool@contacts.bham.ac.uk
 
-## Research Student Data
+## Research Poster Conference 2017 Form 
 
 Name*
 First Name*: Miguel   
@@ -83,3 +83,7 @@ summary is accepted for the Research Poster Conference, you will receive further
 instructions about producing and presenting your poster and we will be providing
 training sessions on 'Designing Effective Posters', 'Networking Skills' and
 'Public Engagement' to prepare you for the Conference.
+
+
+
+Powered by Formstack https://www.formstack.com/
