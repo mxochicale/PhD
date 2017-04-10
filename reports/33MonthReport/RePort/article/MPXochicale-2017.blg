@@ -1,0 +1,15 @@
+[1] Config.pm:354> INFO - This is Biber 2.7
+[1] Config.pm:357> INFO - Logfile is 'MPXochicale-2017.blg'
+[91] biber:303> INFO - === Mon Apr 10, 2017, 11:32:18
+[119] Biber.pm:359> INFO - Reading 'MPXochicale-2017.bcf'
+[221] Biber.pm:835> INFO - Found 1 citekeys in bib section 0
+[241] Biber.pm:3670> INFO - Processing section 0
+[258] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[258] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[263] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography.bib'
+[285] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[285] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[285] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[285] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[287] bbl.pm:608> INFO - Writing 'MPXochicale-2017.bbl' with encoding 'UTF-8'
+[288] bbl.pm:712> INFO - Output to MPXochicale-2017.bbl
