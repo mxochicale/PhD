@@ -1,0 +1,1777 @@
+%*****************************************************************************************
+%*********************************** References **************************************
+%*****************************************************************************************
+
+% ------------------------------------------------------------------------
+% BOOKS
+% ------------------------------------------------------------------------
+
+
+@BOOK{KS03,
+ author={Holger Kantz and Thomas Schereiber},
+ title={{Nonlinear} {Time Series} {Analysis}},
+ edition={Second},
+ publisher={Cambridge University Press},
+ year={2003},
+}
+
+@BOOK{AS92,
+ author={Ralph H. Abraham and Christopher D. Shaw},
+ title={{Dynamics} The Geometry of Behavior},
+ edition={Second},
+ publisher={Addison-Wesley},
+ year={1992},
+}
+
+@BOOK{SS09,
+ author={Christos H. Skiadas and Charilaos Skiadas},
+ title={{Chaotic} {Modeling} and {Simulation}. Analysis of Chaotic Models,
+ Attractors and Forms},
+ publisher={CRC Press},
+ year={2009},
+}
+
+@BOOK{Will97,
+ author={Garnett P. Williams},
+ title={{Chaos Theory} Tamed},
+ publisher={Joseph Henry Press},
+ year={1997},
+}
+
+@BOOK{Abar95,
+ author={Henry D. I. Abarbanel},
+ title={Analysis of Observed {Chaotic} Data},
+ publisher={Springer},
+ year={1995},
+}
+
+  @BOOK{FH99,
+ author={Sondra Horton Frealeigh and Penelope Hanstein},
+ title={Researching Dance. Evolving modes of inquiry},
+ publisher={University of Pittsburgh Press},
+ year={1999},
+}
+ 
+ 
+   @BOOK{S05,
+ author={Michael Small},
+ title={Applied Nonlinear Time Series Analysis: 
+ Applications in Physics, Physiology and Finance},
+ publisher={World Scientific},
+ year={2005},
+}
+ 
+
+ 
+@BOOK{Sutton2012,
+author = {Sutton, Charles},
+doi = {10.1561/2200000013},
+file = {:home/mapx/xfiles/phd/literature/books/crftut\_fnt.pdf:pdf},
+issn = {1935-8237},
+journal = {Foundations and Trends® in Machine Learning},
+mendeley-groups = {BOOKS},
+number = {4},
+pages = {267--373},
+title = {{An Introduction to Conditional Random Fields}},
+url = {http://www.nowpublishers.com/product.aspx?product=MAL\&doi=2200000013},
+volume = {4},
+year = {2012}
+}
+
+
+   
+% ------------------------------------------------------------------------
+% ARTICLES
+% ------------------------------------------------------------------------
+
+
+
+
+
+
+
+% Main Publications for the current research proposal-------------------------------------------------------------------
+
+@article{Basharat2009,
+author = {Basharat, Arslan and Shah, M},
+file = {:home/mapx/xfiles/phd/literature/arslan\_basharat/Basharat\_ICCV09.pdf:pdf},
+journal = {Computer Vision, 2009 IEEE 12th \ldots},
+mendeley-groups = {PhD},
+title = {{Time series prediction by chaotic modeling of nonlinear dynamical systems}},
+url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5459429},
+year = {2009}
+}
+
+
+@article{Ali2007,
+author = {Ali, Saad and Basharat, Arslan and Shah, Mubarak},
+doi = {10.1109/ICCV.2007.4409046},
+file = {:home/mapx/xfiles/phd/literature/saad\_ali/Ali, Basharat, Shah - 2007 - Chaotic Invariants for Human Action Recognition.pdf:pdf},
+isbn = {978-1-4244-1630-1},
+journal = {2007 IEEE 11th International Conference on Computer Vision},
+mendeley-groups = {PhD},
+pages = {1--8},
+publisher = {Ieee},
+title = {{Chaotic Invariants for Human Action Recognition}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4409046},
+year = {2007}
+}
+
+@article{J.FrankS.Mannor2010,
+author = {Frank, Jordan and Mannor, Shie and Precup, Doina},
+file = {:home/mapx/xfiles/phd/literature/jordan\_frank/JordanFrank, S. Mannor - 2010 - Activity and Gait Recognition with Time-Delay Embeddings Time-Delay Embeddings.pdf:pdf},
+title = {{Activity and Gait Recognition with Time-Delay Embeddings Time-Delay Embeddings}},
+year = {2010}
+}
+
+
+
+@article{Sama2010,
+abstract = {This paper presents an algorithm for the auto- matic estimation of spatio temporal gait properties from signals provided by inertial body sensors. The approach is based on time series analysis. Here, a minimum number of body sensor devices is used, which imposes limitations for the automatic extraction of relevant properties of the gait like step length and velocity. The human gait is represented as a dynamical system (DS), which internal states are hidden. Sensor information is interpreted as an observation of a particular trajectory of the DS, from wich a reconstruction space can be obtained. The reconstruction space is then transformed using standard principal components analysis (PCA). From the transformed space, reliable models to estimate step length and velocities are successfully constructed. I.},
+author = {Sam\`{a}, Albert and Pardo-Ayala, DE},
+file = {:home/mapx/xfiles/phd/literature/albert\_sama/2010\_TimeSeriesAnalysisOfInertial-bodySignalsForTheExtractionOfDynamicPropertiesFromHumanGait/Sama, Pardo-Ayala - 2010 - Time series analysis of inertial-body signals for the extraction of dynamic properties from human gait.pdf:pdf},
+isbn = {9781424481262},
+journal = {\ldots (IJCNN), The 2010 \ldots},
+mendeley-groups = {PhD},
+title = {{Time series analysis of inertial-body signals for the extraction of dynamic properties from human gait}},
+url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5596663},
+year = {2010}
+}
+@article{Sama2011,
+author = {Sam\`{a}, Albert and Ruiz, Francisco J and P\'{e}rez-l\'{o}pez, Carlos and Catal\`{a}, Andreu},
+file = {:home/mapx/xfiles/phd/literature/albert\_sama/2011\_GaitRecognitionbyUsingSpectrumAnalysisOnStateSpaceReconstruction.pdf:pdf},
+keywords = {gait recognition,inertial sensors,spectral methods},
+title = {{Gait recognition by using Spectrum Analysis on state space reconstruction}}
+}
+
+
+@article{Basharat2009,
+author = {Basharat, Arslan and Park, Clifton},
+file = {:home/mapx/Desktop/Basharat, Park - 2009 - Time Series Prediction by Chaotic Modeling of Nonlinear Dynamical Systems.pdf:pdf},
+isbn = {9781424444199},
+number = {Iccv},
+title = {{Time Series Prediction by Chaotic Modeling of Nonlinear Dynamical Systems}},
+year = {2009}
+}
+
+@article{Wang2008,
+author = {Wang, Jack M and Fleet, David J and Member, Senior and Hertzmann, Aaron},
+file = {:home/mapx/Desktop/GPDM-Pami08.pdf:pdf},
+number = {2},
+pages = {283--298},
+title = {{Gaussian Process Dynamical Models for Human Motion}},
+volume = {30},
+year = {2008}
+}
+
+
+
+@article{Wang2010,
+author = {Wang, Liang and Gu, Tao and Chen, Hanhua and Tao, Xianping and Lu, Jian},
+doi = {10.1109/RTCSA.2010.19},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/ActivityRecognition/Wang\_2010.pdf:pdf},
+isbn = {978-1-4244-8480-5},
+journal = {2010 IEEE 16th International Conference on Embedded and Real-Time Computing Systems and Applications},
+keywords = {-real-time activity recognition,gestures and high-,level activities,wireless body sensor networks},
+mendeley-groups = {ActivityRecognition},
+month = aug,
+pages = {43--52},
+publisher = {Ieee},
+title = {{Real-Time Activity Recognition in Wireless Body Sensor Networks: From Simple Gestures to Complex Activities}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5591285},
+year = {2010}
+}
+
+
+
+@article{Reddy2012,
+author = {Reddy, Kishore K. and Shah, Mubarak},
+doi = {10.1007/s00138-012-0450-4},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/ActivityRecognition/Reddy, Shah - 2012 - Recognizing 50 human action categories of web videos.pdf:pdf},
+issn = {0932-8092},
+journal = {Machine Vision and Applications},
+keywords = {action recognition,fusion,web videos},
+mendeley-groups = {video,ActivityRecognition},
+month = nov,
+number = {5},
+pages = {971--981},
+title = {{Recognizing 50 human action categories of web videos}},
+url = {http://link.springer.com/10.1007/s00138-012-0450-4},
+volume = {24},
+year = {2012}
+}
+
+
+@article{Kim2010,
+author = {Kim, Eunju and Helal, Sumi and Cook, Diane},
+doi = {10.1109/MPRV.2010.7},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/ActivityRecognition/pc10.pdf:pdf},
+issn = {1536-1268},
+journal = {Pervasive Computing, IEEE},
+mendeley-groups = {ActivityRecognition},
+month = jan,
+number = {1},
+pages = {48},
+pmid = {21258659},
+title = {{Human activity recognition and pattern discovery}},
+url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5370804},
+volume = {9},
+year = {2010}
+}
+
+
+
+
+
+
+
+@article{GrammerK.ElisabethOberzaucher2011,
+annote = {        LIMITATIONS AND SUGGESTIONS        
+      },
+author = {{Grammer K., Elisabeth Oberzaucher}, Iris Holzleitner and Silke Atmaca},
+file = {:home/mapx/xfiles/phd/literature/karl\_grammer/Grammer - 2011 - Dance the Human Body as a Dynamic Motion System.pdf:pdf},
+journal = {The Implications of \ldots},
+mendeley-groups = {PhD},
+pages = {173--192},
+title = {{Dance: the Human Body as a Dynamic Motion System}},
+url = {http://pubman.mpdl.mpg.de/pubman/item/escidoc:1101568:3/component/escidoc:1101567/04B\_oberzaucher\_grammer\_FINAL\_ROYAL.pdf},
+year = {2011}
+}
+
+
+@article{Sama2013,
+author = {Sam\`{a}, Albert and Ruiz, Francisco J. and Agell, N\'{u}ria and P\'{e}rez-L\'{o}pez, Carlos and Catal\`{a}, Andreu and Cabestany, Joan},
+doi = {10.1016/j.neucom.2012.12.042},
+file = {:home/mapx/xfiles/phd/literature/albert\_sama/gait\_identification\_2013/1-s2.0-S0925231213001781-main (1).pdf:pdf},
+issn = {09252312},
+journal = {Neurocomputing},
+keywords = {singular spectrum analysis},
+mendeley-groups = {PhD},
+month = dec,
+pages = {79--88},
+title = {{Gait identification by means of box approximation geometry of reconstructed attractors in latent space}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0925231213001781},
+volume = {121},
+year = {2013}
+}
+
+@article{Ali2007,
+author = {Ali, Saad and Basharat, Arslan and Shah, Mubarak},
+doi = {10.1109/ICCV.2007.4409046},
+file = {:home/mapx/xfiles/phd/literature/saad\_ali/Ali, Basharat, Shah - 2007 - Chaotic Invariants for Human Action Recognition.pdf:pdf},
+isbn = {978-1-4244-1630-1},
+journal = {2007 IEEE 11th International Conference on Computer Vision},
+mendeley-groups = {PhD},
+pages = {1--8},
+publisher = {Ieee},
+title = {{Chaotic Invariants for Human Action Recognition}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4409046},
+year = {2007}
+}
+
+
+
+@article{Suzuki2013,
+  title={Dexterity of Switched Hitting Movement Using Fractal Dimension Analysis},
+  author={Hiroo Suzuki and Yuji Yamamoto},
+  journal={Japanese Journal of Sport Psychology},
+  volume={40},
+  number={2},
+  pages={91-108},
+  year={2013},
+  doi={10.4146/jjspopsy.2013-1208}
+  url = {https://www.jstage.jst.go.jp/article/jjspopsy/40/2/40_2013-1208/_pdf},
+}
+
+@article{Yamamoto2000,
+author = {Yamamoto, Yuji and Gohara, Kazutoshi},
+doi = {10.1016/S0167-9457(00)00018-X},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/Yamamoto, Gohara - 2000 - Continuous hitting movements modeled from the perspective of dynamical systems with temporal input.pdf:pdf},
+issn = {01679457},
+journal = {Human Movement Science},
+keywords = {dynamical system,excited attractor,fractal transition,hierarchical structure,hitting movement},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = aug,
+number = {3},
+pages = {341--371},
+title = {{Continuous hitting movements modeled from the perspective of dynamical systems with temporal input}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S016794570000018X},
+volume = {19},
+year = {2000}
+}
+
+@article{aa1971,
+author = {Y. I. Abdel-Aziz andH. M. Karara},
+title = {Direct linear transformation from comparator coordinates into 
+object space coordinates in close-range photogrammetry},
+journal = {Proceedings of the Symposium on Close-Range photogrammetry},
+volume = {1},
+year = {1971}
+}
+
+@article{Nigg1994,
+author = {B. M. Nigg and G. K. Cole},
+title = {Optical methods},
+journal = {Biomechanics of the musculo-skeletal system},
+year = {1994}
+}
+
+
+@article{Akiduki2014,
+author = {Akiduki, Takuma and Zhang, Zhong and Imamura, Takashi and Takahashi, Hirotaka},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/ICICIC2013-SS11-02\_acr (1).pdf:pdf},
+keywords = {a fundamental approach with,a wide field of,analysis generally include the,and computer interfaces,applications,attractor,classification or characterization of,goals of human motion,human motion analysis,human motion analysis is,introduction,security monitoring,sports,such as medicine,the,time-series clustering},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+number = {2},
+pages = {1--6},
+title = {{Toward symbolization of human motion data –time-series clustering in symbol space–}},
+volume = {5},
+year = {2014}
+}
+
+@article{Akiduki2013,
+author = {Akiduki, Takuma and Zhang, Zhong and Imamura, Takashi and Miyake, Tetsuo and Takahashi, Hirataka and Namba, Michihiro},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/ICICEL\_Vol7No5\_2013\_acr.pdf:pdf},
+keywords = {1,a fundamental approach with,a wide field,and computer interfaces,attractor,human motion analysis is,introduction,motion analysis generally include,motion symbolization,of applications,security monitoring,sports,such as medicine,symbol space,the classification or characterization,the goals of human},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+number = {5},
+pages = {1475--1480},
+title = {{Toward Symbolization of Human Motion Data -- Statistical Analysis in Symbol Space --}},
+volume = {7},
+year = {2013}
+}
+
+
+@article{Okada2003,
+year={2003},
+isbn={978-3-540-00251-2},
+booktitle={Control Problems in Robotics},
+volume={4},
+series={Springer Tracts in Advanced Robotics},
+editor={Bicchi, Antonio and Prattichizzo, Domenico and Christensen, HenrikIskov},
+doi={10.1007/3-540-36224-X_6},
+title={Polynomial Design of Dynamics-based Information Processing System},
+url={http://dx.doi.org/10.1007/3-540-36224-X_6},
+publisher={Springer Berlin Heidelberg},
+author={Okada, Masafumi and Nakamura, Yoshihiko},
+pages={91-104},
+language={English}
+}
+
+
+
+
+
+% Chaos in Human Motion-------------------------------------------------------------------
+
+
+@article{Kurz2007,
+abstract = {BACKGROUND: Several investigations have suggested that changes in the nonlinear gait dynamics are related to the neural control of locomotion. However, no investigations have provided insight on how neural control of the locomotive pattern may be directly reflected in changes in the nonlinear gait dynamics. Our simulations with a passive dynamic walking model predicted that toe-off impulses that assist the forward motion of the center of mass influence the nonlinear gait dynamics. Here we tested this prediction in humans as they walked on the treadmill while the forward progression of the center of mass was assisted by a custom built mechanical horizontal actuator.
+
+METHODS: Nineteen participants walked for two minutes on a motorized treadmill as a horizontal actuator assisted the forward translation of the center of mass during the stance phase. All subjects walked at a self-select speed that had a medium-high velocity. The actuator provided assistive forces equal to 0, 3, 6 and 9 percent of the participant's body weight. The largest Lyapunov exponent, which measures the nonlinear structure, was calculated for the hip, knee and ankle joint time series. A repeated measures one-way analysis of variance with a t-test post hoc was used to determine significant differences in the nonlinear gait dynamics.
+
+RESULTS: The magnitude of the largest Lyapunov exponent systematically increased as the percent assistance provided by the mechanical actuator was increased.
+
+CONCLUSION: These results support our model's prediction that control of the forward progression of the center of mass influences the nonlinear gait dynamics. The inability to control the forward progression of the center of mass during the stance phase may be the reason the nonlinear gait dynamics are altered in pathological populations. However, these conclusions need to be further explored at a range of walking speeds.},
+author = {Kurz, Max J and Stergiou, Nicholas},
+doi = {10.1186/1743-0003-4-30},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/Kurz, Stergiou - 2007 - Do horizontal propulsive forces influence the nonlinear structure of locomotion.pdf:pdf},
+issn = {1743-0003},
+journal = {Journal of neuroengineering and rehabilitation},
+keywords = {Adult,Ankle Joint,Ankle Joint: physiology,Computer Simulation,Female,Gait,Gait: physiology,Humans,Knee Joint,Knee Joint: physiology,Male,Models, Biological,Nonlinear Dynamics,Physical Exertion,Physical Exertion: physiology,Stress, Mechanical,Walking,Walking: physiology,Weight-Bearing,Weight-Bearing: physiology},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = jan,
+pages = {30},
+pmid = {17697386},
+title = {{Do horizontal propulsive forces influence the nonlinear structure of locomotion?}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2000468\&tool=pmcentrez\&rendertype=abstract},
+volume = {4},
+year = {2007}
+}
+
+
+@article{Nikulchev2013,
+author = {Nikulchev, E V},
+file = {:home/mapx/xfiles/phd/literature/StateSpaceReconsctrution/1402.1467v1.pdf:pdf},
+keywords = {chaotic dynamics,symmetry},
+mendeley-groups = {StateSpaceReconstruction},
+number = {3},
+pages = {171--175},
+title = {{Reconstruction Models for Attractors in the Technical and Economic Processes}},
+volume = {6},
+year = {2013}
+}
+
+
+
+
+@article{Venkataraman2013,
+author = {Venkataraman, Vinay and Turaga, Pavan and Lehrer, Nicole and Baran, Michael and Rikakis, Thanassis and Wolf, Steven L.},
+doi = {10.1109/CVPRW.2013.82},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/AttractorShape.pdf:pdf},
+isbn = {978-0-7695-4990-3},
+journal = {2013 IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = jun,
+pages = {514--520},
+publisher = {Ieee},
+title = {{Attractor-Shape for Dynamical Analysis of Human Movement: Applications in Stroke Rehabilitation and Action Recognition}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6595922},
+year = {2013}
+}
+
+
+
+@article{Perc2005,
+author = {Perc, Matja\v{z}},
+doi = {10.1088/0143-0807/26/3/017},
+file = {:home/mapx/xfiles/phd/literature/matjaz\_perc/ref\_3\_saad\_ali\_2007\_EurJPhys\_26\_525.pdf:pdf},
+issn = {0143-0807},
+journal = {European Journal of Physics},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = may,
+number = {3},
+pages = {525--534},
+title = {{The dynamics of human gait}},
+url = {http://stacks.iop.org/0143-0807/26/i=3/a=017?key=crossref.9323de1262aee6b3c188e4cb3c1ffcd6},
+volume = {26},
+year = {2005}
+}
+
+
+@article{Osada2002,
+author = {Osada, Robert and Funkhouser, Thomas and Chazelle, Bernard and Dobkin, David},
+doi = {10.1145/571647.571648},
+file = {:home/mapx/xfiles/phd/literature/shape\_distributions/p807-osada.pdf:pdf},
+issn = {07300301},
+journal = {ACM Transactions on Graphics},
+mendeley-groups = {PhD},
+month = oct,
+number = {4},
+pages = {807--832},
+title = {{Shape distributions}},
+url = {http://web.eecs.umich.edu/~silvio/teaching/EECS598/papers/p807-osada.pdf},
+volume = {21},
+year = {2002}
+}
+
+
+
+
+% Approaches for human motion analysis-------------------------------------------------------------------
+
+%%%template matching
+@article{Nguyen2009,
+author = {Nguyen, Duc Thanh and Li, Wanqing and Ogunbona, Philip},
+doi = {10.1109/ICIP.2009.5413925},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/TemplateMatching/fulltext.pdf:pdf},
+isbn = {978-1-4244-5653-6},
+journal = {2009 16th IEEE International Conference on Image Processing (ICIP)},
+keywords = {detection,human,matching,method,novel,template},
+mendeley-groups = {HumanMotion},
+month = nov,
+pages = {2549--2552},
+publisher = {Ieee},
+title = {{A novel template matching method for human detection}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5413925},
+year = {2009}
+}
+@article{Lin2007,
+author = {Lin, Zhe and Davis, Larry S. and Doermann, David and DeMenthon, Daniel},
+doi = {10.1109/ICCV.2007.4408975},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/TemplateMatching/10.1.1.74.2898.pdf:pdf},
+isbn = {978-1-4244-1630-1},
+journal = {2007 IEEE 11th International Conference on Computer Vision},
+mendeley-groups = {HumanMotion},
+pages = {1--8},
+publisher = {Ieee},
+title = {{Hierarchical Part-Template Matching for Human Detection and Segmentation}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4408975},
+year = {2007}
+}
+
+
+%%%%%Dynamic Time Warping
+@article{Bautista2013,
+author = {Bautista, MA and Hern\'{a}ndez-Vela, A},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/DynamicTimeWarping/icprdepthdtwgmm.pdf:pdf},
+journal = {Advances in Depth \ldots},
+mendeley-groups = {HumanMotion},
+title = {{Probability-based dynamic time warping for gesture recognition on RGB-D data}},
+url = {http://link.springer.com/chapter/10.1007/978-3-642-40303-3\_14},
+year = {2013}
+}
+@misc{Boulgouris2004,
+author = {Boulgouris, Nikolaos V. and Plataniotis, Konstantinos N. and Hatzinakos, Dimitrios},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/DynamicTimeWarping/108.pdf:pdf},
+mendeley-groups = {HumanMotion},
+title = {{Gait Recognition Using Dynamic Time Warping}},
+year = {2004}
+}
+@article{Celebi2011,
+author = {Celebi, Sait and Aydin, Ali S and Temiz, Talha T and Arici, Tarik},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/DynamicTimeWarping/VISAPP2013.pdf:pdf},
+mendeley-groups = {HumanMotion},
+title = {{Gesture Recognition Using Skeleton Data with Weighted Dynamic Time Warping}},
+year = {2011}
+}
+
+
+%%%%%%%%%%%%Hidden Markov Model
+@article{Niu2004,
+author = {Niu, Wei and Long, Jiao and Han, Dan and Wang, YF},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/HMM/Niu et al. - 2004 - Human activity detection and recognition for video surveillance.pdf:pdf},
+journal = {Multimedia and Expo, 2004. \ldots},
+mendeley-groups = {HumanMotion\_HMM},
+pages = {2--5},
+title = {{Human activity detection and recognition for video surveillance}},
+url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=1394293},
+year = {2004}
+}
+
+
+@article{Chen2003,
+author = {Chen, Feng-Sheng and Fu, Chih-Ming and Huang, Chung-Lin},
+doi = {10.1016/S0262-8856(03)00070-2},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/HMM/Chen, Fu, Huang - 2003 - Hand gesture recognition using a real-time tracking method and hidden Markov models.pdf:pdf},
+issn = {02628856},
+journal = {Image and Vision Computing},
+keywords = {hand gesture recognition,hand tracking,hidden markov model},
+mendeley-groups = {HumanMotion,HumanMotion\_HMM},
+month = aug,
+number = {8},
+pages = {745--758},
+title = {{Hand gesture recognition using a real-time tracking method and hidden Markov models}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0262885603000702},
+volume = {21},
+year = {2003}
+}
+
+
+
+
+
+@article{Eickeler1998,
+author = {Eickeler, Stefan and Kosmala, Andreas and Rigoll, Gerhard},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/HMM/Eickeler, Kosmala, Rigoll - 1998 - Hidden markov model based continuous online gesture recognition.pdf:pdf},
+journal = {Pattern Recognition, 1998. \ldots},
+mendeley-groups = {HumanMotion,HumanMotion\_HMM},
+title = {{Hidden markov model based continuous online gesture recognition}},
+url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=711914},
+year = {1998}
+}
+
+
+@article{Bernardin2003,
+author = {Bernardin, Keni and Ogawara, Koichi and Ikeuchi, Katsushi and Dillmann, Ruediger},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/HMM/Bernardin et al. - 2003 - A Hidden Markov Model Based Sensor Fusion Approach for Recognizing Continuous Human Grasping Sequences.pdf:pdf},
+mendeley-groups = {HumanMotion,HumanMotion\_HMM},
+title = {{A Hidden Markov Model Based Sensor Fusion Approach for Recognizing Continuous Human Grasping Sequences}},
+year = {2003}
+}
+
+
+@article{Chang2000,
+author = {Chang, Cheng and Huang, Chung-lin},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/HMM/Chang, Huang - 2000 - The model-based human body motion analysis system.pdf:pdf},
+isbn = {8863571597},
+keywords = {body signature,motion characteristics curves,posture graph,posture transition path},
+mendeley-groups = {HumanMotion\_HMM},
+pages = {1067--1083},
+title = {{The model-based human body motion analysis system}},
+volume = {18},
+year = {2000}
+}
+
+
+
+
+%%Dynamic Bayesian Networks
+@article{Cuaya2013,
+abstract = {Pathological and age-related changes may affect an individual's gait, in turn raising the risk of falls. In elderly, falls are common and may eventuate in severe injuries, long-term disabilities, and even death. Thus, there is interest in estimating the risk of falls from gait analysis. Estimation of the risk of falls requires consideration of the longitudinal evolution of different variables derived from human gait. Bayesian networks are probabilistic models which graphically express dependencies among variables. Dynamic Bayesian networks (DBNs) are a type of BN adequate for modeling the dynamics of the statistical dependencies in a set of variables. In this work, a DBN model incorporates gait derived variables to predict the risk of falls in elderly within 6 months subsequent to gait assessment. Two DBNs were developed; the first (DBN1; expert-guided) was built using gait variables identified by domain experts, whereas the second (DBN2; strictly computational) was constructed utilizing gait 
+variables picked out by a feature selection algorithm. The effectiveness of the second model to predict falls in the 6 months following assessment is 72.22\%. These results are encouraging and supply evidence regarding the usefulness of dynamic probabilistic models in the prediction of falls from pathological gait.},
+author = {Cuaya, German and Mu\~{n}oz-Mel\'{e}ndez, Ang\'{e}lica and {Nu\~{n}ez Carrera}, Lidia and Morales, Eduardo F and Qui\~{n}ones, Ivett and P\'{e}rez, Alberto I and Alessi, Aldo},
+doi = {10.1007/s11517-012-0960-2},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/DynamicBayesianNetwork/German.pdf:pdf},
+issn = {1741-0444},
+journal = {Medical \& biological engineering \& computing},
+keywords = {Accidental Falls,Aged,Bayes Theorem,Female,Gait,Gait: physiology,Humans,Models, Biological,Probability,Prognosis,Risk Factors,Spatio-Temporal Analysis},
+mendeley-groups = {HumanMotion},
+month = feb,
+number = {1-2},
+pages = {29--37},
+pmid = {23065654},
+title = {{A dynamic Bayesian network for estimating the risk of falls from real gait data.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/23065654},
+volume = {51},
+year = {2013}
+}
+@article{Wang2014,
+author = {Wang, Xiaoyang and Ji, Qiang},
+doi = {10.1016/j.patrec.2013.07.015},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/DynamicBayesianNetwork/context\_prl.pdf:pdf},
+issn = {01678655},
+journal = {Pattern Recognition Letters},
+mendeley-groups = {HumanMotion},
+month = jul,
+pages = {62--70},
+publisher = {Elsevier B.V.},
+title = {{Context augmented Dynamic Bayesian Networks for event recognition}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0167865513002882},
+volume = {43},
+year = {2014}
+}
+
+
+
+%%%Neural Networks
+@article{Rosenblum1994,
+author = {Rosenblum, Mark and Davis, Larry S},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/NeuralNetworks/CS-TR-3304.pdf:pdf},
+mendeley-groups = {HumanMotion},
+number = {8459},
+title = {{Human Emotion Recognition from Motion Using a Radial Basis Function Network Architecture 1 Introduction Recent research in computer vision}},
+year = {1994}
+}
+@article{Ji2013,
+abstract = {We consider the automated recognition of human actions in surveillance videos. Most current methods build classifiers based on complex handcrafted features computed from the raw inputs. Convolutional neural networks (CNNs) are a type of deep model that can act directly on the raw inputs. However, such models are currently limited to handling 2D inputs. In this paper, we develop a novel 3D CNN model for action recognition. This model extracts features from both the spatial and the temporal dimensions by performing 3D convolutions, thereby capturing the motion information encoded in multiple adjacent frames. The developed model generates multiple channels of information from the input frames, and the final feature representation combines information from all channels. To further boost the performance, we propose regularizing the outputs with high-level features and combining the predictions of a variety of different models. We apply the developed models to recognize human actions in the real-world 
+environment of airport surveillance videos, and they achieve superior performance in comparison to baseline methods.},
+author = {Ji, Shuiwang and Yang, Ming and Yu, Kai},
+doi = {10.1109/TPAMI.2012.59},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/NeuralNetworks/icml2010\_JiXYY10.pdf:pdf},
+issn = {1939-3539},
+journal = {IEEE transactions on pattern analysis and machine intelligence},
+keywords = {Algorithms,Decision Support Techniques,Image Interpretation, Computer-Assisted,Image Interpretation, Computer-Assisted: methods,Imaging, Three-Dimensional,Imaging, Three-Dimensional: methods,Movement,Movement: physiology,Neural Networks (Computer),Pattern Recognition, Automated,Pattern Recognition, Automated: methods,Subtraction Technique},
+mendeley-groups = {HumanMotion},
+month = jan,
+number = {1},
+pages = {221--31},
+pmid = {22392705},
+title = {{3D convolutional neural networks for human action recognition.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/22392705},
+volume = {35},
+year = {2013}
+}
+@article{Modi2011,
+author = {Modi, Rachana V},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/NeuralNetworks/pxc3874110.pdf:pdf},
+mendeley-groups = {HumanMotion},
+number = {6},
+pages = {43--47},
+title = {{Neural Network based Approach for Recognition Human Motion using Stationary Camera}},
+volume = {25},
+year = {2011}
+}
+@article{Boesnach2004,
+author = {Boesnach, I. and Moldenhauer, J. and Burgmer, C. and Beth, T. and Wank, V. and Bos, K.},
+doi = {10.1109/ICCIS.2004.1460721},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/NeuralNetworks/580\_Boesnach\_CIS04.pdf:pdf},
+isbn = {0-7803-8643-4},
+journal = {IEEE Conference on Cybernetics and Intelligent Systems, 2004.},
+keywords = {classification,hidden Markov models,hidden markov models,human motion,institute for sports and,klaus b\"{o}s,motion phases,neural networks,sports science,veit wank},
+mendeley-groups = {HumanMotion},
+pages = {976--981},
+publisher = {Ieee},
+title = {{Classification of phases in human motions by neural networks and hidden Markov models}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1460721},
+volume = {2},
+year = {2004}
+}
+
+
+%%%Emerging Patterns
+
+
+@article{Tao2009,
+author = {Gu, Tao and Wu, Zhanqing and Tao, Xianping and Pung, Hung Keng and Lu, Jian},
+doi = {10.1109/PERCOM.2009.4912776},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/ActivityRecognition/Gu et al. - 2009 - epSICAR An Emerging Patterns based approach to sequential, interleaved and Concurrent Activity Recognition.pdf:pdf},
+isbn = {9781424433049},
+journal = {2009 IEEE International Conference on Pervasive Computing and Communications},
+keywords = {- activity recognition,emerging patterns,interleaved and concurrent activities,sequential,wireless sensor networks},
+mendeley-groups = {HumanMotion,ActivityRecognition},
+month = mar,
+pages = {1--9},
+publisher = {Ieee},
+title = {{epSICAR: An Emerging Patterns based approach to sequential, interleaved and Concurrent Activity Recognition}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4912776},
+year = {2009}
+}
+
+
+
+
+% DYNAMICAL MODELS-------------------------------------------------------------------
+
+@article{Beek1995,
+author = {Beek, P.J. and C.E., Peper and D.F., Stegeman},
+file = {:home/mapx/xfiles/phd/literature/suggested\_articles\_by\_baber/DynamicModelsOfMovementCoordination/00\_BeekSysDy.pdf:pdf},
+mendeley-groups = {PhD},
+number = {95},
+title = {{Dynamical Models of Movement Coordination}},
+volume = {9457},
+year = {1995}
+}
+
+
+
+
+
+
+% Human Motion--------------------------------------------------------------------
+
+
+@article{Aggarwal2011,
+author = {Aggarwal, J. K. and Ryoo, M. S.},
+journal = {ACM Computing Surveys (CSUR)},
+mendeley-groups = {PhD},
+title = {{Human activity analysis: A review}},
+url = {http://dl.acm.org/citation.cfm?id=1922653},
+year = {2011}
+}
+
+
+
+@article{Aggarwal2004,
+author = {Aggarwal, J.K. and Park, Sangho},
+doi = {10.1109/TDPVT.2004.1335299},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/10.1.1.335.7854.pdf:pdf},
+isbn = {0-7695-2223-8},
+journal = {Proceedings. 2nd International Symposium on 3D Data Processing, Visualization and Transmission, 2004. 3DPVT 2004.},
+mendeley-groups = {HumanMotion},
+pages = {640--647},
+publisher = {Ieee},
+title = {{Human motion: modeling and recognition of actions and interactions}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1335299},
+year = {2004}
+}
+
+@UNPUBLISHED{Aggarwal2006,
+ author={J. K. Aggarwal},
+ title={Human Activity Recognition - A Grand Challenge.},
+ note={Talk at ICEIS 2006},
+ url = {http://www.iceis.org/Documents/Previous_Invited_Speakers/2006/ICEIS2006_Aggarwal.pdf},
+ year={2006},
+}
+
+
+ 
+% video-sensor based --------------------------------------------------------------------
+
+@article{Forsyth2005,
+author = {Forsyth, David a. and Arikan, Okan and Ikemoto, Leslie and O'Brien, James and Ramanan, Deva},
+doi = {10.1561/0600000005},
+issn = {1572-2740},
+journal = {Foundations and Trends® in Computer Graphics and Vision},
+number = {2/3},
+pages = {77--254},
+title = {{Computational Studies of Human Motion: Part 1, Tracking and Motion Synthesis}},
+url = {http://www.nowpublishers.com/product.aspx?product=CGV\&doi=0600000005},
+volume = {1},
+year = {2005}
+}
+
+
+@article{Reddy2012,
+author = {Reddy, Kishore K. and Shah, Mubarak},
+doi = {10.1007/s00138-012-0450-4},
+file = {:home/mapx/xfiles/phd/literature/video/MVAP\_UCF50.pdf:pdf},
+issn = {0932-8092},
+journal = {Machine Vision and Applications},
+keywords = {action recognition,fusion,web videos},
+mendeley-groups = {video},
+month = nov,
+number = {5},
+pages = {971--981},
+title = {{Recognizing 50 human action categories of web videos}},
+url = {http://link.springer.com/10.1007/s00138-012-0450-4},
+volume = {24},
+year = {2012}
+}
+
+
+@article{Wang2006,
+author = {Wang, Sy Bor and Quattoni, Ariadna and Morency, Louis-Philippe and Demirdjian, David and Darrell, Trevor},
+doi = {10.1109/CVPR.2006.132},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/CRF/Wang et al. - 2006 - Hidden Conditional Random Fields for Gesture Recognition.pdf:pdf},
+isbn = {0-7695-2597-0},
+journal = {2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 (CVPR'06)},
+mendeley-groups = {HumanMotion\_CRF},
+pages = {1521--1527},
+publisher = {Ieee},
+title = {{Hidden Conditional Random Fields for Gesture Recognition}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1640937},
+volume = {2},
+year = {2006}
+}
+
+@article{Kim2011,
+author = {Kim, DoHyung and Lee, Jaeyeon and Yoon, Ho-Sub and Kim, Jaehong and Sohn, Joochan},
+doi = {10.1007/s11227-010-0541-9},
+file = {:home/mapx/xfiles/phd/literature/video/Vision-based arm gesture recognition for a long-range.pdf:pdf},
+issn = {0920-8542},
+journal = {The Journal of Supercomputing},
+keywords = {face detection,gesture recognition,long-range human,omega shape detection,robot interaction},
+mendeley-groups = {video},
+month = jan,
+number = {1},
+pages = {336--352},
+title = {{Vision-based arm gesture recognition for a long-range human–robot interaction}},
+url = {http://link.springer.com/10.1007/s11227-010-0541-9},
+volume = {65},
+year = {2011}
+}
+
+@article{Duric2002,
+author = {Duric, Z. and Li, F. and Wechsler, H.},
+doi = {10.1109/AFGR.2002.1004178},
+file = {:home/mapx/xfiles/phd/literature/video/FGR-2002.pdf:pdf},
+isbn = {0-7695-1602-5},
+journal = {Proceedings of Fifth IEEE International Conference on Automatic Face Gesture Recognition},
+mendeley-groups = {video},
+pages = {348--353},
+publisher = {Ieee},
+title = {{Recognition of arm movements}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1004178},
+year = {2002}
+}
+
+@article{Oikonomidis2012,
+author = {Oikonomidis, I. and Kyriazis, N. and Argyros, a. a.},
+doi = {10.1109/CVPR.2012.6247885},
+file = {:home/mapx/xfiles/phd/literature/video/2012\_06\_cvpr\_twohands.pdf:pdf},
+isbn = {978-1-4673-1228-8},
+journal = {2012 IEEE Conference on Computer Vision and Pattern Recognition},
+mendeley-groups = {video},
+month = jun,
+pages = {1862--1869},
+publisher = {Ieee},
+title = {{Tracking the articulated motion of two strongly interacting hands}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6247885},
+year = {2012}
+}
+
+
+ 
+% floor-sensor based --------------------------------------------------------------------
+  
+@article{Paradiso1997,
+author = {Paradiso, Joseph and Reynolds, Matthew},
+file = {:home/mapx/xfiles/phd/literature/floor/10.1.1.29.3106.pdf:pdf},
+keywords = {and hand motion,body motion,data would be used,immersive,measured together with upper-body,musical environment,tetherless,this,to create a truly,where any kind of},
+mendeley-groups = {floor-sensed},
+title = {{The Magic Carpet : Physical Sensing for Immersive Environments}},
+year = {1997}
+}
+
+   
+@article{Aguilar2007,
+author = {Aguilar, RN and Roelofsz, M and Meijer, GCM},
+file = {:home/mapx/xfiles/phd/literature/floor/APPUTI07.pdf:pdf},
+journal = {smartec-sensors.com},
+mendeley-groups = {floor-sensed},
+pages = {1--9},
+title = {{Capacitive Human-detection Systems with Auto-calibration}},
+url = {http://www.smartec-sensors.com/assets/files/pdf/application\_notes/APPUTI07.pdf},
+year = {2007}
+}
+
+
+@article{Wimmer2011,
+author = {Wimmer, Raphael},
+file = {:home/mapx/xfiles/phd/literature/floor/wimmer2011WBIchapter.pdf:pdf},
+journal = {Whole Body Interaction},
+mendeley-groups = {floor-sensed},
+title = {{Capacitive sensors for whole body interaction}},
+url = {http://link.springer.com/chapter/10.1007/978-0-85729-433-3\_10},
+year = {2011}
+}
+
+
+@article{Yin2003,
+author = {Yin, KK and Pai, DK},
+file = {:home/mapx/xfiles/phd/literature/floor/10.1.1.89.665.pdf:pdf},
+journal = {\ldots /Eurographics symposium on Computer animation},
+mendeley-groups = {floor-sensed},
+title = {{Footsee: an interactive animation system}},
+url = {http://dl.acm.org/citation.cfm?id=846323},
+year = {2003}
+}
+
+@article{Moere2004,
+author = {Moere, Andrew Vande and Beilharz, Kirsty},
+file = {:home/mapx/xfiles/phd/literature/floor/anzasca04.pdf:pdf},
+journal = {\ldots of the Australian \& New Zealand \ldots},
+keywords = {education,interaction design,sensate space,sonification,visualization},
+mendeley-groups = {floor-sensed},
+title = {{infosense: Interaction Design for Sensate Spaces}},
+url = {https://lirias.kuleuven.be/handle/123456789/260082},
+year = {2004}
+}
+
+
+
+@article{Richardson2004,
+author = {Richardson, Bruce and Leydon, Krispin and Fernstr\"{o}m, Mikael and Paradiso, Joseph A},
+file = {:home/mapx/xfiles/phd/literature/floor/10.1.1.68.2026.pdf:pdf},
+isbn = {1581137036},
+mendeley-groups = {floor-sensed},
+pages = {1529--1532},
+title = {{Z-Tiles : Building Blocks for Modular , Pressure-Sensing Floorspaces}},
+year = {2004}
+}
+
+
+
+
+@article{Srinivasan2005,
+address = {New York, New York, USA},
+author = {Srinivasan, Prashant and Birchfield, David and Qian, Gang and Kidan\'{e}, Assegid},
+doi = {10.1145/1178477.1178526},
+file = {:home/mapx/xfiles/phd/literature/floor/10.1.1.87.2455.pdf:pdf},
+isbn = {1595931104},
+journal = {Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology - ACE '05},
+mendeley-groups = {floor-sensed},
+pages = {278--281},
+publisher = {ACM Press},
+title = {{A pressure sensing floor for interactive media applications}},
+url = {http://portal.acm.org/citation.cfm?doid=1178477.1178526},
+year = {2005}
+}
+
+
+@article{Rangarajan2008,
+author = {Rangarajan, S and Kidan\'{e}, A},
+file = {:home/mapx/xfiles/phd/literature/floor/InTech-Design\_optimization\_of\_pressure\_sensing\_floor\_for\_multimodal\_human\_computer\_interaction.pdf:pdf},
+journal = {\ldots Computer Interaction, I- \ldots},
+mendeley-groups = {floor-sensed},
+title = {{Design optimization of pressure sensing floor for multimodal human-computer interaction}},
+url = {http://cdn.intechopen.com/pdfs/5719/InTech-Design\_optimization\_of\_pressure\_sensing\_floor\_for\_multimodal\_human\_computer\_interaction.pdf},
+year = {2008}
+}
+
+
+@article{Steinhage2008,
+author = {Steinhage, Axel and Lauterbach, Christl},
+file = {:home/mapx/xfiles/phd/literature/floor/10.1.1.142.6424.pdf:pdf},
+journal = {BMI},
+mendeley-groups = {floor-sensed},
+pages = {15--27},
+title = {{Monitoring Movement Behavior by Means of a Large Area Proximity Sensor Array in the Floor.}},
+url = {http://ceur-ws.org/Vol-396/paper02steinhage.pdf},
+year = {2008}
+}
+
+
+
+
+@article{Rajalingham2010,
+author = {Rajalingham, Rishi and Visell, Yon and Cooperstock, Jeremy R.},
+doi = {10.1109/CRV.2010.26},
+file = {:home/mapx/xfiles/phd/literature/floor/2010-CRV.pdf:pdf},
+isbn = {978-1-4244-6963-5},
+journal = {2010 Canadian Conference on Computer and Robot Vision},
+mendeley-groups = {floor-sensed},
+pages = {143--150},
+publisher = {Ieee},
+title = {{Probabilistic Tracking of Pedestrian Movements via In-Floor Force Sensing}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5479476},
+year = {2010}
+}
+
+
+
+@article{Visell2010,
+author = {Visell, Yon and Smith, Severin and Law, Alvin and Rajalingham, Rishi and Cooperstock, Jeremy R.},
+doi = {10.1109/3DUI.2010.5444718},
+file = {:home/mapx/xfiles/phd/literature/floor/Ieee3dui2010-TN.pdf:pdf},
+isbn = {978-1-4244-6846-1},
+journal = {2010 IEEE Symposium on 3D User Interfaces (3DUI)},
+keywords = {foot interaction,multimodal display},
+mendeley-groups = {floor-sensed},
+month = mar,
+number = {1},
+pages = {75--78},
+publisher = {Ieee},
+title = {{Contact sensing and interaction techniques for a distributed, multimodal floor display}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5444718},
+year = {2010}
+}
+
+
+% foot-sensed ------------------------------------------------------------------------
+
+
+@article{Razak2012,
+abstract = {Foot plantar pressure is the pressure field that acts between the foot and the support surface during everyday locomotor activities. Information derived from such pressure measures is important in gait and posture research for diagnosing lower limb problems, footwear design, sport biomechanics, injury prevention and other applications. This paper reviews foot plantar sensors characteristics as reported in the literature in addition to foot plantar pressure measurement systems applied to a variety of research problems. Strengths and limitations of current systems are discussed and a wireless foot plantar pressure system is proposed suitable for measuring high pressure distributions under the foot with high accuracy and reliability. The novel system is based on highly linear pressure sensors with no hysteresis.},
+author = {Razak, Abdul Hadi Abdul and Zayegh, Aladin and Begg, Rezaul K and Wahab, Yufridin},
+doi = {10.3390/s120709884},
+issn = {1424-8220},
+journal = {Sensors (Basel, Switzerland)},
+mendeley-groups = {foot-sensed},
+month = jan,
+number = {7},
+pages = {9884--912},
+pmid = {23012576},
+title = {{Foot plantar pressure measurement system: a review.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3444133\&tool=pmcentrez\&rendertype=abstract},
+volume = {12},
+year = {2012}
+}
+
+
+
+
+@article{Bamberg2008,
+abstract = {We describe a wireless wearable system that was developed to provide quantitative gait analysis outside the confines of the traditional motion laboratory. The sensor suite includes three orthogonal accelerometers, three orthogonal gyroscopes, four force sensors, two bidirectional bend sensors, two dynamic pressure sensors, as well as electric field height sensors. The "GaitShoe" was built to be worn in any shoe, without interfering with gait and was designed to collect data unobtrusively, in any environment, and over long periods. The calibrated sensor outputs were analyzed and validated with results obtained simultaneously from the Massachusetts General Hospital, Biomotion Laboratory. The GaitShoe proved highly capable of detecting heel-strike and toe-off, as well as estimating foot orientation and position, inter alia.},
+author = {Bamberg, Stacy J Morris and Benbasat, Ari Y and Scarborough, Donna Moxley and Krebs, David E and Paradiso, Joseph a},
+doi = {10.1109/TITB.2007.899493},
+file = {:home/mapx/xfiles/phd/literature/foot/Bamberg et al. - 2008 - Gait analysis using a shoe-integrated wireless sensor system.pdf:pdf},
+issn = {1558-0032},
+journal = {IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society},
+keywords = {Equipment Design,Equipment Failure Analysis,Gait,Gait: physiology,Humans,Manometry,Manometry: instrumentation,Monitoring, Ambulatory,Monitoring, Ambulatory: instrumentation,Shoes,Systems Integration,Telemetry,Telemetry: instrumentation},
+mendeley-groups = {foot-sensed},
+month = jul,
+number = {4},
+pages = {413--23},
+pmid = {18632321},
+title = {{Gait analysis using a shoe-integrated wireless sensor system.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/18632321},
+volume = {12},
+year = {2008}
+}
+
+
+
+@article{Benocci2009,
+author = {Benocci, Marco and {Rocchi, Laura, Elisabetta Farella, Lorenzo Chiari}, Luca Benini},
+doi = {10.4108/ICST.PERVASIVEHEALTH2009.6032},
+file = {:home/mapx/xfiles/phd/literature/foot/Benocci, Rocchi, Laura, Elisabetta Farella, Lorenzo Chiari - 2009 - A wireless system for gait and posture analysis based on pressure in.pdf:pdf},
+journal = {\ldots for Healthcare, 2009. \ldots},
+keywords = {gait analysis,pressure,wireless sensor networks},
+mendeley-groups = {foot-sensed},
+publisher = {Icst},
+title = {{A wireless system for gait and posture analysis based on pressure insoles and Inertial Measurement Units}},
+url = {http://eudl.eu/doi/10.4108/ICST.PERVASIVEHEALTH2009.6032 http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5191186},
+year = {2009}
+}
+
+
+
+@article{Holleczek2010,
+author = {Holleczek, Thomas and {Ruegg, A, Holger Harms}, Gerhard Troster},
+file = {:home/mapx/xfiles/phd/literature/foot/Holleczek, Ruegg, A, Holger Harms - 2010 - Textile pressure sensors for sports applications.pdf:pdf},
+journal = {Sensors, 2010 IEEE},
+mendeley-groups = {foot-sensed},
+title = {{Textile pressure sensors for sports applications}},
+url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5690041},
+year = {2010}
+}
+
+
+@article{Xu2012,
+author = {Xu, Wenyao and Liu, Jason J},
+file = {:home/mapx/xfiles/phd/literature/foot/Xu, Liu - 2012 - Smart Insole A Wearable System for Gait Analysis.pdf:pdf},
+isbn = {9781450313001},
+mendeley-groups = {foot-sensed},
+pages = {1--4},
+title = {{Smart Insole : A Wearable System for Gait Analysis}},
+year = {2012}
+}
+
+
+
+% wireless sensors ------------------------------------------------------------------------
+
+
+@article{Lara2013,
+author = {O. D. Lara  and M. A. Labrador},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/ActivityRecognition/06365160.pdf:pdf},
+mendeley-groups = {ActivityRecognition},
+number = {3},
+pages = {1192--1209},
+title = {{A Survey on Human Activity Recognition using}},
+volume = {15},
+year = {2013},
+url = {http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6365160}
+}
+
+
+
+
+
+
+
+
+
+
+% HRI ------------------------------------------------------------------------
+
+@article{Mccoll2013,
+author = {Mccoll, Derek and Nejat, Goldie},
+doi = {10.5898/JHRI.2.1.McColl},
+file = {:home/mapx/Desktop/HRI/100-965-1-PB.pdf:pdf},
+journal = {Journal of Human-Robot Interaction},
+keywords = {human-robot interaction,meal-time assistant,older adults,robot acceptance,socially assistive robot,user engagement and compliance},
+mendeley-groups = {PhD},
+number = {1},
+pages = {152--171},
+title = {{Meal - Time with a Socially Assistive Robot and Older Adults at a Long - term Care Facility}},
+volume = {2},
+year = {2013}
+}
+@article{Kondo2013,
+author = {Kondo, Yutaka and Takemura, Kentaro and Takamatsu, Jun and Ogasawara, Tsukasa},
+doi = {10.5898/JHRI.2.1.Kondo},
+file = {:home/mapx/Desktop/HRI/Kondo-et-al-Gesture-Centered-Android-JHRI-2013.pdf:pdf},
+issn = {21630364},
+journal = {Journal of Human-Robot Interaction},
+keywords = {android,body gesture,facial expression,human-robot interaction,multi-party},
+mendeley-groups = {PhD},
+month = mar,
+number = {1},
+pages = {133--151},
+title = {{A Gesture-Centric Android System for Multi-Party Human-Robot Interaction}},
+url = {http://www.humanrobotinteraction.org/journal/index.php/HRI/article/view/105},
+volume = {2},
+year = {2013}
+}
+@article{Strabala2013,
+author = {Strabala, Kyle and Lee, Min Kyung and Dragan, Anca and Forlizzi, Jodi and Srinivasa, Siddhartha S and Garage, Willow},
+file = {:home/mapx/Desktop/HRI/Towards Seamless Human-Robot Handovers.pdf:pdf},
+journal = {Journal of Human-Robot Interaction},
+keywords = {handover,joint activity,physical human-robot interaction,signaling},
+mendeley-groups = {PhD},
+number = {1},
+pages = {1--23},
+title = {{Towards Seamless Human-Robot Handovers}},
+volume = {1},
+year = {2013}
+}
+@article{Leite2013,
+author = {Leite, Iolanda and Henriques, Rui and Martinho, Carlos and Paiva, Ana},
+file = {:home/mapx/Desktop/HRI/SensorsInTheWild (IolandaLeite, RuiHenriques and AnaPaiva).pdf:pdf},
+journal = {Journal of Human-Robot Interaction},
+mendeley-groups = {PhD},
+title = {{Sensors in the Wild : Exploring Electrodermal Activity in Child-Robot Interaction}},
+year = {2013}
+}
+
+   
+   
+   
+@article{takens1981,
+year={1981},
+isbn={978-3-540-11171-9},
+booktitle={Dynamical Systems and Turbulence, Warwick 1980},
+volume={898},
+series={Lecture Notes in Mathematics},
+editor={Rand, David and Young, Lai-Sang},
+doi={10.1007/BFb0091924},
+title={Detecting strange attractors in turbulence},
+url={http://dx.doi.org/10.1007/BFb0091924},
+publisher={Springer Berlin Heidelberg},
+author={Takens, Floris},
+pages={366-381}
+}
+   
+ 
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+
+% ------------------------------------------------------------------------
+% THESIS
+% ------------------------------------------------------------------------
+
+@MASTERSTHESIS{Sim90,
+ author={A. Simoni\v{c}},
+ title={Grupe Operatorjev s Pozitivnim Spektrom},
+ school={Univerza v Ljubljani, FNT, Oddelek za Matematiko},
+ year={1990},
+}
+
+
+
+
+@PHDTHESIS{Sim94,
+ author={A. Simoni\v{c}},
+ title={An {Extension} of {Lomonosov's} {Techniques} to {Non}-{Compact}
+       {Operators}},
+ school={Dalhousie University,
+         Department of Mathematics, Statistics, \& Computing Science},
+ year={1994},
+}
+
+   
+% ------------------------------------------------------------------------
+% UNPUBLISHED
+% ------------------------------------------------------------------------
+
+
+
+@MISC{prime-number-theorem,
+   author = "Charles Louis Xavier Joseph de la Vall{\'e}e Poussin",
+   note = "A strong form of the prime number theorem, 19th century" }
+
+
+
+@UNPUBLISHED{Sim91,
+ author={A. Simoni\v{c}},
+ title={Notes on {Subharmonic} {Functions}},
+ note={Lecture Notes, Dalhousie University,
+       Department of Mathematics, Statistics, \& Computing Science},
+ year={1991},
+}
+
+
+
+
+
+% Clinical Applications of Chaos Theory ------------------------------------------------------------------------
+
+
+
+@article{Ijspeert2013,
+abstract = {Nonlinear dynamical systems have been used in many disciplines to model complex behaviors, including biological motor control, robotics, perception, economics, traffic prediction, and neuroscience. While often the unexpected emergent behavior of nonlinear systems is the focus of investigations, it is of equal importance to create goal-directed behavior (e.g., stable locomotion from a system of coupled oscillators under perceptual guidance). Modeling goal-directed behavior with nonlinear systems is, however, rather difficult due to the parameter sensitivity of these systems, their complex phase transitions in response to subtle parameter changes, and the difficulty of analyzing and predicting their long-term behavior; intuition and time-consuming parameter tuning play a major role. This letter presents and reviews dynamical movement primitives, a line of research for modeling attractor behaviors of autonomous nonlinear dynamical systems with the help of statistical learning techniques. The essence 
+of our approach is to start with a simple dynamical system, such as a set of linear differential equations, and transform those into a weakly nonlinear system with prescribed attractor dynamics by means of a learnable autonomous forcing term. Both point attractors and limit cycle attractors of almost arbitrary complexity can be generated. We explain the design principle of our approach and evaluate its properties in several example applications in motor control and robotics.},
+author = {Ijspeert, Auke Jan and Nakanishi, Jun and Hoffmann, Heiko and Pastor, Peter and Schaal, Stefan},
+doi = {10.1162/NECO\_a\_00393},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/NECO\_a\_00393.pdf:pdf},
+issn = {1530-888X},
+journal = {Neural computation},
+keywords = {Animals,Artificial Intelligence,Humans,Models, Theoretical,Movement,Nonlinear Dynamics,Robotics},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = feb,
+number = {2},
+pages = {328--73},
+pmid = {23148415},
+title = {{Dynamical movement primitives: learning attractor models for motor behaviors.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/23148415},
+volume = {25},
+year = {2013}
+}
+
+
+
+@article{Vieten2013,
+abstract = {In this paper we introduce a new method to expressly use live/corporeal data in quantifying differences of time series data with an underlying limit cycle attractor; and apply it using an example of gait data. Our intention is to identify gait pattern differences between diverse situations and classify them on group and individual subject levels. First we approximated the limit cycle attractors, from which three measures were calculated: $\delta$M amounts to the difference between two attractors (a measure for the differences of two movements), $\delta$D computes the difference between the two associated deviations of the state vector away from the attractor (a measure for the change in movement variation), and $\delta$F, a combination of the previous two, is an index of the change. As an application we quantified these measures for walking on a treadmill under three different conditions: normal walking, dual task walking, and walking with additional weights at the ankle. The new method was able 
+to successfully differentiate between the three walking conditions. Day to day repeatability, studied with repeated trials approximately one week apart, indicated excellent reliability for $\delta$M (ICC(ave) > 0.73 with no differences across days; p > 0.05) and good reliability for $\delta$D (ICC(ave) = 0.414 to 0.610 with no differences across days; p > 0.05). Based on the ability to detect differences in varying gait conditions and the good repeatability of the measures across days, the new method is recommended as an alternative to expensive and time consuming techniques of gait classification assessment. In particular, the new method is an easy to use diagnostic tool to quantify clinical changes in neurological patients.},
+author = {Vieten, Manfred M and Sehle, Aida and Jensen, Randall L},
+doi = {10.1371/journal.pone.0071824},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/journal.pone.0071824.pdf:pdf},
+issn = {1932-6203},
+journal = {PloS one},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = jan,
+number = {8},
+pages = {e71824},
+pmid = {23951252},
+title = {{A novel approach to quantify time series differences of gait data using attractor attributes.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3737194\&tool=pmcentrez\&rendertype=abstract},
+volume = {8},
+year = {2013}
+}
+
+
+@article{Harbourne2009,
+abstract = {Fields studying movement generation, including robotics, psychology, cognitive science, and neuroscience, utilize concepts and tools related to the pervasiveness of variability in biological systems. The concepts of variability and complexity and the nonlinear tools used to measure these concepts open new vistas for physical therapist practice and research in movement dysfunction of all types. Because mounting evidence supports the necessity of variability for health and functional movement, this perspective article argues for changes in the way therapists view variability, both in theory and in action. By providing clinical examples, as well as applying existing knowledge about complex systems, the aim of this article is to create a springboard for new directions in physical therapist research and practice.},
+author = {Harbourne, Regina T and Stergiou, Nicholas},
+doi = {10.2522/ptj.20080130},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/PHYS THER-2009-Harbourne-267-82.pdf:pdf},
+issn = {1538-6724},
+journal = {Physical therapy},
+keywords = {Humans,Motor Skills,Motor Skills: physiology,Movement,Movement: physiology,Nonlinear Dynamics,Physical Therapy Modalities,Research,Systems Theory,Terminology as Topic},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = mar,
+number = {3},
+pages = {267--82},
+pmid = {19168711},
+title = {{Movement variability and the use of nonlinear tools: principles to guide physical therapist practice.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2652347\&tool=pmcentrez\&rendertype=abstract},
+volume = {89},
+year = {2009}
+}
+
+
+@article{Dingwell2000,
+abstract = {Characterizing locomotor dynamics is essential for understanding the neuromuscular control of locomotion. In particular, quantifying dynamic stability during walking is important for assessing people who have a greater risk of falling. However, traditional biomechanical methods of defining stability have not quantified the resistance of the neuromuscular system to perturbations, suggesting that more precise definitions are required. For the present study, average maximum finite-time Lyapunov exponents were estimated to quantify the local dynamic stability of human walking kinematics. Local scaling exponents, defined as the local slopes of the correlation sum curves, were also calculated to quantify the local scaling structure of each embedded time series. Comparisons were made between overground and motorized treadmill walking in young healthy subjects and between diabetic neuropathic (NP) patients and healthy controls (CO) during overground walking. A modification of the method of surrogate data 
+was developed to examine the stochastic nature of the fluctuations overlying the nominally periodic patterns in these data sets. Results demonstrated that having subjects walk on a motorized treadmill artificially stabilized their natural locomotor kinematics by small but statistically significant amounts. Furthermore, a paradox previously present in the biomechanical literature that resulted from mistakenly equating variability with dynamic stability was resolved. By slowing their self-selected walking speeds, NP patients adopted more locally stable gait patterns, even though they simultaneously exhibited greater kinematic variability than CO subjects. Additionally, the loss of peripheral sensation in NP patients was associated with statistically significant differences in the local scaling structure of their walking kinematics at those length scales where it was anticipated that sensory feedback would play the greatest role. Lastly, stride-to-stride fluctuations in the walking patterns of all three subject 
+groups were clearly distinguishable from linearly autocorrelated Gaussian noise. As a collateral benefit of the methodological approach taken in this study, some of the first steps at characterizing the underlying structure of human locomotor dynamics have been taken. Implications for understanding the neuromuscular control of locomotion are discussed. (c) 2000 American Institute of Physics.},
+author = {Dingwell, Jonathan B. and Cusumano, Joseph P.},
+doi = {10.1063/1.1324008},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/Chaos\_00.pdf:pdf},
+issn = {1089-7682},
+journal = {Chaos (Woodbury, N.Y.)},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = dec,
+number = {4},
+pages = {848--863},
+pmid = {12779434},
+title = {{Nonlinear time series analysis of normal and pathological human walking.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/12779434},
+volume = {10},
+year = {2000}
+}
+
+
+@article{Gouwanda2012,
+author = {Gouwanda, Darwin and Senanayake, Arosha},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/Gouwanda, Senanayake - 2012 - Non-linear Time Analysis to Estimate Gait Stability Using Wearable Gyroscopes Network.pdf:pdf},
+journal = {Journal of Robotics and \ldots},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+number = {4},
+pages = {1--22},
+title = {{Non-linear Time Analysis to Estimate Gait Stability Using Wearable Gyroscopes Network}},
+volume = {24},
+year = {2012}
+}
+
+
+@article{Buzzi2003,
+author = {Buzzi, Ugo H. and Stergiou, Nicholas and Kurz, Max J. and Hageman, Patricia a. and Heidel, Jack},
+doi = {10.1016/S0268-0033(03)00029-9},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/Buzzi nonlinear 03 CB.pdf:pdf},
+issn = {02680033},
+journal = {Clinical Biomechanics},
+keywords = {chaos,elderly,locomotion,nonlinear dynamics,variability},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = jun,
+number = {5},
+pages = {435--443},
+title = {{Nonlinear dynamics indicates aging affects variability during gait}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0268003303000299},
+volume = {18},
+year = {2003}
+}
+
+
+
+@article{Terrier2013,
+author = {Terrier, Philippe and Deriaz, Oliver},
+doi = {10.3389/fphys.2013.00230.http},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/1211.3616.pdf:pdf},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+number = {0},
+pages = {1--28},
+title = {{Nonlinear dynamics of human locomotion : effects of rhythmic auditory cueing on local dynamic stability}},
+volume = {41},
+year = {2013}
+}
+
+@article{Zhang2010,
+abstract = {Reliable characterization of locomotor dynamics of human walking is vital to understanding the neuromuscular control of human locomotion and disease diagnosis. However, the inherent oscillation and ubiquity of noise in such non-strictly periodic signals pose great challenges to current methodologies. To this end, we exploit the state-of-the-art technology in pattern recognition and, specifically, dimensionality reduction techniques, and propose to reconstruct and characterize the dynamics accurately on the cycle scale of the signal. This is achieved by deriving a low-dimensional representation of the cycles through global optimization, which effectively preserves the topology of the cycles that are embedded in a high-dimensional Euclidian space. Our approach demonstrates a clear advantage in capturing the intrinsic dynamics and probing the subtle synchronization patterns from uni/bivariate oscillatory signals over traditional methods. Application to human gait data for healthy subjects and 
+diabetics reveals a significant difference in the dynamics of ankle movements and ankle-knee coordination, but not in knee movements. These results indicate that the impaired sensory feedback from the feet due to diabetes does not influence the knee movement in general, and that normal human walking is not critically dependent on the feedback from the peripheral nervous system.},
+author = {Zhang, Jie and Zhang, Kai and Feng, Jianfeng and Small, Michael},
+doi = {10.1371/journal.pcbi.1001033},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/Chaos\_IN\_HumanMotion/Zhang et al. - 2010 - Rhythmic dynamics and synchronization via dimensionality reduction application to human gait.pdf:pdf},
+issn = {1553-7358},
+journal = {PLoS computational biology},
+keywords = {Ankle,Ankle: physiology,Biomechanical Phenomena,Computational Biology,Computational Biology: methods,Gait,Gait: physiology,Humans,Knee,Knee: physiology,Models, Biological,Walking,Walking: physiology},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = jan,
+number = {12},
+pages = {e1001033},
+pmid = {21187907},
+title = {{Rhythmic dynamics and synchronization via dimensionality reduction: application to human gait.}},
+url = {http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3002994\&tool=pmcentrez\&rendertype=abstract},
+volume = {6},
+year = {2010}
+}
+
+
+
+
+
+
+@article{Belkin2002,
+author = {Belkin, Mikhail and Niyogi, Partha},
+file = {:home/mapx/xfiles/phd/literature/laplacian\_eigenmaps/10.1.1.9.5888.pdf:pdf},
+mendeley-groups = {PhD},
+title = {{Laplacian Eigenmaps for Dimensionality Reduction and Data Representation}},
+year = {2002}
+}
+
+
+@article{Zhang2006,
+author = {Zhang, J. and Luo, X. and Small, M.},
+doi = {10.1103/PhysRevE.73.016216},
+file = {:home/mapx/xfiles/phd/literature/zhang/Zhang\_Detecting\_Chaos\_Pseudoperiodic.pdf:pdf},
+issn = {1539-3755},
+journal = {Physical Review E},
+mendeley-groups = {PhD},
+month = jan,
+number = {1},
+pages = {016216},
+title = {{Detecting chaos in pseudoperiodic time series without embedding}},
+url = {http://link.aps.org/doi/10.1103/PhysRevE.73.016216},
+volume = {73},
+year = {2006}
+}
+
+
+% From Lara2013's Review 
+
+@article{Ermes2008,
+author = {M. Ermes and J. Parkka and L. Clutmans},
+title = {Advancing from offline to online activity recognition with wearable sensors},
+journal = {30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society },
+year = {2008},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4650199}
+}
+
+
+@article{Maurer2006,
+author = {U. Maurer and A. Smailagic and D. P. Siewiorek and M. Deisher},
+title = {Activity recognition and monitoring using multiple sensors on different body positions},
+journal = {International Workshop on Wearable and Implantable Body Sensor Networks},
+year = {2006},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1612909}
+}
+
+@article{Tapia2007,
+author = {E. M. Tapia and S. S. Intille and W. Haskell and K. Larson and A. King and R. Friedman },
+title = {Real-Time Recognition of Physical Activities and Their Intensities Using Wireless Accelerometers and a Heart Rate Monitor},
+journal = {11th IEEE International Symposium on Wearable Computers},
+year = {2007},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4373774}
+}
+
+
+@article{Lara2012,
+author = {O. D. Lara and M. A. Labrador},
+title = {A mobile platform for real-time human activity recognition},
+journal = {Consumer Communications and Networking Conference (CCNC)},
+year = {2012},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6181018}
+}
+
+
+
+@article{Kao2009,
+author = {Tzu-Ping Kao and Che-Wei Lin and Jeen-Shing Wang},
+title = {Development of a portable activity detector for daily activity recognition},
+journal = {IEEE International Symposium on Industrial Electronics},
+year = {2009},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5222001}
+}
+
+@article{Brezmes2009,
+year={2009},
+isbn={978-3-642-02480-1},
+booktitle={Distributed Computing, Artificial Intelligence, Bioinformatics, Soft Computing, and Ambient Assisted Living},
+volume={5518},
+series={Lecture Notes in Computer Science},
+editor={Omatu, Sigeru and Rocha, MiguelP. and Bravo, José and Fernández, Florentino and Corchado, Emilio and Bustillo, Andrés and Corchado, JuanM.},
+doi={10.1007/978-3-642-02481-8_120},
+title={Activity Recognition from Accelerometer Data on a Mobile Phone},
+url={http://dx.doi.org/10.1007/978-3-642-02481-8_120},
+publisher={Springer Berlin Heidelberg},
+keywords={Pattern recognition; human movement’s detection; accelerometer},
+author={Brezmes, Tomas and Gorricho, Juan-Luis and Cotrina, Josep},
+pages={796-799}
+}
+
+
+@article{Riboni2011,
+year={2011},
+issn={1617-4909},
+journal={Personal and Ubiquitous Computing},
+volume={15},
+number={3},
+doi={10.1007/s00779-010-0331-7},
+title={COSAR: hybrid reasoning for context-aware activity recognition},
+url={http://dx.doi.org/10.1007/s00779-010-0331-7},
+publisher={Springer-Verlag},
+keywords={Activity recognition; Context awareness; Ontological reasoning},
+author={Riboni, Daniele and Bettini, Claudio},
+pages={271-289},
+language={English}
+}
+
+@article{Berchtold2010a,
+year={2010},
+isbn={978-3-642-16110-0},
+booktitle={KI 2010: Advances in Artificial Intelligence},
+volume={6359},
+series={Lecture Notes in Computer Science},
+editor={Dillmann, Rüdiger and Beyerer, Jürgen and Hanebeck, UweD. and Schultz, Tanja},
+doi={10.1007/978-3-642-16111-7_46},
+title={An Extensible Modular Recognition Concept That Makes Activity Recognition Practical},
+url={http://dx.doi.org/10.1007/978-3-642-16111-7_46},
+publisher={Springer Berlin Heidelberg},
+author={Berchtold, Martin and Budde, Matthias and Schmidtke, Hedda R. and Beigl, Michael},
+pages={400-409}
+}
+
+@article{Berchtold2010b,
+author = {Martin  Berchtold and M. Budde and G. Gordon and H. R. Schmidtke and M. Beigl },
+title = {ActiServ: Activity Recognition Service for mobile phones},
+journal = {International Symposium on Wearable Computers (ISWC)},
+year = {2010},
+url = {2010}
+}
+
+
+@incollection{Bao2004,
+year={2004},
+isbn={978-3-540-21835-7},
+booktitle={Pervasive Computing},
+volume={3001},
+series={Lecture Notes in Computer Science},
+editor={Ferscha, Alois and Mattern, Friedemann},
+doi={10.1007/978-3-540-24646-6_1},
+title={Activity Recognition from User-Annotated Acceleration Data},
+url={http://dx.doi.org/10.1007/978-3-540-24646-6_1},
+publisher={Springer Berlin Heidelberg},
+author={Bao, Ling and Intille, StephenS.},
+pages={1-17}
+}
+
+
+@article{Hanai2009,
+author = {Y. Hanai and J. Nishimura and T. Kuroda},
+title = {Haar-Like Filtering for Human Activity Recognition Using 3D Accelerometer},
+journal = {Digital Signal Processing Workshop and 5th IEEE Signal Processing Education Workshop},
+year = {2009},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4786008}
+}
+
+
+
+
+@article{Parkka2006,
+author = {J. Parkka and M. Ermes and P. Korpipaa and J. Mantyjarvi and J. Peltola and I. Korhonen},
+title = {Activity classification using realistic data from wearable sensors},
+journal = {IEEE Transactions on Information Technology in Biomedicine},
+year = {2006},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1573714}
+}
+
+@article{He2008,
+author = {Zhen-Yu He and Lian-Wen Jin},
+title = {Activity recognition from acceleration data using AR model representation and SVM},
+journal = {International Conference on Machine Learning and Cybernetics},
+year = {2008},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4620779}
+}
+
+
+@article{He2009,
+author = {Zhenyu He and Jin Lianwen},
+title = {Activity recognition from acceleration data based on discrete consine transform and SVM},
+journal = {IEEE International Conference on Systems, Man and Cybernetics},
+year = {2009},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5346042}
+}
+
+
+@article{Zhu2009,
+author = {C.Zhu and Weihua Sheng},
+title = {Human daily activity recognition in robot-assisted living using multi-sensor fusion},
+journal = {IEEE International Conference on Robotics and Automation},
+year = {2009},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5152756}
+}
+
+
+@article{Altun2010,
+year={2010},
+isbn={978-3-642-14714-2},
+booktitle={Human Behavior Understanding},
+volume={6219},
+series={Lecture Notes in Computer Science},
+editor={Salah, AlbertAli and Gevers, Theo and Sebe, Nicu and Vinciarelli, Alessandro},
+doi={10.1007/978-3-642-14715-9_5},
+title={Human Activity Recognition Using Inertial/Magnetic Sensor Units},
+url={http://dx.doi.org/10.1007/978-3-642-14715-9_5},
+publisher={Springer Berlin Heidelberg},
+keywords={inertial sensors; magnetometers; human activity recognition and classification; feature selection and reduction},
+author={Altun, Kerem and Barshan, Billur},
+pages={38-51}
+}
+
+
+@inproceedings{Cheng2010,
+ author = {Cheng, Jingyuan and Amft, Oliver and Lukowicz, Paul},
+ title = {Active Capacitive Sensing: Exploring a New Wearable Sensing Modality for Activity Recognition},
+ booktitle = {Proceedings of the 8th International Conference on Pervasive Computing},
+ series = {Pervasive'10},
+ year = {2010},
+ isbn = {3-642-12653-7, 978-3-642-12653-6},
+ location = {Helsinki, Finland},
+ pages = {319--336},
+ numpages = {18},
+ url = {http://dx.doi.org/10.1007/978-3-642-12654-3_19},
+ doi = {10.1007/978-3-642-12654-3_19},
+ acmid = {2166642},
+ publisher = {Springer-Verlag},
+ address = {Berlin, Heidelberg},
+} 
+
+@incollection{Mcglynn2011,
+year={2011},
+isbn={978-0-85729-129-5},
+booktitle={Research and Development in Intelligent Systems XXVII},
+editor={Bramer, Max and Petridis, Miltos and Hopgood, Adrian},
+doi={10.1007/978-0-85729-130-1_26},
+title={An Ensemble Dynamic Time Warping Classifier with Application to Activity Recognition},
+url={http://dx.doi.org/10.1007/978-0-85729-130-1_26},
+publisher={Springer London},
+author={McGlynn, David and Madden, MichaelG.},
+pages={339-352},
+language={English}
+}
+
+@incollection{Pham2008,
+year={2008},
+isbn={978-3-540-69169-3},
+booktitle={Distributed Computing in Sensor Systems},
+volume={5067},
+series={Lecture Notes in Computer Science},
+editor={Nikoletseas, SotirisE. and Chlebus, BogdanS. and Johnson, DavidB. and Krishnamachari, Bhaskar},
+doi={10.1007/978-3-540-69170-9_39},
+title={Robust Dynamic Human Activity Recognition Based on Relative Energy Allocation},
+url={http://dx.doi.org/10.1007/978-3-540-69170-9_39},
+publisher={Springer Berlin Heidelberg},
+author={Pham, Nam and Abdelzaher, Tarek},
+pages={525-530}
+}
+
+@article{Vinh2011,
+year={2011},
+issn={0924-669X},
+journal={Applied Intelligence},
+volume={35},
+number={2},
+doi={10.1007/s10489-010-0216-5},
+title={Semi-Markov conditional random fields for accelerometer-based activity recognition},
+url={http://dx.doi.org/10.1007/s10489-010-0216-5},
+publisher={Springer US},
+keywords={Activity recognition; Wearable sensors; Accelerometer; Hidden Markov Model (HMM); Conditional Random Fields (CRF)},
+author={Vinh, LaThe and Lee, Sungyoung and Le, HungXuan and Ngo, HungQuoc and Kim, HyoungIl and Han, Manhyung and Lee, Young-Koo},
+pages={226-241},
+language={English}
+}
+
+@article{Lara2012,
+ author = {Lara, \'{\i}Scar D. and P{\'e}Rez, Alfredo J. and Labrador, Miguel A. and Posada, Jos{\'e} D.},
+ title = {Centinela: A Human Activity Recognition System Based on Acceleration and Vital Sign Data},
+ journal = {Pervasive Mob. Comput.},
+ issue_date = {October, 2012},
+ volume = {8},
+ number = {5},
+ month = oct,
+ year = {2012},
+ issn = {1574-1192},
+ pages = {717--729},
+ numpages = {13},
+ url = {http://dx.doi.org/10.1016/j.pmcj.2011.06.004},
+ doi = {10.1016/j.pmcj.2011.06.004},
+ acmid = {2365838},
+ publisher = {Elsevier Science Publishers B. V.},
+ address = {Amsterdam, The Netherlands, The Netherlands},
+ keywords = {Classification, Feature extraction, Subject-independent analysis, Transient features},
+} 
+
+@article{Khan2010,
+author = {A. M. Khan and Lee Young-Koo and S. Y. Lee and Kim Tae-Seong},
+title = {A Triaxial Accelerometer-Based Physical-Activity Recognition via Augmented-Signal Features and a Hierarchical Recognizer},
+journal = {IEEE Transactions on Information Technology in Biomedicine},
+year = {2010},
+url = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5482135}
+}
+
+
+@article{Jatoba2008,
+author = {Luciana C. Jatoba and Ulrich Grossmann and Chistophe Kunze and J. Ottenbacher and W. Stork},
+title = {Context-aware mobile health monitoring: Evaluation of different pattern recognition methods for classification of physical activity},
+journal = {30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society },
+year = {2008},
+url = {http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4650398}
+}
+
+@article{Chen2008,
+  added-at = {2009-05-06T00:00:00.000+0200},
+  author = {Chen, Yen-Ping and Yang, Jhun-Ying and Liou, Shun-Nan and Lee, Gwo-Yun and Wang, Jeen-Shing},
+  biburl = {http://www.bibsonomy.org/bibtex/20046ed77ed6ca2bf94d9d76ded42844c/dblp},
+  date = {2009-05-06},
+  description = {dblp},
+  ee = {http://dx.doi.org/10.1016/j.amc.2008.05.099},
+  interhash = {9ec2a5a07119e81550cc6d0ad632c76e},
+  intrahash = {0046ed77ed6ca2bf94d9d76ded42844c},
+  journal = {Applied Mathematics and Computation},
+  keywords = {dblp},
+  number = 2,
+  pages = {849-860},
+  timestamp = {2009-05-06T00:00:00.000+0200},
+  title = {Online classifier construction algorithm for human activity detection using a tri-axial accelerometer.},
+  url = {http://dblp.uni-trier.de/db/journals/amc/amc205.html#ChenYLLW08},
+  volume = 205,
+  year = 2008
+}
+
+
+@incollection{Minnen2007,
+year={2007},
+isbn={978-3-540-70993-0},
+booktitle={4th International Workshop on Wearable and Implantable Body Sensor Networks (BSN 2007)},
+volume={13},
+series={IFMBE Proceedings},
+editor={Leonhardt, Steffen and Falck, Thomas and Mähönen, Petri},
+doi={10.1007/978-3-540-70994-7_40},
+title={Recognizing Soldier Activities in the Field},
+url={http://dx.doi.org/10.1007/978-3-540-70994-7_40},
+publisher={Springer Berlin Heidelberg},
+keywords={activity recognition; machine learning; distributed sensors},
+author={Minnen, David and Westeyn, Tracy and Ashbrook, Daniel and Presti, Peter and Starner, Thad},
+pages={236-241},
+language={English}
+}
+
+
+
+@misc{Mannini2013,
+author = {Mannini, Andrea and Intille, Stephen S. and Rosenberger, Mary and Sabatini, Angelo M. and Haskell, William},
+file = {:home/mapx/xfiles/phd/literature/Mannini/MSSE\_wrist ankle activity recognition.pdf:pdf},
+mendeley-groups = {ActivityRecognition},
+title = {{Activity Recognition Using a Single Accelerometer Placed at the Wrist or Ankle}},
+year = {2013}
+}
+
+@article{Kohn2012,
+author = {Kohn, Bernhard and Ieee, Member and Nowakowska, Aneta and Belbachir, Ahmed Nabil and Ieee, Member},
+file = {:home/mapx/xfiles/phd/literature/dance/Kohn et al. - 2012 - Real - time Body Motion Analysis For Dance Pattern Recognition AIT Austrian Institute of Technology GmbH.pdf:pdf},
+isbn = {9781467316125},
+mendeley-groups = {dance},
+pages = {48--53},
+title = {{Real - time Body Motion Analysis For Dance Pattern Recognition AIT Austrian Institute of Technology GmbH}},
+year = {2012}
+}
+
+
+@article{Schuldt2004,
+abstract = { Local space-time features capture local events in video and can be adapted to the size, the frequency and the velocity of moving patterns. In this paper, we demonstrate how such features can be used for recognizing complex motion patterns. We construct video representations in terms of local space-time features and integrate such representations with SVM classification schemes for recognition. For the purpose of evaluation we introduce a new video database containing 2391 sequences of six human actions performed by 25 people in four different scenarios. The presented results of action recognition justify the proposed method and demonstrate its advantage compared to other relative approaches for action recognition.},
+author = {Sch\"{u}ldt, Christian and Laptev, Ivan and Caputo, Barbara},
+doi = {10.1109/ICPR.2004.1334462},
+file = {:home/mapx/xfiles/phd/literature/HumanMotion/SVM/Sch\"{u}ldt, Laptev, Caputo - 2004 - Recognizing human actions A local SVM approach.pdf:pdf},
+isbn = {0769521282},
+issn = {10514651},
+journal = {Proceedings - International Conference on Pattern Recognition},
+mendeley-groups = {HumanMotion\_SVM},
+pages = {32--36},
+title = {{Recognizing human actions: A local SVM approach}},
+volume = {3},
+year = {2004}
+}
+
+
+
+

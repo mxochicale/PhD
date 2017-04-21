@@ -1,0 +1,43 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+++
+++  Chaos Theory Approach for Human Activity Recognition Using Inertial Sensor 
+++  PhD Research Proposal
+++           
+++  Perez-Xochicale M. A. <perez[dot]xochicale[at]gmail[dot]com>
+++  May, 2014
+++  Xicohtzinco, Tlaxcala, Mexico
+++  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+IMPORTANT IMPLEMENTATION IDEAS
+** benchmark for matrix manipulation so as to apply SSP PCA
+** Add sound in order to begin and end the movement capture of the data 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++
+++  draft03
+++
+++--------------------------------
+++
+++
+
+CHANGES
+*******
+Cover FONT TITLE SIZE
+A4size to lettersize
+Timeline from 4 to 3 years
+Page back references has been successfully added
+
+
+TODO
+****
+compile sh file has to be runned twice so as to get the back reference
+check what I can do with that command
+CHECK also the make file so as to compile the project
+Add appendix
+
+
+
+
+

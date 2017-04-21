@@ -1,0 +1,139 @@
+
+\documentclass[letterpaper,times,numbered,print,custommargin]{Classes/PhDThesisPSnPDF}
+% ******************************************************************************
+% ******************************* Class Options ********************************
+% *********************** See README for more details **************************
+% ***   https://github.com/kks32/phd-thesis-template/blob/master/README.md   ***
+% ******************************************************************************
+
+
+% ********************************** Preamble **********************************
+% Preamble: Contains packages and user-defined commands and settings
+\input{Preamble/preamble}
+
+% ******************************************************************************
+% ************************ Thesis Information & Meta-data **********************
+%% The title of the thesis
+% 
+\title{
+% {\fontsize{20}{60} \selectfont \\
+% Chaos Theory Approach \\
+% to Human Activity Recognition \\
+% Using Inertial Sensors
+A Nonlinear Dymanics Approach \\
+to Human Activity Recognition \\
+Using Inertial Sensors
+% } 
+\\
+\vspace{5mm}
+% \Large{DRAFT 00: PhD Three Month Report }\\
+\Large{Three Month Report }\\
+}
+
+
+
+%% The full name of the author
+% \author{Miguel Angel P\'EREZ-XOCHICALE}
+ \author{Miguel Angel P\'erez-Xochicale}
+%  Go to PhDThesisPSnPDF.cls line 534
+%  to change the author name supervisors names
+
+
+%% Department (eg. Department of Engineering, Maths, Physics)
+% \dept{School of Electronic, Electric and Computer Engineering}
+
+%% University and Crest
+\university{University of Birmingham}
+\crest{\includegraphics[width=0.35\textwidth]{BirminghamUniversityCrest}}
+%\crest{\includegraphics[width=0.25\textwidth]{sign_mapx.png}}
+
+
+%% You can redefine the submission text:
+% Default as per the University guidelines: This dissertation is submitted for
+% the degree of Doctor of Philosophy
+\renewcommand{\submissiontext}{
+% PhD Research Proposal
+}
+
+%% Full title of the Degree 
+%  \degree{Doctor of Philosophy}
+ 
+%% College affiliation (optional)
+%  \college{King's College}
+
+%% Submission date
+\degreedate{Monday, the 2nd of February 2014} 
+
+%% Meta information
+
+\subject{LaTeX} 
+\keywords{{LaTeX} {PhD -- 3 month report} {Human-Computer Interaction} } 
+
+
+% ***************************** Abstract Separate ****************************** 
+% To printout only the titlepage and the abstract with the PhD title and the 
+% author name for submission to the Student Registry, use the abstract option in
+% the document class. 
+
+\ifdefineAbstract
+ \includeonly{Abstract/abstract} 
+\else
+\fi
+
+
+% ******************************** Front Matter ********************************
+\begin{document}
+
+
+\frontmatter
+
+
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+% \include{Abstract/abstract}
+
+% 
+% % *********************** Adding TOC and List of Figures ***********************
+% \tableofcontents
+
+% \printnomenclature[space] space can be set as 2.5cm between symbol and
+% description
+% \printnomencl
+
+% ******************************** Main Matter *********************************
+\mainmatter
+
+\include{Chapter1/chapter1} % Introduction
+\include{Chapter2/chapter2} % Previous Work
+\include{Chapter3/chapter3} % Research Approach
+% \include{Chapter4/chapter4} % Timeline
+
+
+% ********************************** Back Matter *******************************
+% ********************************** Bibliography ******************************
+%\backmatter 
+
+\begin{spacing}{0.9}
+
+% Bibliography style previews: http://nodonn.tipido.net/bibstyle.php
+% \bibliographystyle{apalike}
+\bibliographystyle{plainnat} % use this to have URLs listed in References
+
+\cleardoublepage
+
+\bibliography{References/references} % Path to your references.bib file
+
+\end{spacing}
+
+% ********************************** Appendices ********************************
+
+\begin{appendices} % Using appendices environment for more functunality
+% \include{Appendix1/appendix1}
+\end{appendices}
+
+% *************************************** Index ********************************
+\printthesisindex %If index is present
+\end{document}
+

@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: draft04paper.aux
+The style file: acm-sigchi.bst
+Database file #1: References/references.bib
+Repeated entry---line 417 of file References/references.bib
+ : @article{Basharat2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 637 of file References/references.bib
+ : @article{Ali2007
+ :                 ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 687 of file References/references.bib
+ :   
+ :   url = {https://www.jstage.jst.go.jp/article/jjspopsy/40/2/40_2013-1208/_pdf},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in Akiduki2013
+Warning--empty journal in Akiduki2014
+Warning--empty journal in Bernardin2003
+Warning--empty journal in Cao1997
+Warning--empty journal in Celebi2011
+Warning--empty journal in Chang2000
+Warning--empty journal in J.FrankS.Mannor2010
+Warning--empty journal in Kohn2012
+Warning--empty journal in Lara2013
+Warning--empty journal in Modi2011
+Warning--empty journal in Paradiso1997
+Warning--empty journal in Richardson2004
+Warning--empty journal in Rosenblum1994
+Warning--empty journal in Terrier2013
+Warning--empty journal in Uzal2012
+Warning--empty journal in Xu2012
+You've used 62 entries,
+            2243 wiz_defined-function locations,
+            906 strings with 16031 characters,
+and the built_in function-call counts, 19686 in all, are:
+= -- 1961
+> -- 1124
+< -- 0
++ -- 462
+- -- 400
+* -- 1565
+:= -- 3439
+add.period$ -- 179
+call.type$ -- 62
+change.case$ -- 386
+chr.to.int$ -- 0
+cite$ -- 78
+duplicate$ -- 479
+empty$ -- 1333
+format.name$ -- 400
+if$ -- 3875
+int.to.chr$ -- 0
+int.to.str$ -- 62
+missing$ -- 61
+newline$ -- 306
+num.names$ -- 124
+pop$ -- 301
+preamble$ -- 1
+purify$ -- 324
+quote$ -- 0
+skip$ -- 335
+stack$ -- 0
+substring$ -- 1263
+swap$ -- 46
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 248
+warning$ -- 16
+while$ -- 210
+width$ -- 64
+write$ -- 582
+(There were 3 error messages)

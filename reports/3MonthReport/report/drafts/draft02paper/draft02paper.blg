@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: draft02paper.aux
+The style file: acm-sigchi.bst
+Database file #1: References/references.bib
+Repeated entry---line 417 of file References/references.bib
+ : @article{Basharat2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 637 of file References/references.bib
+ : @article{Ali2007
+ :                 ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 687 of file References/references.bib
+ :   
+ :   url = {https://www.jstage.jst.go.jp/article/jjspopsy/40/2/40_2013-1208/_pdf},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in Akiduki2013
+Warning--empty journal in Akiduki2014
+Warning--empty journal in Bernardin2003
+Warning--empty journal in Celebi2011
+Warning--empty journal in Chang2000
+Warning--empty journal in J.FrankS.Mannor2010
+Warning--empty journal in Kohn2012
+Warning--empty journal in Lara2013
+Warning--empty journal in Modi2011
+Warning--empty journal in Paradiso1997
+Warning--empty journal in Richardson2004
+Warning--empty journal in Rosenblum1994
+Warning--empty journal in Terrier2013
+Warning--empty journal in Xu2012
+You've used 60 entries,
+            2243 wiz_defined-function locations,
+            893 strings with 15694 characters,
+and the built_in function-call counts, 19074 in all, are:
+= -- 1897
+> -- 1090
+< -- 0
++ -- 448
+- -- 388
+* -- 1518
+:= -- 3330
+add.period$ -- 174
+call.type$ -- 60
+change.case$ -- 374
+chr.to.int$ -- 0
+cite$ -- 74
+duplicate$ -- 465
+empty$ -- 1297
+format.name$ -- 388
+if$ -- 3759
+int.to.chr$ -- 0
+int.to.str$ -- 60
+missing$ -- 59
+newline$ -- 297
+num.names$ -- 120
+pop$ -- 291
+preamble$ -- 1
+purify$ -- 314
+quote$ -- 0
+skip$ -- 326
+stack$ -- 0
+substring$ -- 1215
+swap$ -- 46
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 240
+warning$ -- 14
+while$ -- 202
+width$ -- 62
+write$ -- 565
+(There were 3 error messages)

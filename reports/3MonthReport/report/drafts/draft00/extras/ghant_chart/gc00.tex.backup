@@ -1,0 +1,137 @@
+\title{A Very Simple \LaTeXe{} Template}
+\author{
+        Vitaly Surazhsky \\
+                Department of Computer Science\\
+        Technion---Israel Institute of Technology\\
+        Technion City, Haifa 32000, \underline{Israel}
+}
+\date{\today}
+
+\documentclass[12pt]{article}
+
+
+\usepackage{tikz}
+\usepackage{gantt}
+ \usepackage{pdflscape}
+ 
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This is the paper's abstract \ldots
+\end{abstract}
+
+\section{Introduction}
+
+
+\begin{landscape}
+\scalebox{0.8}{
+
+}
+\end{landscape}
+
+
+
+  \begin{gantt}{7}{16} %{rows}{columns}
+  
+    \begin{ganttitle}
+      \numtitle{2014}{1}{2014}{1}
+      \numtitle{2015}{1}{2017}{4}
+      \numtitle{2018}{1}{2018}{3}
+    \end{ganttitle}
+    
+    
+    \begin{ganttitle}
+      \numtitle{4}{1}{4}{1}
+      \numtitle{1}{1}{4}{1}
+      \numtitle{1}{1}{4}{1}
+      \numtitle{1}{1}{4}{1}
+      \numtitle{1}{1}{3}{1}
+    \end{ganttitle}
+    
+  \ganttbar{T1}{0}{4}
+  \ganttbarcon{T2}{4}{1}
+    
+  \end{gantt}
+  
+  
+
+  \begin{gantt}{10}{12}
+    \begin{ganttitle}
+    \numtitle{1}{1}{12}{1}
+    \end{ganttitle}
+    \ganttbar{a task}{0}{2}
+    \ganttbarcon{a consecutive task}{2}{4}
+    \ganttbarcon{another consecutive task}{8}{2}
+    \ganttmilestone[color=cyan]{Milestone with color!}{4}
+    \ganttbar{another task}{2}{2}
+    \ganttbar[color=cyan]{another coloured task}{4}{4}
+    \ganttbar{another task}{4}{2}
+    \ganttcon{4}{5}{4}{7}
+    \ganttmilestonecon{A connected Milestone}{7}
+    \ganttbarcon{another consecutive task}{8}{2}
+  \end{gantt}
+  
+This is time for all good men to come to the aid of their party!
+
+\paragraph{Outline}
+The remainder of this article is organized as follows.
+Section~\ref{previous work} gives account of previous work.
+Our new and exciting results are described in Section~\ref{results}.
+Finally, Section~\ref{conclusions} gives the conclusions.
+
+\section{Previous work}\label{previous work}
+A much longer \LaTeXe{} example was written by Gil~\cite{Gil:02}.
+
+%   \begin{gantt}{7}{12}
+%     \begin{ganttitle}
+%       \numtitle{2010}{1}{2012}{4}
+%     \end{ganttitle}
+%     \begin{ganttitle}
+%       \numtitle{1}{1}{4}{1}
+%       \numtitle{1}{1}{4}{1}
+%       \numtitle{1}{1}{4}{1}
+%     \end{ganttitle}
+%     \ganttbar{Task 1}{0}{2}
+%     \ganttbarcon{a consecutive task}{2}{4}
+%   \end{gantt}
+  
+\section{Results}\label{results}
+In this section we describe the results.
+
+%   \begin{landscape}
+%   \scalebox{0.8}{
+%   \begin{gantt}[xunitlength=0.5cm,fontsize=\small,titlefontsize=\small,drawledgerline=true]{10}{48}
+%     \begin{ganttitle}
+%       \titleelement{2009}{7}
+%       \numtitle{2010}{1}{2012}{12}
+%       \titleelement{2013}{5}
+%     \end{ganttitle}
+%     \begin{ganttitle}
+%       \numtitle{6}{1}{12}{1}
+%       \numtitle{1}{1}{12}{1}
+%       \numtitle{1}{1}{12}{1}
+%       \numtitle{1}{1}{12}{1}
+%       \numtitle{1}{1}{5}{1}
+%     \end{ganttitle}
+%     \ganttbar{task 1}{2}{17}
+%     \ganttgroup{a group of tasks}{6}{18}
+%     \ganttbar{task 2}{5}{10}
+%     \ganttbar[pattern=crosshatch,color=blue]{task 3}{15}{3}
+%     \ganttbar{task 4}{20}{3}
+%     \ganttcon{15}{4}{20}{6}
+%     \ganttbar{task 5}{15}{5}
+%     \ganttbarcon[color=red]{task 6}{20}{5}
+%     \ganttbarcon{task 7}{30}{5}
+%   \end{gantt}
+%   }
+%   \end{landscape}
+
+\section{Conclusions}\label{conclusions}
+We worked hard, and achieved very little.
+
+\bibliographystyle{abbrv}
+\bibliography{main}
+
+\end{document}
+This is never printed

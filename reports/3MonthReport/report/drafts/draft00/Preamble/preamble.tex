@@ -1,0 +1,197 @@
+% ******************************************************************************
+% ****************************** Custom Margin *********************************
+
+% Add `custommargin' in the document class options to use this section
+% Set {innerside margin / outerside margin / topmargin / bottom margin}  and
+% other page dimensions
+\ifsetMargin
+\else
+% \RequirePackage[left=37mm,right=30mm,top=35mm,bottom=30mm]{geometry}
+    \RequirePackage[left=30mm,right=20mm,top=30mm,bottom=20mm]{geometry}
+    \setFancyHdr % To apply fancy header after geometry package is loaded
+\fi
+
+% % *****************************************************************************
+% % ******************* Fonts (like different typewriter fonts etc.)*************
+% 
+% % Add `customfont' in the document class option to use this section
+% \ifsetFont
+% \else
+%     % Set your custom font here and use `customfont' in options. Leave empty to
+%     % load computer modern font (default LaTeX font).  
+%     \RequirePackage{libertine} 
+% \fi
+
+% *****************************************************************************
+% *************************** Bibliography  and References ********************
+
+%\usepackage{cleveref} %Referencing without need to explicitly state fig /table
+
+% Add `custombib' in the document class option to use this section
+\ifsetBib % True, Bibliography option is chosen in class options
+\else % If custom bibliography style chosen then load bibstyle here
+    \RequirePackage[square, sort, numbers, authoryear]{natbib} % CustomBib
+\fi
+
+% changes the default name `Bibliography` -> `References'
+\renewcommand{\bibname}{References}
+\renewcommand*{\bibfont}{\footnotesize}
+
+
+% *****************************************************************************
+% *************** Changing the Visual Style of Chapter Headings ***************
+% Uncomment the section below. Requires titlesec package.
+
+\RequirePackage{titlesec}
+
+% http://tex.stackexchange.com/questions/30757/change-the-word-chapter-to-something-else
+ \renewcommand{\chaptername}{}
+
+
+% \titleformat{\chapter}{\filleft\normalfont\huge\bfseries}{\thechapter }{30pt}{\huge}
+% \titlespacing*{\chapter}{0pt}{50pt}{20pt}
+
+% \newcommand{\PreContentTitleFormat}{\titleformat{\chapter}[display]{\scshape\Large}
+% {\Large\filleft{\chaptertitlename} \Huge\thechapter}
+% 
+%  {1ex}{}
+%   [\vspace{1ex}\titlerule]}
+%   \newcommand{\ContentTitleFormat}{\titleformat{\chapter}[display]{\scshape\huge}
+%   {\Large\filleft{\chaptertitlename} \Huge\thechapter}{1ex}
+%   {\titlerule\vspace{1ex}\filright}
+%   [\vspace{1ex}\titlerule]}
+%  \newcommand{\PostContentTitleFormat}{\PreContentTitleFormat}
+%  \PreContentTitleFormat
+
+
+% *****************************************************************************
+% **************************** Custom Packages ********************************
+% *****************************************************************************
+
+
+% ************************* Algorithms and Pseudocode **************************
+
+%\usepackage{algpseudocode} 
+
+
+% ********************Captions and Hyperreferencing / URL **********************
+
+% Captions: This makes captions of figures use a boldfaced small font. 
+%\RequirePackage[small,bf]{caption}
+
+\RequirePackage[labelsep=space,tableposition=top]{caption} 
+\renewcommand{\figurename}{Fig.} %to support older versions of captions.sty
+
+% ************************ Formatting / Footnote *******************************
+
+%\usepackage[perpage]{footmisc} %Range of footnote options 
+
+
+% ****************************** Line Numbers **********************************
+
+%\RequirePackage{lineno}
+%\linenumbers
+
+% ************************** Graphics and figures *****************************
+
+%\usepackage{rotating}
+%\usepackage{wrapfig}
+%\usepackage{float}
+\usepackage{subfig} %note: subfig must be included after the `caption` package. 
+
+
+% ********************************* Table **************************************
+
+%\usepackage{longtable}
+%\usepackage{multicol}
+%\usepackage{multirow}
+%\usepackage{tabularx}
+
+\usepackage[table]{xcolor}
+\usepackage{booktabs}
+% \rowcolor{blue!10}
+
+\usepackage{array}
+% \begin{tabular}{| c | c |  >{\centering}m{5cm} |}
+
+
+
+% ***************************** Math and SI Units ******************************
+
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+%\usepackage{siunitx} % use this package module for SI units
+
+
+% ******************************************************************************
+% ************************* User Defined Commands ******************************
+% ******************************************************************************
+
+
+% ********************** TOC depth and numbering depth *************************
+
+\setcounter{secnumdepth}{2}
+\setcounter{tocdepth}{2}
+
+% ******************************* Nomenclature *********************************
+
+% To change the name of the Nomenclature section, uncomment the following line
+
+%\renewcommand\nomname{Symbols}
+
+
+% ********************************* Appendix ***********************************
+
+% The default value of both \appendixtocname and \appendixpagename is `Appendices'. These names can all be changed via: 
+
+%\renewcommand{\appendixtocname}{List of appendices}
+
+%\renewcommand{\appendixname}{Appndx}
+
+
+
+
+
+% ********************************* Ghant Chart ***********************************
+
+\usepackage{tikz}
+\usepackage{Classes/gantt}
+ \usepackage{pdflscape}
+% {Classes/PhDThesisPSnPDF}
+
+% ********************************      ************************************
+
+% http://stackoverflow.com/questions/491904/latex-how-to-remove-blank-pages-coming-between-two-chapters-in-appendixname
+
+\let\cleardoublepage\clearpage
+
+
+% ********************************  COMPACT ITEMIZE    ************************************
+
+% http://stackoverflow.com/questions/4968557/latex-very-compact-itemize
+% \usepackage{enumitem}
+% ...
+% \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt]
+%  \item 
+% \end{itemize}
+
+\usepackage{enumitem}
+
+
+
+
+% ********************************  FONT SIZE OF THE TITLE    ************************************
+\usepackage{anyfontsize}
+
+
+% ********************************  TWO COLUMS FOR SUPERVISORS SIGNS    ************************************
+\usepackage{multicol}
+% \begin{multicols}{2}
+% Column 1
+% \columnbreak
+% Column 2
+% \end{multicols}
+
+
+\usepackage{blindtext}

@@ -1,0 +1,70 @@
+%*****************************************************************************************
+%*********************************** Fourth Chapter **************************************
+%*****************************************************************************************
+
+\chapter{Timeline}
+
+% **************************** Define Graphics Path **************************
+\ifpdf
+    \graphicspath{{Chapter4/Figs/Raster/}{Chapter4/Figs/PDF/}{Chapter4/Figs/}}
+\else
+    \graphicspath{{Chapter4/Figs/Vector/}{Chapter4/Figs/}}
+\fi
+
+Based on the proposed framework, tasks can be planned as follow:
+\begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt]
+%  \item T1: 5 curses will be taken and they will be suggested by the doctoral committee.
+ \item T2: State-of-the-art review in human activity recognition using 
+ nonlinear dynamics.
+% \item T3: Definition of the experiments and motion capture system.
+% \item T4: Programming method to obtain the reconstructed attractor
+% \item T5: Evaluate the nonlinear measurements and the motion characterization.
+\item T6: Review of state-of-the-art of machine learning methods 
+for human activity recognition using wearable sensors.
+\item T7: Definition of the experiments and application(s).
+\item T8: Selecting the subjects to test the application(s) in order to have 
+data for publications.
+\item T9: Comparison of the proposed approach with recent methods.
+\item T10 Writing, review and PhD thesis defence.
+\end{itemize}
+
+Timeline is shown in the gantt chart (Figure \ref{fig:ganttchart})
+in which each year is divided into four periods (1 to 4).
+Additionally, it is an objective to write and publish at least two articles per year.
+
+
+\begin{figure}[htbp!] 
+\begin{center}
+  \begin{gantt}{12}{12} %{rows}{columns}
+    \begin{ganttitle}
+      \numtitle{2014}{1}{2014}{1}
+      \numtitle{2015}{1}{2016}{4}
+      \numtitle{2017}{1}{2017}{3}
+    \end{ganttitle}
+    
+    \begin{ganttitle}
+      \numtitle{1}{1}{2}{1} % Titles with numbers
+      \numtitle{1}{1}{2}{1}
+      \numtitle{1}{1}{4}{1}
+      \numtitle{1}{1}{3}{1}
+%       \numtitle{1}{1}{3}{1}
+    \end{ganttitle}
+    
+  \ganttbar{T1}{0}{4}
+  \ganttbarcon{T2}{4}{2}
+  \ganttbarcon{T3}{5}{1}
+  \ganttbarcon{T4}{6}{2}
+  \ganttbarcon{T5}{6}{2}
+  \ganttbarcon{T6}{8}{1}
+  \ganttbarcon{T7}{8}{1}
+  \ganttbarcon{T8}{9}{1}
+  \ganttbarcon{T9}{9}{2}
+  \ganttbar{T10}{10}{2}
+  \end{gantt}
+  \caption[PA]{Gantt Chart for the research proposal}
+\label{fig:ganttchart}
+  \end{center}
+\end{figure}
+  
+  
+  

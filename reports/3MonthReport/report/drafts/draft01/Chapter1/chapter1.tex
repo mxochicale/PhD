@@ -1,0 +1,124 @@
+%*****************************************************************************************
+%*********************************** First Chapter ***************************************
+%*****************************************************************************************
+
+\chapter{Introduction}  %Title of the First Chapter
+
+\ifpdf
+    \graphicspath{{Chapter1/Figs/Raster/}{Chapter1/Figs/PDF/}{Chapter1/Figs/}}
+\else
+    \graphicspath{{Chapter1/Figs/Vector/}{Chapter1/Figs/}}
+\fi
+
+Human Activity Recognition (HAR) has been a challenging task \cite{Aggarwal2004}, 
+since human body activity is complex and highly diverse \cite{Kim2010}.
+HAR has many potential applications; for instance, these can be seen in personal 
+assistants, surveillance, patient monitoring, sports analysis, dance activities, 
+human-robot interaction and biometrics to mention but a few \cite{Aggarwal2011}. 
+HAR has given several frameworks in recognizing primitive activities 
+such as walking, jogging, cycling, jumping; nonetheless, little work has been been
+done in identifying complex activities that for example involve dance. 
+
+Dance activities reflects the dancer's profile i.e., rhythmic sense, 
+home country \cite{Iwai2011}, personality, biological features (i.e., genre and age),
+dancing skills (i.e., fluency of the motion, adding erractical or additional movements,
+coordination and turbulence in dance, steadynees of the rhythm, predictability of 
+the motion) \cite{GrammerK.ElisabethOberzaucher2011}.
+Henceforth, for the current PhD work
+we are focusing on the multiattribute classification of dancing activities 
+since these are complex and  highly dinamyc activities to identify.
+
+On the other hand, HAR deals with many issues which are
+a) the different types of activities to recongnise,
+b) the selection of motion capture system which should be unobtrusive and inexpensive,
+c) the selection of algorithms for feature extraction and classification,
+d) and the response time (offline or online) \cite{Lara2013}.
+Yet, the chosen approach varies almost as greatly as the types of activities 
+that have been recognized and types of sensor data that have been used 
+\cite{Kim2010}. Additionally, HAR has many challenges that motivate our work 
+to find new techniques in order to recognize activities in more realistic conditions. 
+Therefore, finding appropriate methods for HAR is not only motivated by the 
+fact that the motion capture system should be non-intrusive and easy-to-wear
+but also that theoretical approach should be well suited for real-time applications.
+
+% %%MOTION CAPTURE SYSTEMS
+% There is extensive literature for motion capture systems for HAR, namely:
+% vision-based 
+% \cite{Forsyth2005,Reddy2012,Wang2006,Kim2011,Duric2002,Oikonomidis2012}; 
+% floor-sensor based \cite{Paradiso1997, Steinhage2008, Aguilar2007,
+% Wimmer2011,Yin2003,Moere2004,Richardson2004,
+% Srinivasan2005,Rangarajan2008,Visell2010, Rajalingham2010};
+% and intertial and foot-sensor based
+% \cite{Razak2012, Bamberg2008,Benocci2009,Xu2012,Holleczek2010}.
+% Of these, the latter being the least intrusive and sensors are easy-to-worn for dancing
+% activities.
+
+% %%SIGNAL CHARACTERIZATION
+% The signal characterization in HAR considers time-domain (mean, standard deviation, 
+% variance, interqualite range, mean absolute deviation, correlation between axes, 
+% entropy and kurtosis), frequency-domain (Fourier Transform and 
+% Discrete Cosine Transform),
+% others (Principal Component Analysis, Linear Discriminant Analysis
+% and Recurrent Qualitative Analysis \cite{GrammerK.ElisabethOberzaucher2011} ) 
+% for feature extraction.
+% Most recently, concepts from the nonlinear dynamics such as
+% time-delay embedding \cite{J.FrankS.Mannor2010, Sama2013, Ali2007, Basharat2009},
+%  Lyaponov exponents \cite{Ali2007}, cylindrical phase space, 
+%  H\'enon maps and Poincar\'e maps \cite{Suzuki2013}
+% have been shown to posses powerful features in activity recogntion tasks, 
+% especially given the need for small memory and processing requirements of
+% the current devices.
+
+
+
+% We hypothesise that concepts from chaos theory
+% could be a powerful tool to tackle such inconveniences.
+
+
+Thus, the aim of the PhD is focused on a full understanding 
+of the concepts from non-linear dynamics that can be used 
+as a feature extraction for machine learning algorithms so as to provide 
+a robust HAR approach for real-time applications using inertial sensors.
+% 
+% To fulfill the previous-stated aim, the following research questions will be addressed:
+% \begin{enumerate}
+%   \setlength{\itemsep}{0pt}
+%   \setlength{\parsep}{0pt}
+%   \item 
+% % Most recently, concepts from the nonlinear dynamics such as
+% % time-delay embedding \cite{J.FrankS.Mannor2010, Sama2013, Ali2007, Basharat2009},
+% % Lyaponov exponents \cite{Ali2007}, cylindrical phase space, 
+% % H\'enon maps and Poincar\'e maps \cite{Suzuki2013}
+% % have been shown to posses powerful features in activity recogntion tasks, 
+%   
+%   Which non-reported concepts from non-linear dynamics could be use to obtain 
+%   features in the human body analysis?
+% %   \item Passive dynamic walking model has been used to investigate nonlinear gait 
+% % 	dynamic \cite{Kurz2007}. 
+% % 	Does the development of models for diffent human body activities 
+% % 	would be an accurate approach for real-time recognition?
+% %   \item Would be suitable to build models based on the reconstructed attractors 
+% % 	\cite{Nikulchev2013} for different human body activities in real-time 
+% % 	applications?
+% %   \item It has been reported that up to 50 human activities can be recongnized using 
+% % 	video based approached \cite{Reddy2012}.
+% % 	How many human body activities and with what accuracy can be recognized
+% % 	using the current proposal?
+%   \item How can motion for the wrist, the ankle and the hip be quantified so as 
+%         to set features for the better HAR? 
+% %   \item Where is the optimal place to wear the sensor for 
+% % 	the recognition of dancing activities?
+%   \item Which axis(es) among accelerations, gyroscope and magnetometer 
+% 	will provide the best information for different HAR?
+%   \item Machine learning
+% \end{enumerate}
+
+
+% Given this questions, 
+This three month report is organised as follows: First,
+the state-of-the-art in motion capture systems, machine learning approaches in HAR
+and human body analysis using nonlinear dynamics are reviewed in Section 2. Sencond, 
+the proposed framework and the workplan is presented in section 3.
+
+
+

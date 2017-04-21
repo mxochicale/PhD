@@ -1,0 +1,352 @@
+\begin{thebibliography}{10}
+
+\bibitem{Aggarwal2004}
+Aggarwal, J., and Park, S.
+\newblock {Human motion: modeling and recognition of actions and interactions}.
+\newblock {\em Proceedings. 2nd International Symposium on 3D Data Processing,
+  Visualization and Transmission, 2004. 3DPVT 2004.\/} (2004), 640--647.
+
+\bibitem{Aggarwal2011}
+Aggarwal, J.~K., and Ryoo, M.~S.
+\newblock {Human activity analysis: A review}.
+\newblock {\em ACM Computing Surveys (CSUR)\/} (2011).
+
+\bibitem{Aguilar2007}
+Aguilar, R., Roelofsz, M., and Meijer, G.
+\newblock {Capacitive Human-detection Systems with Auto-calibration}.
+\newblock {\em smartec-sensors.com\/} (2007), 1--9.
+
+\bibitem{Akiduki2013}
+Akiduki, T., Zhang, Z., Imamura, T., Miyake, T., Takahashi, H., and Namba, M.
+\newblock {Toward Symbolization of Human Motion Data -- Statistical Analysis in
+  Symbol Space --}.
+\newblock 1475--1480.
+
+\bibitem{Akiduki2014}
+Akiduki, T., Zhang, Z., Imamura, T., and Takahashi, H.
+\newblock {Toward symbolization of human motion data –time-series clustering
+  in symbol space–}.
+\newblock 1--6.
+
+\bibitem{Ali2007}
+Ali, S., Basharat, A., and Shah, M.
+\newblock {Chaotic Invariants for Human Action Recognition}.
+\newblock {\em 2007 IEEE 11th International Conference on Computer Vision\/}
+  (2007), 1--8.
+
+\bibitem{Bamberg2008}
+Bamberg, S. J.~M., Benbasat, A.~Y., Scarborough, D.~M., Krebs, D.~E., and
+  Paradiso, J.~a.
+\newblock {Gait analysis using a shoe-integrated wireless sensor system.}
+\newblock {\em IEEE transactions on information technology in biomedicine : a
+  publication of the IEEE Engineering in Medicine and Biology Society 12}, 4
+  (July 2008), 413--23.
+
+\bibitem{Basharat2009}
+Basharat, A., and Shah, M.
+\newblock {Time series prediction by chaotic modeling of nonlinear dynamical
+  systems}.
+\newblock {\em Computer Vision, 2009 IEEE 12th \ldots\/} (2009).
+
+\bibitem{Bautista2013}
+Bautista, M., and Hern\'{a}ndez-Vela, A.
+\newblock {Probability-based dynamic time warping for gesture recognition on
+  RGB-D data}.
+\newblock {\em Advances in Depth \ldots\/} (2013).
+
+\bibitem{Benocci2009}
+Benocci, M., and {Rocchi, Laura, Elisabetta Farella, Lorenzo Chiari}, L.~B.
+\newblock {A wireless system for gait and posture analysis based on pressure
+  insoles and Inertial Measurement Units}.
+\newblock {\em \ldots for Healthcare, 2009. \ldots\/} (2009).
+
+\bibitem{Bernardin2003}
+Bernardin, K., Ogawara, K., Ikeuchi, K., and Dillmann, R.
+\newblock {A Hidden Markov Model Based Sensor Fusion Approach for Recognizing
+  Continuous Human Grasping Sequences}.
+
+\bibitem{Boesnach2004}
+Boesnach, I., Moldenhauer, J., Burgmer, C., Beth, T., Wank, V., and Bos, K.
+\newblock {Classification of phases in human motions by neural networks and
+  hidden Markov models}.
+\newblock {\em IEEE Conference on Cybernetics and Intelligent Systems, 2004.
+  2\/} (2004), 976--981.
+
+\bibitem{Boulgouris2004}
+Boulgouris, N.~V., Plataniotis, K.~N., and Hatzinakos, D.
+\newblock {Gait Recognition Using Dynamic Time Warping}, 2004.
+
+\bibitem{Buzzi2003}
+Buzzi, U.~H., Stergiou, N., Kurz, M.~J., Hageman, P.~a., and Heidel, J.
+\newblock {Nonlinear dynamics indicates aging affects variability during gait}.
+\newblock {\em Clinical Biomechanics 18}, 5 (June 2003), 435--443.
+
+\bibitem{Celebi2011}
+Celebi, S., Aydin, A.~S., Temiz, T.~T., and Arici, T.
+\newblock {Gesture Recognition Using Skeleton Data with Weighted Dynamic Time
+  Warping}.
+
+\bibitem{Chang2000}
+Chang, C., and Huang, C.-l.
+\newblock {The model-based human body motion analysis system}.
+\newblock 1067--1083.
+
+\bibitem{Chen2003}
+Chen, F.-S., Fu, C.-M., and Huang, C.-L.
+\newblock {Hand gesture recognition using a real-time tracking method and
+  hidden Markov models}.
+\newblock {\em Image and Vision Computing 21}, 8 (Aug. 2003), 745--758.
+
+\bibitem{Cuaya2013}
+Cuaya, G., Mu\~{n}oz Mel\'{e}ndez, A., {Nu\~{n}ez Carrera}, L., Morales, E.~F.,
+  Qui\~{n}ones, I., P\'{e}rez, A.~I., and Alessi, A.
+\newblock {A dynamic Bayesian network for estimating the risk of falls from
+  real gait data.}
+\newblock {\em Medical \& biological engineering \& computing 51}, 1-2 (Feb.
+  2013), 29--37.
+
+\bibitem{Eickeler1998}
+Eickeler, S., Kosmala, A., and Rigoll, G.
+\newblock {Hidden markov model based continuous online gesture recognition}.
+\newblock {\em Pattern Recognition, 1998. \ldots\/} (1998).
+
+\bibitem{Forsyth2005}
+Forsyth, D.~a., Arikan, O., Ikemoto, L., O'Brien, J., and Ramanan, D.
+\newblock {Computational Studies of Human Motion: Part 1, Tracking and Motion
+  Synthesis}.
+\newblock {\em Foundations and Trends® in Computer Graphics and Vision 1}, 2/3
+  (2005), 77--254.
+
+\bibitem{J.FrankS.Mannor2010}
+Frank, J., Mannor, S., and Precup, D.
+\newblock {Activity and Gait Recognition with Time-Delay Embeddings Time-Delay
+  Embeddings}.
+
+\bibitem{Gouwanda2012}
+Gouwanda, D., and Senanayake, A.
+\newblock {Non-linear Time Analysis to Estimate Gait Stability Using Wearable
+  Gyroscopes Network}.
+\newblock {\em Journal of Robotics and \ldots 24}, 4 (2012), 1--22.
+
+\bibitem{GrammerK.ElisabethOberzaucher2011}
+{Grammer K., Elisabeth Oberzaucher}, I.~H., and Atmaca, S.
+\newblock {Dance: the Human Body as a Dynamic Motion System}.
+\newblock {\em The Implications of \ldots\/} (2011), 173--192.
+
+\bibitem{Tao2009}
+Gu, T., Wu, Z., Tao, X., Pung, H.~K., and Lu, J.
+\newblock {epSICAR: An Emerging Patterns based approach to sequential,
+  interleaved and Concurrent Activity Recognition}.
+\newblock {\em 2009 IEEE International Conference on Pervasive Computing and
+  Communications\/} (Mar. 2009), 1--9.
+
+\bibitem{Harbourne2009}
+Harbourne, R.~T., and Stergiou, N.
+\newblock {Movement variability and the use of nonlinear tools: principles to
+  guide physical therapist practice.}
+\newblock {\em Physical therapy 89}, 3 (Mar. 2009), 267--82.
+
+\bibitem{Holleczek2010}
+Holleczek, T., and {Ruegg, A, Holger Harms}, G.~T.
+\newblock {Textile pressure sensors for sports applications}.
+\newblock {\em Sensors, 2010 IEEE\/} (2010).
+
+\bibitem{Ijspeert2013}
+Ijspeert, A.~J., Nakanishi, J., Hoffmann, H., Pastor, P., and Schaal, S.
+\newblock {Dynamical movement primitives: learning attractor models for motor
+  behaviors.}
+\newblock {\em Neural computation 25}, 2 (Feb. 2013), 328--73.
+
+\bibitem{Iwai2011}
+Iwai, D., Felipe, T., Nagata, N., and Inokuchi, S.
+\newblock {Identification of motion features affecting perceived rhythmic sense
+  of virtual characters through comparison of latin american and japanese
+  dances}.
+\newblock {\em Information and Media \ldots\/} (2011).
+
+\bibitem{Ji2013}
+Ji, S., Yang, M., and Yu, K.
+\newblock {3D convolutional neural networks for human action recognition.}
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence
+  35}, 1 (Jan. 2013), 221--31.
+
+\bibitem{Kim2010}
+Kim, E., Helal, S., and Cook, D.
+\newblock {Human activity recognition and pattern discovery}.
+\newblock {\em Pervasive Computing, IEEE 9}, 1 (Jan. 2010), 48.
+
+\bibitem{Kohn2012}
+Kohn, B., Ieee, M., Nowakowska, A., Belbachir, A.~N., and Ieee, M.
+\newblock {Real - time Body Motion Analysis For Dance Pattern Recognition AIT
+  Austrian Institute of Technology GmbH}.
+\newblock 48--53.
+
+\bibitem{Lara2013}
+Lara, O.~D., and Labrador, M.~A.
+\newblock {A Survey on Human Activity Recognition using}.
+\newblock 1192--1209.
+
+\bibitem{Lin2007}
+Lin, Z., Davis, L.~S., Doermann, D., and DeMenthon, D.
+\newblock {Hierarchical Part-Template Matching for Human Detection and
+  Segmentation}.
+\newblock {\em 2007 IEEE 11th International Conference on Computer Vision\/}
+  (2007), 1--8.
+
+\bibitem{Modi2011}
+Modi, R.~V.
+\newblock {Neural Network based Approach for Recognition Human Motion using
+  Stationary Camera}.
+\newblock 43--47.
+
+\bibitem{Moere2004}
+Moere, A.~V., and Beilharz, K.
+\newblock {infosense: Interaction Design for Sensate Spaces}.
+\newblock {\em \ldots of the Australian \& New Zealand \ldots\/} (2004).
+
+\bibitem{Nguyen2009}
+Nguyen, D.~T., Li, W., and Ogunbona, P.
+\newblock {A novel template matching method for human detection}.
+\newblock {\em 2009 16th IEEE International Conference on Image Processing
+  (ICIP)\/} (Nov. 2009), 2549--2552.
+
+\bibitem{Niu2004}
+Niu, W., Long, J., Han, D., and Wang, Y.
+\newblock {Human activity detection and recognition for video surveillance}.
+\newblock {\em Multimedia and Expo, 2004. \ldots\/} (2004), 2--5.
+
+\bibitem{Paradiso1997}
+Paradiso, J., and Reynolds, M.
+\newblock {The Magic Carpet : Physical Sensing for Immersive Environments}.
+
+\bibitem{Perc2005}
+Perc, M.
+\newblock {The dynamics of human gait}.
+\newblock {\em European Journal of Physics 26}, 3 (May 2005), 525--534.
+
+\bibitem{Rajalingham2010}
+Rajalingham, R., Visell, Y., and Cooperstock, J.~R.
+\newblock {Probabilistic Tracking of Pedestrian Movements via In-Floor Force
+  Sensing}.
+\newblock {\em 2010 Canadian Conference on Computer and Robot Vision\/} (2010),
+  143--150.
+
+\bibitem{Rangarajan2008}
+Rangarajan, S., and Kidan\'{e}, A.
+\newblock {Design optimization of pressure sensing floor for multimodal
+  human-computer interaction}.
+\newblock {\em \ldots Computer Interaction, I- \ldots\/} (2008).
+
+\bibitem{Razak2012}
+Razak, A. H.~A., Zayegh, A., Begg, R.~K., and Wahab, Y.
+\newblock {Foot plantar pressure measurement system: a review.}
+\newblock {\em Sensors (Basel, Switzerland) 12}, 7 (Jan. 2012), 9884--912.
+
+\bibitem{Richardson2004}
+Richardson, B., Leydon, K., Fernstr\"{o}m, M., and Paradiso, J.~A.
+\newblock {Z-Tiles : Building Blocks for Modular , Pressure-Sensing
+  Floorspaces}.
+\newblock 1529--1532.
+
+\bibitem{Rosenblum1994}
+Rosenblum, M., and Davis, L.~S.
+\newblock {Human Emotion Recognition from Motion Using a Radial Basis Function
+  Network Architecture 1 Introduction Recent research in computer vision}.
+
+\bibitem{Sama2013}
+Sam\`{a}, A., Ruiz, F.~J., Agell, N., P\'{e}rez-L\'{o}pez, C., Catal\`{a}, A.,
+  and Cabestany, J.
+\newblock {Gait identification by means of box approximation geometry of
+  reconstructed attractors in latent space}.
+\newblock {\em Neurocomputing 121\/} (Dec. 2013), 79--88.
+
+\bibitem{Schuldt2004}
+Sch\"{u}ldt, C., Laptev, I., and Caputo, B.
+\newblock {Recognizing human actions: A local SVM approach}.
+\newblock {\em Proceedings - International Conference on Pattern Recognition
+  3\/} (2004), 32--36.
+
+\bibitem{Srinivasan2005}
+Srinivasan, P., Birchfield, D., Qian, G., and Kidan\'{e}, A.
+\newblock {A pressure sensing floor for interactive media applications}.
+\newblock {\em Proceedings of the 2005 ACM SIGCHI International Conference on
+  Advances in computer entertainment technology - ACE '05\/} (2005), 278--281.
+
+\bibitem{Steinhage2008}
+Steinhage, A., and Lauterbach, C.
+\newblock {Monitoring Movement Behavior by Means of a Large Area Proximity
+  Sensor Array in the Floor.}
+\newblock {\em BMI\/} (2008), 15--27.
+
+\bibitem{Suzuki2013}
+Suzuki, H., and Yamamoto, Y.
+\newblock Dexterity of switched hitting movement using fractal dimension
+  analysis.
+\newblock {\em Japanese Journal of Sport Psychology 40}, 2 (2013), 91--108.
+
+\bibitem{Terrier2013}
+Terrier, P., and Deriaz, O.
+\newblock {Nonlinear dynamics of human locomotion : effects of rhythmic
+  auditory cueing on local dynamic stability}.
+\newblock 1--28.
+
+\bibitem{Venkataraman2013}
+Venkataraman, V., Turaga, P., Lehrer, N., Baran, M., Rikakis, T., and Wolf,
+  S.~L.
+\newblock {Attractor-Shape for Dynamical Analysis of Human Movement:
+  Applications in Stroke Rehabilitation and Action Recognition}.
+\newblock {\em 2013 IEEE Conference on Computer Vision and Pattern Recognition
+  Workshops\/} (June 2013), 514--520.
+
+\bibitem{Vieten2013}
+Vieten, M.~M., Sehle, A., and Jensen, R.~L.
+\newblock {A novel approach to quantify time series differences of gait data
+  using attractor attributes.}
+\newblock {\em PloS one 8}, 8 (Jan. 2013), e71824.
+
+\bibitem{Visell2010}
+Visell, Y., Smith, S., Law, A., Rajalingham, R., and Cooperstock, J.~R.
+\newblock {Contact sensing and interaction techniques for a distributed,
+  multimodal floor display}.
+\newblock {\em 2010 IEEE Symposium on 3D User Interfaces (3DUI)}, 1 (Mar.
+  2010), 75--78.
+
+\bibitem{Wang2006}
+Wang, S.~B., Quattoni, A., Morency, L.-P., Demirdjian, D., and Darrell, T.
+\newblock {Hidden Conditional Random Fields for Gesture Recognition}.
+\newblock {\em 2006 IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition - Volume 2 (CVPR'06) 2\/} (2006), 1521--1527.
+
+\bibitem{Wang2014}
+Wang, X., and Ji, Q.
+\newblock {Context augmented Dynamic Bayesian Networks for event recognition}.
+\newblock {\em Pattern Recognition Letters 43\/} (July 2014), 62--70.
+
+\bibitem{Wimmer2011}
+Wimmer, R.
+\newblock {Capacitive sensors for whole body interaction}.
+\newblock {\em Whole Body Interaction\/} (2011).
+
+\bibitem{Xu2012}
+Xu, W., and Liu, J.~J.
+\newblock {Smart Insole : A Wearable System for Gait Analysis}.
+\newblock 1--4.
+
+\bibitem{Yamamoto2000}
+Yamamoto, Y., and Gohara, K.
+\newblock {Continuous hitting movements modeled from the perspective of
+  dynamical systems with temporal input}.
+\newblock {\em Human Movement Science 19}, 3 (Aug. 2000), 341--371.
+
+\bibitem{Yin2003}
+Yin, K., and Pai, D.
+\newblock {Footsee: an interactive animation system}.
+\newblock {\em \ldots /Eurographics symposium on Computer animation\/} (2003).
+
+\bibitem{Zhang2010}
+Zhang, J., Zhang, K., Feng, J., and Small, M.
+\newblock {Rhythmic dynamics and synchronization via dimensionality reduction:
+  application to human gait.}
+\newblock {\em PLoS computational biology 6}, 12 (Jan. 2010), e1001033.
+
+\end{thebibliography}
