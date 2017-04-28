@@ -44,14 +44,19 @@ to reproduce somethig BUT, there are two separate things
 (a) one is the perception of what they are suppose to do and 
 (b) the other is their execution of that.
 A lot of the time when the children did something wrong is because of the perception 
-of what they are trying to do is incorrect 
-.
-.
-.
+of what they are trying to do is incorrect   
 
+[Chris Baber](http://www.birmingham.ac.uk/staff/profiles/eese/baber-chris.aspx)'s comment [36:08] 
 
+What the persons seems to be doing is 
+is not what the person is expected to be doing but they are doing quite consistenly 
 
+#### [Aaron Sloman](http://www.cs.bham.ac.uk/~axs/)' comments [37:33]
+
+#### [Bob Hendley](http://www.cs.bham.ac.uk/~rjh/)'s comments [42:02]
+
+#### [Rowanne Fleck](https://www.cs.bham.ac.uk/~fleckr/)'s comments [42:26]
 
 #### MY CRITICTS. 
-Englihs Language: I believe that my English language speaking skills are still far from good.  I am certainly sure that finding the appropriate words to express what is in your mind is challenging. I will try to get it of 'basically' which I used quite a lot in the presentation.  
+Englihs Language: I believe that my English language speaking skills are still far from good.  I am certainly sure that finding the appropriate words to express what is in one's mind is challenging. I will try to get rid of 'basically' which I used quite a lot in the presentation.  
 Presentation: When explaining the time series from inertial sensors, it would be good for the eyes of the audience to zoom the areas where variability is more noticeable. 
