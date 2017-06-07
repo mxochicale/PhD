@@ -1,0 +1,52 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{markdown}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=81f9937d242978bf6b5bef61bbb7972f}{%
+           family={Gruber},
+           familyi={G\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=044176fb833c1638f7abe20cde6a3077}{%
+           family={Swartz},
+           familyi={S\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{66fc337306fb3dafd18f1b2eb14afe1b}
+      \strng{fullhash}{66fc337306fb3dafd18f1b2eb14afe1b}
+      \strng{authornamehash}{66fc337306fb3dafd18f1b2eb14afe1b}
+      \strng{authorfullhash}{66fc337306fb3dafd18f1b2eb14afe1b}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Markdown format}
+      \field{year}{2004}
+      \verb{url}
+      \verb http://daringfireball.net/projects/markdown/syntax
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
