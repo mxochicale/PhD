@@ -1,13 +1,11 @@
-Towards the Analysis of Movement Variability in Human-Humanoid Interaction
+Towards the Quantification of Human-Robot Imitation Using Wearable Inertial Sensors
 ---
 Miguel P. Xochicale [1], Chris Baber [1] and Mourad Oussalah [2]  
-[1] School of Engineering, University of Birmingham, U.K.  
+[1] School of Engineering, University of Birmingham, UK
 [2] Centerfor Ubiquitous Computing, University of Oulu, Finland  
 
-Presentation for the HCI Seminars  
-at the School of Computer Science, University of Birmingham, UK  
-26 April 2017  
+Presentation for Seminario Rob'otica at INAOE, M'exico.   
+7 June 2017   
 
-
-
+ 
 # Extra Comments
