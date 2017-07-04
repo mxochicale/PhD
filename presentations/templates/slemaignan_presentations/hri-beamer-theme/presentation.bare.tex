@@ -16,6 +16,132 @@
 
 \usepackage{fontawesome}
 
+
+
+
+\usepackage{tikz}
+\usetikzlibrary{calc,shapes,shadows}
+\usetikzlibrary{fadings}
+% REFERENCES
+% https://tex.stackexchange.com/questions/135393/how-to-draw-bar-pie-chart
+% https://tex.stackexchange.com/questions/56254/how-to-design-a-3d-donut-pie-chart-with-pgf-plot
+
+
+
+
+
+\pgfkeys{%
+/piechartthreed/.cd,
+scale/.code                =  {\def\piechartthreedscale{#1}},
+mix color/.code            =  {\def\piechartthreedmixcolor{#1}},
+background color/.code     =  {\def\piechartthreedbackcolor{#1}},
+name/.code                 =  {\def\piechartthreedname{#1}}}
+
+ \newcommand\piechartthreed[2][]{%
+   \pgfkeys{/piechartthreed/.cd,
+     scale            = 1,
+     mix color        = gray,
+     background color = white,
+     name             = pc}
+  \pgfqkeys{/piechartthreed}{#1}
+  \begin{scope}[scale=\piechartthreedscale]
+  \begin{scope}[xscale=5,yscale=3]
+     \path[preaction={fill=black,opacity=.8,
+         path fading=circle with fuzzy edge 20 percent,
+         transform canvas={yshift=-15mm*\piechartthreedscale}}] (0,0) circle (1cm);
+    \fill[gray](0,0) circle (0.5cm);
+     \path[preaction={fill=\piechartthreedbackcolor,opacity=.8,
+          path fading=circle with fuzzy edge 20 percent,
+          transform canvas={yshift=-10mm*\piechartthreedscale}}] (0,0) circle (0.5cm);
+     \pgfmathsetmacro\totan{0}
+     \global\let\totan\totan
+     \pgfmathsetmacro\bottoman{180} \global\let\bottoman\bottoman
+     \pgfmathsetmacro\toptoman{0}   \global\let\toptoman\toptoman
+     \begin{scope}[draw=black,thin]
+     \foreach \an/\col [count=\xi] in {#2}{%
+     \def\space{ }
+        \coordinate (\piechartthreedname\space\xi) at (\totan+\an/2:0.75cm);
+        \ifdim 180pt>\totan pt
+         \ifdim 0pt=\toptoman pt
+            \shadedraw[left color=\col!20!\piechartthreedmixcolor,
+                       right color=\col!5!\piechartthreedmixcolor,
+                       draw=black,very thin] (0:.5cm) -- ++(0,-3mm) arc (0:\totan+\an:.5cm)
+                                                       -- ++(0,3mm)  arc (\totan+\an:0:.5cm);
+            \pgfmathsetmacro\toptoman{180}
+            \global\let\toptoman\toptoman
+            \else
+            \shadedraw[left color=\col!20!\piechartthreedmixcolor,
+                       right color=\col!5!\piechartthreedmixcolor,
+                       draw=black,very thin](\totan:.5cm)-- ++(0,-3mm) arc(\totan:\totan+\an:.5cm)
+                                                        -- ++(0,3mm)  arc(\totan+\an:\totan:.5cm);
+          \fi
+        \fi
+        \fill[\col!20!gray,draw=black] (\totan:0.5cm)--(\totan:1cm)  arc(\totan:\totan+\an:1cm)
+                                     --(\totan+\an:0.5cm) arc(\totan+\an:\totan :0.5cm);
+       \pgfmathsetmacro\finan{\totan+\an}
+       \ifdim 180pt<\finan pt
+         \ifdim 180pt=\bottoman pt
+            \shadedraw[left color=\col!20!\piechartthreedmixcolor,
+                       right color=\col!5!\piechartthreedmixcolor,
+                       draw=black,very thin] (180:1cm) -- ++(0,-3mm) arc (180:\totan+\an:1cm)
+                                                       -- ++(0,3mm)  arc (\totan+\an:180:1cm);
+            \pgfmathsetmacro\bottoman{0}
+            \global\let\bottoman\bottoman
+            \else
+            \shadedraw[left color=\col!20!\piechartthreedmixcolor,
+                       right color=\col!5!\piechartthreedmixcolor,
+                       draw=black,very thin](\totan:1cm)-- ++(0,-3mm) arc(\totan:\totan+\an:1cm)
+                                                        -- ++(0,3mm)  arc(\totan+\an:\totan:1cm);
+          \fi
+        \fi
+        \pgfmathsetmacro\totan{\totan+\an}  \global\let\totan\totan
+       }
+    \end{scope}
+    \draw[thin,black](0,0) circle (0.5cm);
+   \end{scope}
+\end{scope}
+}
+
+
+
+\global\edef\lastangle{0}
+\newcounter{sectornumber}
+
+
+\newcommand{\ring}[4]{% angles&colors, inner, outer radius, height
+\begin{scope}[x={(0.866cm,0.5cm)},y={(-0.866cm,0.5cm)},z={(0cm,1cm)}]
+\global\edef\lastangle{0}
+\setcounter{sectornumber}{1}
+\foreach \x/\ringcolor in {#1}
+{   \pgfmathsetmacro{\na}{\lastangle+\x*3.6}
+    \colorlet{darkercolor}{\ringcolor!60!black}
+    \colorlet{darkestcolor}{\ringcolor!20!black}
+    \shadedraw[top color=darkercolor,bottom color=darkestcolor,draw=darkercolor] (\lastangle:#2) arc (\lastangle:\na:#2) -- ++(0,0,#4) arc (\na:\lastangle:#2) -- cycle;
+    \shadedraw[top color=darkercolor,bottom color=darkestcolor,draw=darkercolor] (\lastangle:#3) arc (\lastangle:\na:#3) -- ++(0,0,#4) arc (\na:\lastangle:#3) -- cycle;
+    \global\edef\lastangle{\na}
+}
+\global\edef\lastangle{0}
+\foreach \x/\ringcolor in {#1}
+{   \pgfmathsetmacro{\na}{\lastangle+\x*3.6}
+    \colorlet{darkercolor}{\ringcolor!60!black}
+    \colorlet{darkestcolor}{\ringcolor!20!black}
+    \fill[\ringcolor,draw=darkercolor] (0,0,#4) ++(\lastangle:#2) arc (\lastangle:\na:#2) -- ++(\na:#3-#2) arc (\na:\lastangle:#3) -- cycle;
+    \pgfmathsetmacro{\nodepos}{(#3+#2)*0.5}
+    \node (n\thesectornumber) at ($(0,0,#4)+(\lastangle+\x*1.8:\nodepos)$) {};
+    \stepcounter{sectornumber}
+    \global\edef\lastangle{\na}
+}
+\end{scope}
+}
+
+
+
+
+
+
+
+
+
 %--------------------------------------------------------------------------
 % Load theme
 %--------------------------------------------------------------------------
@@ -271,7 +397,66 @@
 \end{frame}
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{TikZ 1/3}
+\begin{frame}{3D pie chart with TikZ}
+    \centering
 
+
+
+
+     \pagecolor{orange!50}
+     \begin{tikzpicture}
+       \piechartthreed[scale=0.55,
+                       background color=orange!50,
+                       mix color= darkgray]
+                       {40/green,60/blue,90/red,50/orange,120/yellow}
+       \foreach \i in {1,...,5} { \fill (pc \i) circle (.5mm);}
+       \draw[darkgray] (pc 1)  -- ++(4,0) coordinate (s1) node[anchor=south east] {Sector 1}
+                                                          node[anchor=north east] {11\%};
+       \draw[darkgray] (pc 5)  -- (pc 5 -| s1) node[anchor=south east] {Sector 5}
+                                                          node[anchor=north east] {33\%};
+       \draw[darkgray] (pc 2)  -- ++(1,1) coordinate (s2) -- (s2 -| s1) node[anchor=south east] {Sector 2}
+                                                          node[anchor=north east] {17\%};
+       \draw[darkgray] (pc 3)  -- ++(-4,0) coordinate (s3) node[anchor=south west] {Sector 3}
+                                                          node[anchor=north west] {14\%};
+       \draw[darkgray] (pc 4)  -- ++(-1,-1) coordinate (s4) --(s4 -| s3) node[anchor=south west] {Sector 4}
+                                                          node[anchor=north west] {25\%};
+     \end{tikzpicture}
+
+  enter image description here
+
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{TikZ 2/3}
+\begin{frame}{3D pie chart with TikZ}
+    \centering
+
+\begin{tikzpicture}
+\ring{5/red!80!gray,15/blue!80!gray,15/yellow!80!gray,25/green!80!gray,10/orange!80!gray,10/violet!80!gray,5/brown!80!gray,15/cyan!80!gray}{3}{4}{0.5}
+\foreach \x/\label in {1/Kill Bill,2/The Godfather,3/Garden State,4/Sin City,5/Fight Club,6/Star Trek VI,7/Terminator 2,8/Gran Torino}
+{   \draw[thick] (n\x) -- ++(0,0.5) node[fill=white,draw,rounded rectangle,inner sep=2pt,thin,fill opacity=0.7,text opacity=1] {\tiny\label};
+}
+\end{tikzpicture}
+
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{TikZ 3/3}
+\begin{frame}{3D pie chart with TikZ}
+    \centering
+
+
+\begin{tikzpicture}[x={(0.866cm,0.5cm)},y={(-0.866cm,0.5cm)},z={(0cm,1cm)}]
+\ring{5/red!80!gray,15/blue!80!gray,15/yellow!80!gray,25/green!80!gray,10/orange!80!gray,10/violet!80!gray,5/brown!80!gray,15/cyan!80!gray}{2}{4}{2}
+\foreach \x/\label in {1/Kill Bill,2/The Godfather,3/Garden State,4/Sin City,5/Fight Club,6/Star Trek VI,7/Terminator 2,8/Gran Torino}
+{   \draw[thick] (n\x) -- ++(0.5,0.5) node[fill=white,draw,rounded rectangle,inner sep=2pt,thin,fill opacity=0.7,text opacity=1] {\tiny\label};
+}
+\end{tikzpicture}
+\end{frame}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
