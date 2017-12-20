@@ -49,3 +49,7 @@ centre line in the highway create such tension.
 
 * How things flow in your poster?
 * How to persuade the eye?
+
+# TODO 
+
+- [ ] Add more references and images of inspiration
