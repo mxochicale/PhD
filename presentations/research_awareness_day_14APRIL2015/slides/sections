@@ -1,0 +1,276 @@
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%SECTION00
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+	\frametitle{Why is HAR a challenging task?}
+\vspace{-0.5cm}
+\begin{figure}
+ \includegraphics[scale=.3]{har00}
+\vspace{-0.6cm}
+%  \caption{Reconstructed State Space Via Taken's Theorem}
+\end{figure}
+\end{frame}
+%---------------------------------------------------
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+	\frametitle{Why is HAR a challenging task?}
+\vspace{-0.5cm}
+\begin{figure}
+ \includegraphics[scale=.3]{har02}
+\vspace{-0.6cm}
+%  \caption{Reconstructed State Space Via Taken's Theorem}
+\end{figure}
+\end{frame}
+%---------------------------------------------------
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+	\frametitle{Why is HAR a challenging task?}
+\vspace{-0.5cm}
+\begin{figure}
+ \includegraphics[scale=.3]{har03}
+\vspace{-0.6cm}
+%  \caption{Reconstructed State Space Via Taken's Theorem}
+\end{figure}
+\end{frame}
+%---------------------------------------------------
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+	\frametitle{Why is HAR a challenging task?}
+\vspace{-0.5cm}
+\begin{figure}
+ \includegraphics[scale=.3]{har04}
+\vspace{-0.6cm}
+%  \caption{Reconstructed State Space Via Taken's Theorem}
+\end{figure}
+\end{frame}
+%---------------------------------------------------
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+	\frametitle{Why is HAR a challenging task?}
+\vspace{-0.5cm}
+\begin{figure}
+ \includegraphics[scale=.3]{har05}
+\vspace{-0.6cm}
+%  \caption{Reconstructed State Space Via Taken's Theorem}
+\end{figure}
+\end{frame}
+%---------------------------------------------------
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+	\frametitle{Why is HAR a challenging task?}
+\vspace{-0.5cm}
+\begin{figure}
+ \includegraphics[scale=.3]{har01}
+\vspace{-0.6cm}
+%  \caption{Reconstructed State Space Via Taken's Theorem}
+\end{figure}
+\end{frame}
+%---------------------------------------------------
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+	\frametitle{Research Questions}
+
+    \begin{itemize}
+    \item Which concepts from nonlinear dynamics can be used to characterize
+          human motion activities?
+    \item How the state space reconstruction quantify the dexterity of human body activities?
+    \end{itemize}
+
+\end{frame}
+%---------------------------------------------------
+
+
+
+
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%SECTION01
+
+
+
+
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{State Space Reconstruction}
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Nonlinear Dynamics in the Human Body}
+\vspace{-0.5cm}
+\begin{center}
+\includegraphics[scale=.4]{nonlinear_dynamics_in_humanbody_00}
+\end{center}
+
+
+\end{frame}
+%---------------------------------------------------
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{State Space Reconstruction}
+\vspace{-5mm}
+
+ \includegraphics[scale=.4]{takens_theorem_v2} 
+
+
+\end{frame}
+%---------------------------------------------------
+
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Takens' Theorem (1981)}
+
+
+According to Takens' Theorem, the reconstructed state space
+in  \textbf{$m$ embedding dimension} with  \textbf{ $\tau$ embedding delay}
+of the original system is given by the delay coordinate (DC) vector
+
+\begin{eqnarray*} 
+\overline{x(t)} = (x(t), x(t - \tau), x(t-2\tau), ... , x (t-(m-1)\tau).
+\end{eqnarray*}
+ 
+Takens' Theorem, also knows as time-delay embeddings method, states
+that for a large enough $m$ to unfold the attractor and $\tau > 0$ 
+chosen to maximize the information content of $x(t)$, this method provides a 
+one-to-one reconstruction of the true dimension $k$ system ($\mathbb{R}^k$).
+
+% state space 
+
+% Takens' Theorem, also knows as time-delay embeddings method, is useful 
+% when one does not have access to the the true dimension $k$
+% state space $\mathbb{R}^k$. Henceforth, it has been demostrated
+% that one can obtain a manifold in $\mathbb{R}^m$ that is one-to-one
+% and preserves local differential structure.
+
+
+% One can represent a multidimensional phase
+% space of by using the Taken's Theorem.
+% 
+% Let $o_t$ be the time series, 
+% The time-delay reconstruction in $m$ dimensions with the time delay $\tau$
+% 
+% \begin{eqnarray*} 
+% E_t : \mathbb{R}^k \rightarrow \mathbb{R}^m 
+% \end{eqnarray*}
+
+% It's natural to think that if $g'(c)>0$ then $g$ must be ``increasing at $x=c$.'' 
+% \pause But what does ``increasing at $x=c$'' really mean?
+% \pause 
+% Taken's Method
+
+% \begin{dfn} % We created the proclamation dfn near the start of the document.
+% A function $g$ is \emph{increasing at $x=c$} if there 
+% is an open interval $I=(c-\delta,c+\delta)$ such that \pause if $x_1, x_2\in I$, \pause then $x_1<x_2\Rightarrow \pause g(x_1)<g(x_2)$.
+% \end{dfn}
+\end{frame}
+%---------------------------------------------------
+
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Minimum embedding parameters}
+
+\textbf{Cao (1997)} proposed a method 
+based on the false neighbor method
+to determine the minimum embedding dimmension
+from time-series based on Taken's theorem.
+
+\textbf{Fraser et al (1985)}  used the mutual information method 
+for the choice of the delay embedding.
+
+\begin{figure}
+\centering 
+\includegraphics[scale=0.12]{e1e2cao1997} \\
+The values E1 and E2 from Lorenz attractor \textbf{Cao (1997)}
+\end{figure}
+\end{frame}
+%---------------------------------------------------
+
+
+
+
+
+
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+ \begin{frame}
+ \frametitle{Time-Delay Embedding Example }
+   
+  \begin{columns}[onlytextwidth]
+    \begin{column}{0.3\textwidth}
+Lorenz System
+ \begin{eqnarray*} 
+  \frac{dx}{dt} &=&\sigma (x-y), \\
+  \frac{dx}{dt} &=&x (\rho -z) - y, \\ 
+  \frac{dx}{dt} &=&xy - \beta z.
+ \end{eqnarray*}
+ \end{column} 
+  
+  \begin{column}{0.63\textwidth}
+       \begin{figure}
+ \includegraphics[scale=.25]{lorenzattractor}
+  \caption{$\sigma=10$, $\rho=28$ and $\beta=3/8$}
+       \end{figure}
+     \end{column}
+  \end{columns}
+ \end{frame}
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Time-Delay Embedding Example }
+
+\begin{figure}
+ \includegraphics[scale=.2]{timeseries_2dmanifolds} \\
+\caption{Time series of the Lorenz System and 2D manifolds}
+\end{figure} 
+ 
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+%%%%%%%%%%%%%%%
+%%ANIMATION in evince
+\begin{frame}
+\frametitle{Time-Delay Embedding Example}
+ \begin{columns}[onlytextwidth]
+   \begin{column}{0.5\textwidth}
+\begin{figure}
+\includegraphics[scale=.3]{XY} 
+\caption{Original Manifold}
+\end{figure} 
+\end{column} 
+ 
+ \begin{column}{0.5\textwidth}
+
+\begin{figure}
+\multiinclude[format=png,graphics={scale=0.3}]{images_frames_for_TAU/manifold_d3_t} 
+% \includegraphics[scale=0.3]{images_frames_for_TAU/manifold_d3_t-10}
+\caption{Reconstructed Manifold}
+\end{figure}
+ \end{column}
+ \end{columns}
+\end{frame}
+
+
+

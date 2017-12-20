@@ -1,0 +1,561 @@
+\documentclass{beamer} 
+% "Beamer" is a word used in Germany to mean video projector. 
+%Reference for the ProgressBar Theme 
+% http://recherche.noiraudes.net/fr/LaTeX.php
+\usetheme{progressbar}
+
+% \usefonttheme{professionalfonts} % using non standard fonts for beamer
+% \usepackage{iwona}
+
+\usefonttheme{serif} % default family is serif
+
+
+\graphicspath{{images/}}
+
+
+\setbeamertemplate{caption}[numbered]
+% Beamer Presentation: Figure has no number?
+% tex.stackexchange.com/questions/127145/
+
+
+\usepackage{xmpmulti}
+% http://choorucode.com/2010/02/09/how-to-do-image-animation-in-beamer/
+
+
+\usepackage{animate}
+% http://tex.stackexchange.com/questions/129618/
+
+% \usepackage{handoutWithNotes}
+% \pgfpagesuselayout{1 on 1 with notes landscape}[a4paper,border shrink=5mm]
+% http://www.guidodiepen.nl/2009/07/creating-latex-beamer-handouts-with-notes/comment-page-1/
+
+
+\usepackage{color} % It may be necessary to set PCTeX or whatever program you are using to output a .pdf instead of a .dvi file in order to see color on your screen.
+\usepackage{graphicx} % This package is needed if you wish to include external image files.
+
+
+\theoremstyle{definition} 
+\newtheorem*{dfn}{Definition}               
+% See Lesson Three of the LaTeX Manual for more on this kind of "proclamation."
+
+
+\title{Understanding the Reconstructed State Space 
+for Latin Dance Styles Using an IMU}
+\author{Miguel Angel \\ 
+perez.xochicale@gmail.com} 
+\institute{INAOE's Robotics Laboratory\\
+1st October 2014}
+\date{} 
+% Remove the % from the previous line and change the date if you want a particular date to be displayed; otherwise, today's date is displayed by default.
+
+\AtBeginSection[]  % The commands within the following {} will be executed at the start of each section.
+{
+\begin{frame} % Within each "frame" there will be one or more "slides."  
+\frametitle{Presentation Outline} % This is the title of the outline.
+\tableofcontents[currentsection]  % This will display the table of contents and highlight the current section.
+\end{frame}
+} % Do not include the preceding set of commands if you prefer not to have a recurring outline displayed during your presentation.
+
+
+
+
+\begin{document}
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame} 
+\titlepage
+\end{frame}
+
+
+\section{Genesis} % Since this is the start of a new section, our recurring outline will appear here.
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+ \frametitle{Open Challenge @ TMR 2013}
+
+ \begin{columns}[onlytextwidth]
+\begin{column}{0.5\textwidth}
+ \begin{figure}
+\includegraphics[scale=0.15]{hridd-blockdiagram}
+\centering 
+\caption{Human-Robot Interface}
+\end{figure}
+\end{column} 
+\begin{column}{0.5\textwidth}
+\begin{figure}
+\includegraphics[scale=0.11]{tmr2013demodance}
+\centering 
+\caption{Human Body Gestures}
+\end{figure}
+    \end{column}
+\end{columns}
+
+
+\end{frame}
+
+
+
+
+
+\section{Why is Human Activity Recognition (HAR) a challenging task?} % Since this is the start of a new section, our recurring outline will appear here.
+
+
+
+
+% %+++++++++++++++++++++++++++++++++++++++++++++++++++
+% \begin{frame}
+% 
+% \centering
+% \fontsize{30pt}{7.2}\selectfont
+% Why is Human Activity Recognition (HAR) a challenging task?
+% 
+% \end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Various Types of Activities}
+
+\begin{table}[h]
+\label{t:typesofHAR}
+\scriptsize{
+\begin{tabular}{|l|l |}
+\hline
+\textbf{Group }& \textbf{Activities} \\ \hline
+Ambulation & Walking, running, sitting, standing still, liying, climbing stairs \\ 
+           & descending stairs, riding escalator, and riding elevator. \\ \hline
+Transportation & Riding a bus, cycling and driving. \\ \hline
+Daily activities & Eating, drinking, working at the PC, watching TV,\\ 
+              & reading, brushing teeth, stretching, scrubbing, and vacuumming. \\ \hline
+Exercise & Rowing, lifting weights, spinning, Nordic walking \\ 
+       & and doing push ups. \\ \hline
+Military & Crawling, kneeling, situation assessment and  \\ 
+          & openning a door. \\ \hline
+Upper body & Chewing, speaking, swallwing, sighing, and moving the head\\ \hline  
+Others & Dancing different styles of music: latin, waltz, salsa, etc. \\ \hline  
+\end{tabular}}
+\caption{Types of activities recognized by Human Activity Recognition
+Systems}
+\end{table}
+
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{bibunit}[apalike]
+\begin{frame}
+\frametitle{Signal Characterization}
+
+\begin{table}[h]
+ \label{t:typesofHAR}
+\scriptsize{
+\begin{tabular}{|l|l |}
+\hline
+\textbf{Group}& \textbf{Methods} \\ \hline
+Time domain & Mean, standard deviation, variance, interquartile range,\\
+        & mean absolute deviation, correlation between axes,\\
+        & entropy, and kurtosis. \\ \hline  
+Frequency domain & Fourier Transform, and Discrete Cosine Transform \\ \hline  
+Others & Reconstructed State Space, Principal Component Analysis, \\
+      & Linear Discriminant Analysis, Autoregresive Model, \\
+      & and HAAR filters.\\ \hline
+\end{tabular}}
+\caption{Featured Extraction Methods\cite{Lara2013}.}
+\end{table}
+\biblio{refslides}
+\end{frame}
+\end{bibunit}
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Classification}
+
+\begin{table}[h]
+\label{t:typesofHAR}
+\scriptsize{
+\begin{tabular}{|l|l |}
+\hline
+\textbf{Group }& \textbf{Classifiers} \\ \hline
+Decision tree & C4.5 and ID3   \\ \hline  
+Instance Based & $k$-nearest neighbors \\ \hline  
+Neural Networks & Multilayer Perceptron \\ \hline  
+Domain transform & Support Vector Machines \\ \hline  
+Fuzzy Logic & Fuzzy Basis Function and Fuzzy Interference System \\ \hline  
+Regression methods & MLR, ALR \\ \hline  
+Markov models & Hidden Markov Models and Conditional Random Fields \\ \hline  
+Classifier ensembles & Boosting and Bagging  \\ \hline  
+\end{tabular}}
+\caption{Classification Algorithms \cite{Lara2013}.}
+\end{table}
+\end{frame}
+
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Motion Capture Systems}
+
+\begin{columns}[onlytextwidth]
+\begin{column}{0.5\textwidth}
+\begin{itemize}
+ \item Vision-based,
+ \item Floor-sensor based, 
+ \item Intertial-sensor based:
+ \begin{itemize}
+  \item Human Body-sensed
+  \item Foot-sensed
+ \end{itemize}
+\end{itemize}
+\end{column} 
+\begin{column}{0.5\textwidth}
+\begin{figure}
+\includegraphics[scale=0.25]{motioncapturesystems}
+\centering 
+\caption{Motion Capture Systems}
+\end{figure}
+    \end{column}
+\end{columns}
+\end{frame}
+
+
+
+\section{Dynamical System Characterization}
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{The Human Body as a Complex Dynamical System}
+Human Body Movement is the result of a complex dynamical system
+ that include:  
+\begin{columns}[onlytextwidth]
+\begin{column}{0.5\textwidth}
+\begin{itemize}
+ \item Muscular system,
+ \item Cardiovascular system,
+ \item Skeletal system, and
+ \item Nervous system.
+\end{itemize}
+\end{column} 
+\begin{column}{0.5\textwidth}
+\begin{figure}
+\includegraphics[scale=0.4]{humanbodysystems}
+\centering 
+\caption{Human Body Systems}
+\end{figure}
+    \end{column}
+\end{columns}
+
+\end{frame}
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Nonlinear Dynamics in the Human Body}
+
+\begin{figure}
+\includegraphics[scale=.3]{timeserieshumanbody}
+\centering 
+\caption{Some Time-Series from the Human Body}
+\end{figure}
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{bibunit}[apalike]
+\begin{frame}
+\frametitle{Time-Delay Embedding in HAR}
+
+\cite{Jordan2010} and \cite{Sama2013} have proposed the use Taken's Theorems
+so as to indenfity primitive human activities such as walking, cycling, and 
+running. However, little has been done regarding the identification of
+complex activities that, for example, involve dance.
+
+    \vfill
+    \biblio{refslides}
+\end{frame}
+\end{bibunit}
+
+
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Takens' Theorem (1981)}
+\vspace{-0.8cm}
+\begin{figure}
+ \includegraphics[scale=.45]{takens_theorem_final} \\
+\caption{Reconstructed State Space Via Taken's Theorem}
+\end{figure} 
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Takens' Theorem (1981)}
+
+
+According to Takens' Theorem, the reconstructed state space
+in $m$ \textbf{embedding dimension} with $\tau$ \textbf{embedding delay}
+of the original system is given by the vector sequence
+
+\begin{eqnarray*} 
+E(i) = (x_i, x_{i+\tau}, x_i, x_{i+2\tau}, ... , x_i, x_{i+(m-1)\tau}).
+\end{eqnarray*}
+ 
+Takens' Theorem, also knows as time-delay embeddings method, states
+that for a large enough $m$ to unfold the attractor and $\tau > 0$ 
+chosen to maximize the information
+content of $x_i$, this method provides a 
+one-to-one reconstruction
+of the true dimension $k$ system ($\mathbb{R}^k$).
+
+
+% state space 
+
+% Takens' Theorem, also knows as time-delay embeddings method, is useful 
+% when one does not have access to the the true dimension $k$
+% state space $\mathbb{R}^k$. Henceforth, it has been demostrated
+% that one can obtain a manifold in $\mathbb{R}^m$ that is one-to-one
+% and preserves local differential structure.
+
+
+% One can represent a multidimensional phase
+% space of by using the Taken's Theorem.
+% 
+% Let $o_t$ be the time series, 
+% The time-delay reconstruction in $m$ dimensions with the time delay $\tau$
+% 
+% \begin{eqnarray*} 
+% E_t : \mathbb{R}^k \rightarrow \mathbb{R}^m 
+% \end{eqnarray*}
+
+% It's natural to think that if $g'(c)>0$ then $g$ must be ``increasing at $x=c$.'' 
+% \pause But what does ``increasing at $x=c$'' really mean?
+% \pause 
+% Taken's Method
+
+% \begin{dfn} % We created the proclamation dfn near the start of the document.
+% A function $g$ is \emph{increasing at $x=c$} if there 
+% is an open interval $I=(c-\delta,c+\delta)$ such that \pause if $x_1, x_2\in I$, \pause then $x_1<x_2\Rightarrow \pause g(x_1)<g(x_2)$.
+% \end{dfn}
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+ \begin{frame}
+ \frametitle{Lorenz System}
+   
+  \begin{columns}[onlytextwidth]
+    \begin{column}{0.3\textwidth}
+ \begin{eqnarray*} 
+  \frac{dx}{dt} &=&\sigma (x-y), \\
+  \frac{dx}{dt} &=&x (\rho -z) - y, \\ 
+  \frac{dx}{dt} &=&xy - \beta z.
+ \end{eqnarray*}
+ \end{column} 
+  
+  \begin{column}{0.63\textwidth}
+       \begin{figure}
+ \includegraphics[scale=.25]{lorenzattractor}
+  \caption{$\sigma=10$, $\rho=28$ and $\beta=3/8$}
+       \end{figure}
+     \end{column}
+  \end{columns}
+ \end{frame}
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Time-Delay Embedding Example }
+
+\begin{figure}
+ \includegraphics[scale=.2]{timeseries_2dmanifolds} \\
+\caption{Time series of the Lorenz System and 2D manifolds}
+\end{figure} 
+ 
+\end{frame}
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+%%%%%%%%%%%%%%%
+%%ANIMATION in evince
+\begin{frame}
+\frametitle{Time-Delay Embedding Example}
+ \begin{columns}[onlytextwidth]
+   \begin{column}{0.5\textwidth}
+\begin{figure}
+\includegraphics[scale=.3]{XY} 
+\caption{Original Manifold}
+\end{figure} 
+\end{column} 
+ 
+ \begin{column}{0.5\textwidth}
+
+\begin{figure}
+\multiinclude[format=png,graphics={scale=0.3}]{images_frames_for_TAU/manifold_d3_t} 
+% \includegraphics[scale=0.3]{images_frames_for_TAU/manifold_d3_t-10}
+\caption{Reconstructed Manifold}
+\end{figure}
+ \end{column}
+ \end{columns}
+\end{frame}
+
+
+% %%%%%%%%%%%%%%%
+% %%ANIMATION 2 in adobe acrobat
+% \begin{frame}
+% \frametitle{Time Delay Embedding}
+% 
+%  \begin{columns}[onlytextwidth]
+%    \begin{column}{0.5\textwidth}
+% \begin{figure}
+%  \includegraphics[scale=.3]{XY} 
+% \caption{Time series and 2D manifolds}
+% \end{figure} 
+% \end{column} 
+% 
+%  \begin{column}{0.5\textwidth}
+%   \begin{figure}
+% \animategraphics[autoplay, width=0.7\textwidth]{5}{manifold_d3_tn/manifold_d3_t-}{0}{20}
+% \caption{Time series and 2D manifolds}
+% \end{figure}
+% % \animategraphics[<options>]{<frames per second>}{<name without extension>}{<first frame>}{<last frame>}
+% %it only works with adobe acrobat
+%  \end{column}
+% \end{columns}
+% \end{frame}
+
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{bibunit}[apalike]
+\begin{frame}
+\frametitle{Optimal embedding parameters}
+
+\begin{figure}
+\includegraphics[scale=0.4]{fnnami}
+\caption{FFN and AMI Plots for different volunteers \cite{Sama2013} }
+\end{figure}
+  \vfill
+%     \biblio{refslides}
+\end{frame}
+\end{bibunit}
+
+
+
+% %+++++++++++++++++++++++++++++++++++++++++++++++++++
+% \begin{bibunit}[apalike]
+% \begin{frame}
+% \frametitle{Time-Delay Embedding in HAR}
+% 
+% \cite{Jordan2010} and \cite{Sama2013} have proposed the use Taken's Theorems
+% so as to indenfity primitive human activities such as walking, cycling, and 
+% running. However, little has been done regarding the identification of
+% complex activities that, for example, involve dance.
+% 
+%     \vfill
+%     \biblio{refslides}
+% \end{frame}
+% \end{bibunit}
+% 
+
+
+
+
+\section{Experiments}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Basic Dance Foot Patterns}
+
+\begin{figure}
+\includegraphics[scale=0.13]{footpatterns}
+\caption{Latin Dance Foot Patterns}
+\end{figure}  
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Reconstructed State Spaces}
+
+\begin{figure}
+\includegraphics[scale=0.122]{bachata_cumbia_salsa_AccMagGyrYawPitchRoll}
+\caption{3D Reconstructed State Space with $m=20$ and $\tau=5$ for a WF=1000.}
+\end{figure}  
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Pitch Angle Time Series for Bachata}
+
+\begin{figure}
+\includegraphics[scale=0.129]{bachata}
+\caption{3D Reconstructed State Space and Eigenvalues}
+\end{figure}  
+\end{frame}
+
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Pitch Angle Time Series for Cumbia}
+
+\begin{figure}
+\includegraphics[scale=0.129]{cumbia}
+\caption{3D Reconstructed State Space and Eigenvalues}
+\end{figure}  
+\end{frame}
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{Pitch Angle Time Series for Salsa}
+
+\begin{figure}
+\includegraphics[scale=0.129]{salsa}
+\caption{3D Reconstructed State Space and Eigenvalues}
+\end{figure}  
+\end{frame}
+
+
+
+
+\section{Some questions for my PhD investigation}
+
+%+++++++++++++++++++++++++++++++++++++++++++++++++++
+\begin{frame}
+\frametitle{??????????????????????}
+
+\begin{itemize}
+ \item Which non-reported concepts from nonlinear dynamics 
+ can be used to obtain features in the human body analysis?
+ \item It has been reported that up to 50 human activities can be 
+ recognized using video based approach. How many human activities
+ and with what accuracy can be recognised using the current work?
+ \item Will it be useful to obtain mathematical models for each 
+ human body activity? 
+\end{itemize}
+
+
+% \begin{itemize}
+%  \item Implementation of false nearest neighbors and 
+%  average mutual information algorithms 
+%  so as to use optimal embedding values.
+%  \item Application of the Lyapunov exponent and Poincar\'e maps 
+%        to the current experiments
+%  \item Implementation of classification algorithms 
+%  and evaluatation of the application's real-time performance.
+%  \item Mathematical modeling for each basic dance pattern.
+% \end{itemize}
+\end{frame}
+
+
+\end{document}
+

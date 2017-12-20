@@ -1,0 +1,51 @@
+@article{Jordan2010,
+author = {Frank Jordan and Shie Mannor and Doina Precup},
+file = {:home/mapx/xfiles/phd/literature/jordan\_frank/JordanFrank, S. Mannor - 2010 - Activity and Gait Recognition with Time-Delay Embeddings Time-Delay Embeddings.pdf:pdf},
+title = {{Activity and Gait Recognition with Time-Delay Embeddings}},
+year = {2010}
+}
+
+
+
+@article{Sama2013,
+author = {Albert Sam\`{a} and Francisco J. Ruiz and Agell
+and N\'{u}ria Agell and Carlos P\'{e}rez-L\'{o}pez and 
+Andreu Catal\`{a} and Joan Cabestany},
+doi = {10.1016/j.neucom.2012.12.042},
+file = {:home/mapx/xfiles/phd/literature/albert\_sama/gait\_identification\_2013/1-s2.0-S0925231213001781-main (1).pdf:pdf},
+issn = {09252312},
+keywords = {singular spectrum analysis},
+mendeley-groups = {chaos\_IN\_HumanMotion},
+month = dec,
+title = {{Gait identification by means of box approximation geometry of reconstructed attractors in latent space}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0925231213001781},
+year = {2013}
+}
+
+
+@article{Hegger1998,
+abstract = {},
+archivePrefix = {arXiv},
+arxivId = {chao-dyn/9810005},
+author = {Hegger, Rainer and Kantz, Holger and Schreiber, Thomas},
+doi = {10.1063/1.166424},
+eprint = {9810005},
+file = {:home/mapx/xfiles/phd/literature/ChaosTheory/tisean/Hegger, Kantz, Schreiber - 1998 - Practical implementation of nonlinear time series methods The TISEAN package.pdf:pdf},
+month = sep,
+pages = {27},
+primaryClass = {chao-dyn},
+title = {{Practical implementation of nonlinear time series methods: The TISEAN package}},
+url = {http://arxiv.org/abs/chao-dyn/9810005},
+year = {1998}
+}
+
+
+
+@article{Lara2013,
+author = {O. D. Lara  and M. A. Labrador},
+title = {{A Survey on Human Activity Recognition using Wearable Sensors}},
+year = {2013},
+url = {http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6365160}
+}
+
+
