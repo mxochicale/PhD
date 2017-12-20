@@ -1,0 +1,3104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg7315"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="foot_patterns_00.svg">
+  <defs
+     id="defs7317">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter7918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1125015"
+         id="feGaussianBlur7920" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter7914">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1125015"
+         id="feGaussianBlur7916" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter7910"
+       x="-0.12446613"
+       width="1.2489322"
+       y="-0.11640955"
+       height="1.2328191">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1125015"
+         id="feGaussianBlur7912" />
+    </filter>
+    <marker
+       inkscape:stockid="TriangleInMd"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInMd"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11443"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInMdR"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInMdR"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17716"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter7926">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1125015"
+         id="feGaussianBlur7928" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter7922">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1125015"
+         id="feGaussianBlur7924" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter7906"
+       x="-0.14776561"
+       width="1.2955312"
+       y="-0.11943617"
+       height="1.2388723">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1125015"
+         id="feGaussianBlur7908" />
+    </filter>
+    <marker
+       inkscape:stockid="TriangleInMd"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6567"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6569"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInMdR"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6571"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6573"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2MstartOl"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2MstartOl"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path26697"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendEC"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendEC">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:0.625;stroke-linejoin:round"
+         id="path17219" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4127" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6605"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6607" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendECJ"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendECJ">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:0.625;stroke-linejoin:round"
+         id="path27854" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInMd"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6623"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6625"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2MstartOl"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6639"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6641"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6643"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendEC">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:0.625;stroke-linejoin:round"
+         id="path6645" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6647"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendEC">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:0.625;stroke-linejoin:round"
+         id="path6649" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6663"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendEC">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:0.625;stroke-linejoin:round"
+         id="path6665" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInMdR"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6679"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6681"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6695"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendEC">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:0.625;stroke-linejoin:round"
+         id="path6697" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6711"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6713" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6715"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6717" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6719"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6721" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6723"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6725" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6727"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendEC">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:0.625;stroke-linejoin:round"
+         id="path6729" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInMdR"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6743"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6745"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6759"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendEC">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:0.625;stroke-linejoin:round"
+         id="path6761" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendE"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendE">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:0.625;stroke-linejoin:round"
+         id="path7520" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6777"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendE">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:0.625;stroke-linejoin:round"
+         id="path6779" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInMd"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6793"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6795"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff002d;fill-rule:evenodd;stroke:#ff002d;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6809"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendE">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00b3f2;fill-rule:evenodd;stroke:#00b3f2;stroke-width:0.625;stroke-linejoin:round"
+         id="path6811" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter8010">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9841351"
+         id="feGaussianBlur8012" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter8006">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9841351"
+         id="feGaussianBlur8008" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter8002"
+       x="-0.10722246"
+       width="1.2144449"
+       y="-0.086665899"
+       height="1.1733319">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9841351"
+         id="feGaussianBlur8004" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.078949579"
+     inkscape:cx="385.3326"
+     inkscape:cy="-1687.5482"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1080"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3550" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7320">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:1000px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3382.0789"
+       y="-4947.8501"
+       id="text9313"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-y="182.25098"><tspan
+         sodipodi:role="line"
+         id="tspan9315"
+         x="-3382.0789"
+         y="-4947.8501">V11</tspan></text>
+    <rect
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#00b3f2;stroke-width:10.16353321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect9317"
+       width="563.39862"
+       height="1901.3876"
+       x="-2833.4382"
+       y="3740.9995"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#3db0d9;stroke-width:10.16353321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect9319"
+       width="563.39862"
+       height="1901.3876"
+       x="-3967.5476"
+       y="3737.5913"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       y="3734.6323"
+       x="-5106.0317"
+       height="1901.3876"
+       width="563.39862"
+       id="rect9321"
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#00b3f2;stroke-width:10.16353321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:#00b3f2;fill-opacity:1;stroke:none"
+       d="m -5020.1438,-1249.7275 108.481,-21.5442 c -10.366,-132.4309 26.797,-75.4798 17.972,-173.7753 -6.255,-35.208 -28.4,-90.0785 -83.614,-85.1555 -76.866,11.4998 -81.024,72.9463 -83.496,145.7426 4.514,64.7599 24.494,82.7074 40.657,134.7324 z"
+       id="path9323"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:#00b3f2;fill-opacity:1;stroke:none"
+       d="m -5013.0708,-1224.4354 107.615,-23.7679 15.337,66.4958 c 2.911,30.7245 8.832,47.1848 -37.383,62.044 -29.226,8.0479 -55.616,-10.364 -62.954,-31.938 z"
+       id="path9325"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5069.1428,-1285.6546)"
+       id="g9327"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         id="path9329"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9331"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g9333">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           id="path9335" />
+      </g>
+    </g>
+    <flowRoot
+       transform="matrix(0.97469763,-0.21757035,0.22359565,0.9484326,-4197.4408,-2392.0064)"
+       style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="flowRoot9337"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><flowRegion
+         id="flowRegion9339"><rect
+           style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+           y="979.05292"
+           x="-1041.7633"
+           height="196.77753"
+           width="214.78331"
+           id="rect9341" /></flowRegion><flowPara
+         id="flowPara9343">L</flowPara></flowRoot>    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5069.1428,-1285.6546)"
+       id="g9345"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter8010)"
+         d="M 51.362331,906.0122 159.84113,883.8714 c -10.3653,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3992,-92.5716 -83.612399,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.552 24.4938,84.9962 40.6571,138.4612 z"
+         id="path9347"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter8006)"
+         d="m 58.435731,932.0041 107.612099,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.613999,-10.6507 -62.952099,-32.8224 z"
+         id="path9349"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,871.31673,-262.6517)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter8002);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g9351">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1032.5703,1005.837 18.7988,0 0,58.6914 33.00783,0 0,14.209 -51.80663,0 0,-72.9004"
+           id="path9353" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9355"
+       d="m -4971.5208,-737.62686 c -38.636,-92.257 -26.562,-202.5449 -10.98,-259.552 4.601,-16.83264 0,0 20,-58.38354"
+       style="fill:none;stroke:#00b3f2;stroke-width:13.63164425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendE)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g9357"
+       transform="matrix(1.0000151,0,0,0.97306767,-5224.2398,-71.740256)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 1085.6657,-666.9123 -107.8058,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8599,-178.58472 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3419,84.99622 -40.4048,138.46122 z"
+         id="path9359"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 1078.6362,-640.9204 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9361"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2207.8989,-1415.5556)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9363"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9365"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9367" /></flowRegion><flowPara
+           id="flowPara9369">R</flowPara></flowRoot>    </g>
+    <g
+       id="g9371"
+       transform="matrix(1.0000151,0,0,0.97306767,-5225.4208,-601.08906)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9373"
+         d="m 768.4282,-666.9123 108.4789,-22.1408 c -10.3654,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.55202 24.4938,84.99622 40.657,138.46122 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9375"
+         d="m 775.5017,-640.9204 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9377"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,1591.1212,-1840.8065)"><flowRegion
+           id="flowRegion9379"><rect
+             id="rect9381"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9383">L</flowPara></flowRoot>    </g>
+    <g
+       id="g9385"
+       transform="matrix(1.0000151,0,0,0.97306767,-5691.1818,-183.96316)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9387"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9389"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9391"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"><flowRegion
+           id="flowRegion9393"><rect
+             id="rect9395"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9397">R</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#ff002d;stroke-width:10.69183159;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMd);marker-end:none"
+       d="m -4323.1338,-827.96026 c 0,-19.4611 0,-43.7879 0,-68.1149"
+       id="path9399"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-4637.1958,-71.740256)"
+       id="g9401"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9403"
+         d="m 1085.6657,-666.9123 -107.8058,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8599,-178.58472 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3419,84.99622 -40.4048,138.46122 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9405"
+         d="m 1078.6362,-640.9204 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9407"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2207.8989,-1415.5556)"><flowRegion
+           id="flowRegion9409"><rect
+             id="rect9411"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9413">R</flowPara></flowRoot>    </g>
+    <g
+       id="g9415"
+       transform="matrix(1.0000151,0,0,0.97306767,-4638.3768,338.07394)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9417"
+         d="m 768.4282,-666.9123 108.4789,-22.1408 c -10.3654,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.55202 24.4938,84.99622 40.657,138.46122 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9419"
+         d="m 775.5017,-640.9204 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9421"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,1591.1212,-1840.8065)"><flowRegion
+           id="flowRegion9423"><rect
+             id="rect9425"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9427">L</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5104.8728,-610.02976)"
+       id="g9429"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         id="path9431"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         id="path9433"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9435"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9437"><rect
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9439" /></flowRegion><flowPara
+           id="flowPara9441">L</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#00b3f2;stroke-width:13.63164425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendE)"
+       d="m -4971.5208,-737.62686 c -38.636,-92.257 -26.562,-202.5449 -10.98,-259.552 4.601,-16.83264 0,0 20,-58.38354"
+       id="path9443"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9445"
+       d="m -3850.5018,-1038.1428 c -40.812,91.39154 -22.983,198.92164 -3.085,254.22744 5.876,16.3312 0,0 25.001,56.5223"
+       style="fill:none;stroke:#00b3f2;stroke-width:14.42434883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendE)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g9447"
+       transform="matrix(1.0000151,0,0,0.97306767,-4067.2308,738.02814)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 1085.6657,-666.9123 -107.8058,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8599,-178.58472 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3419,84.99622 -40.4048,138.46122 z"
+         id="path9449"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 1078.6362,-640.9204 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9451"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2207.8989,-1415.5556)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9453"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9455"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9457" /></flowRegion><flowPara
+           id="flowPara9459">R</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-4068.4128,338.07394)"
+       id="g9461"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 768.4282,-666.9123 108.4789,-22.1408 c -10.3654,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.55202 24.4938,84.99622 40.657,138.46122 z"
+         id="path9463"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 775.5017,-640.9204 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path9465"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,1591.1212,-1840.8065)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9467"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9469"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9471" /></flowRegion><flowPara
+           id="flowPara9473">L</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-4535.1668,-82.763956)"
+       id="g9475"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9477"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9479"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9481"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"><flowRegion
+           id="flowRegion9483"><rect
+             id="rect9485"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9487">R</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9489"
+       d="m -2996.8888,-558.59386 c 37.979,92.5158 25.121,202.7192 9.133,259.6197 -4.721,16.8015 0,0 -20.415,58.248"
+       style="fill:none;stroke:#ff002d;stroke-width:13.63164425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendEC)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-3491.7268,738.02814)"
+       id="g9491"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9493"
+         d="m 1085.6657,-666.9123 -107.8058,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8599,-178.58472 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3419,84.99622 -40.4048,138.46122 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9495"
+         d="m 1078.6362,-640.9204 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9497"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2207.8989,-1415.5556)"><flowRegion
+           id="flowRegion9499"><rect
+             id="rect9501"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9503">R</flowPara></flowRoot>    </g>
+    <g
+       id="g9505"
+       transform="matrix(1.0000151,0,0,0.97306767,-3492.9088,236.87474)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9507"
+         d="m 768.4282,-666.9123 108.4789,-22.1408 c -10.3654,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.55202 24.4938,84.99622 40.657,138.46122 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9509"
+         d="m 775.5017,-640.9204 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9511"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,1591.1212,-1840.8065)"><flowRegion
+           id="flowRegion9513"><rect
+             id="rect9515"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9517">L</flowPara></flowRoot>    </g>
+    <g
+       id="g9519"
+       transform="matrix(1.0000151,0,0,0.97306767,-3958.3998,326.06204)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         id="path9521"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         id="path9523"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9525"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9527"><rect
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9529" /></flowRegion><flowPara
+           id="flowPara9531">L</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9533"
+       d="m -2527.1068,-419.27136 c 0.608,19.4519 1.368,43.7678 2.128,68.0833"
+       style="fill:none;stroke:#00b3f2;stroke-width:10.69183159;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMdR);marker-end:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-2939.4038,236.87474)"
+       id="g9535"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 768.4282,-666.9123 108.4789,-22.1408 c -10.3654,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.55202 24.4938,84.99622 40.657,138.46122 z"
+         id="path9537"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 775.5017,-640.9204 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path9539"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,1591.1212,-1840.8065)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9541"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9543"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9545" /></flowRegion><flowPara
+           id="flowPara9547">L</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-3403.1498,724.88254)"
+       id="g9549"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9551"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9553"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9555"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"><flowRegion
+           id="flowRegion9557"><rect
+             id="rect9559"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9561">R</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-2221.7438,-1295.4807)"
+       id="g9563"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9565"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9567"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <g
+         id="g9569"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9571"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#ff002d;stroke-width:13.1471138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendEC)"
+       d="m -1846.5768,-322.58106 c 29.861,-87.4708 6.71,-187.0842 -14.693,-237.7806 -6.319,-14.9695 0,0 -26.001,-51.5772"
+       id="path9573"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       y="-1582.3237"
+       x="-3992.1023"
+       height="1901.3876"
+       width="563.39868"
+       id="rect9575"
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#3db0d9;stroke-width:10.16353416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       y="-1583.7905"
+       x="-5126.4146"
+       height="1901.3876"
+       width="563.39868"
+       id="rect9577"
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#00b3f2;stroke-width:10.16353416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       y="-1578.915"
+       x="-2857.9851"
+       height="1901.3876"
+       width="563.39868"
+       id="rect9579"
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#00b3f2;stroke-width:10.16353416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9581"
+       y="-1660.0907"
+       x="-4826.3613"
+       style="font-size:118.37393951px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96749878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="-1660.0907"
+         x="-4826.3613"
+         id="tspan9583"
+         sodipodi:role="line">1</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path9585"
+       d="m -1884.6918,-1686.3005 280.004,0 0,2140.74984 -1480.023,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117352;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path9587"
+       d="m -3764.7218,454.44934 -1480.019,0 0,-2140.74984 280.004,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117352;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393951px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4275.9238"
+       y="-1660.0907"
+       id="text9589"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9591"
+         x="-4275.9238"
+         y="-1660.0907"
+         style="font-size:147.96749878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">2</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9593"
+       y="-1660.0907"
+       x="-3697.8613"
+       style="font-size:118.37393951px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96749878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="-1660.0907"
+         x="-3697.8613"
+         id="tspan9595"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393951px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3135.5798"
+       y="-1661.9691"
+       id="text9597"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9599"
+         x="-3135.5798"
+         y="-1661.9691"
+         style="font-size:147.96749878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">5</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9601"
+       y="-1660.0907"
+       x="-2569.3611"
+       style="font-size:118.37393951px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96749878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="-1660.0907"
+         x="-2569.3611"
+         id="tspan9603"
+         sodipodi:role="line">6</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393951px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-2007.0798"
+       y="-1660.0907"
+       id="text9605"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9607"
+         x="-2007.0798"
+         y="-1660.0907"
+         style="font-size:147.96749878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">7</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path9609"
+       d="m -4724.7358,-1685.8409 320.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -4152.7268,-1685.8409 320.004,0"
+       id="path9611"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9613"
+       d="m -3582.7188,-1685.8409 320.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -3018.7098,-1685.8409 320.005,0"
+       id="path9615"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9617"
+       d="m -2436.7008,-1685.8409 320.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g9619"
+       transform="matrix(1.0000151,0,0,0.97306767,-5288.6038,4579.1949)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9621"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9623"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <g
+         id="g9625"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)">
+        <path
+           id="path9627"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-8736.1018,1982.3462)"
+       id="g9629"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         id="path9631"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path9633"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9635"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9637"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9639" /></flowRegion><flowPara
+           id="flowPara9641">L</flowPara></flowRoot>    </g>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4801.9473"
+       y="3732.97"
+       id="text9643"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9645"
+         x="-4801.9473"
+         y="3732.97"
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Mend)"
+       d="m -1860.1448,3633.6148 280.004,0 0,2140.7501 -1480.022,0"
+       id="path9647"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m -3760.6608,5769.3809 -1480.023,0 0,-2140.7496 280.004,0"
+       id="path9649"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9651"
+       y="3732.97"
+       x="-4251.5098"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="3732.97"
+         x="-4251.5098"
+         id="tspan9653"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3673.4551"
+       y="3732.97"
+       id="text9655"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9657"
+         x="-3673.4551"
+         y="3732.97"
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">3</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9659"
+       y="3731.0911"
+       x="-3111.1814"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="3731.0911"
+         x="-3111.1814"
+         id="tspan9661"
+         sodipodi:role="line">5</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-2544.9626"
+       y="3732.97"
+       id="text9663"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9665"
+         x="-2544.9626"
+         y="3732.97"
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">6</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9667"
+       y="3732.97"
+       x="-1982.6814"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="3732.97"
+         x="-1982.6814"
+         id="tspan9669"
+         sodipodi:role="line">7</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -4700.1898,3634.0745 320.006,0"
+       id="path9671"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9673"
+       d="m -4128.1808,3634.0745 320.006,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -3558.1718,3634.0745 320.006,0"
+       id="path9675"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9677"
+       d="m -2994.1618,3634.0745 320.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2412.1528,3634.0745 320.005,0"
+       id="path9679"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g9681"
+       transform="matrix(1.0000151,0,0,0.97306767,-6229.9158,5095.5559)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9683"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9685"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9687"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"><flowRegion
+           id="flowRegion9689"><rect
+             id="rect9691"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9693">R</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9695"
+       d="m -4664.9448,4575.3149 c 52.358,115.825 8.988,268.189 -114.299,367.171 -13.808,11.086 2.152,-4.189 -60.974,29.6"
+       style="fill:none;stroke:#ff002d;stroke-width:13.6316433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendEC)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-4685.7288,4579.1949)"
+       id="g9697"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         id="path9699"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9701"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g9703">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           id="path9705" />
+      </g>
+    </g>
+    <g
+       id="g9707"
+       transform="matrix(1.0000151,0,0,0.97306767,-8133.2278,1982.3462)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9709"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9711"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9713"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"><flowRegion
+           id="flowRegion9715"><rect
+             id="rect9717"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9719">L</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5545.3228,5100.1059)"
+       id="g9721"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         id="path9723"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         id="path9725"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9727"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9729"><rect
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9731" /></flowRegion><flowPara
+           id="flowPara9733">L</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9735"
+       d="m -4283.1118,4132.4714 c -20,0.109 -45.001,0.245 -70,0.381"
+       style="fill:none;stroke:#00b3f2;stroke-width:10.69183064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMdR);marker-end:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g9737"
+       transform="matrix(1.0000151,0,0,0.97306767,-3850.7458,3991.9016)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9739"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9741"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <g
+         id="g9743"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)">
+        <path
+           id="path9745"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5367.1278,5677.5369)"
+       id="g9747"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         id="path9749"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9751"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9753"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9755"><rect
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9757" /></flowRegion><flowPara
+           id="flowPara9759">R</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#ff002d;stroke-width:13.14711285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendEC)"
+       d="m -3695.1698,4914.8259 c 74.704,-56.669 112.22,-152.051 123.306,-205.786 3.273,-15.867 0,0 7.763,-56.95"
+       id="path9761"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-7555.9498,1978.8942)"
+       id="g9763"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         id="path9765"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path9767"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9769"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9771"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9773" /></flowRegion><flowPara
+           id="flowPara9775">L</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-3326.7378,3991.9016)"
+       id="g9777"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         id="path9779"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9781"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g9783">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           id="path9785" />
+      </g>
+    </g>
+    <g
+       id="g9787"
+       transform="matrix(1.0000151,0,0,0.97306767,-6779.9378,2556.8966)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9789"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9791"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9793"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"><flowRegion
+           id="flowRegion9795"><rect
+             id="rect9797"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9799">L</flowPara></flowRoot>    </g>
+    <g
+       id="g9801"
+       transform="matrix(1.0000151,0,0,0.97306767,-4526.2508,5092.1909)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9803"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9805"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9807"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"><flowRegion
+           id="flowRegion9809"><rect
+             id="rect9811"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9813">L</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#ff002d;stroke-width:13.6316433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendEC)"
+       d="m -4664.9448,4575.3149 c 52.358,115.825 8.988,268.189 -114.299,367.171 -13.808,11.086 2.152,-4.189 -60.974,29.6"
+       id="path9815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9817"
+       d="m -4664.9448,4575.3149 c 52.358,115.825 8.988,268.189 -114.299,367.171 -13.808,11.086 2.152,-4.189 -60.974,29.6"
+       style="fill:none;stroke:#ff002d;stroke-width:13.6316433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendEC)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#00b3f2;stroke-width:13.6316433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2MstartOl);marker-end:none"
+       d="m -3126.4718,4936.5039 c -122.891,-41.372 -212.141,-87.408 -215.072,-242.911 -0.187,-9.919 -8.128,-35.216 20.53,-146.477"
+       id="path9819"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-6223.9288,2556.8966)"
+       id="g9821"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         id="path9823"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path9825"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9827"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9829"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9831" /></flowRegion><flowPara
+           id="flowPara9833">L</flowPara></flowRoot>    </g>
+    <g
+       id="g9835"
+       transform="matrix(1.0000151,0,0,0.97306767,-3965.5648,5099.7589)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9837"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9839"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9841"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"><flowRegion
+           id="flowRegion9843"><rect
+             id="rect9845"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9847">R</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9849"
+       d="m -2535.9198,4112.4205 c 19.991,0.6191 44.978,1.3932 69.967,2.1667"
+       style="fill:none;stroke:#ff002d;stroke-width:10.69183064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMd);marker-end:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-2866.7298,3991.9016)"
+       id="g9851"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         id="path9853"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9855"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g9857">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           id="path9859" />
+      </g>
+    </g>
+    <g
+       id="g9861"
+       transform="matrix(1.0000151,0,0,0.97306767,-2123.2348,3991.9016)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9863"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9865"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <g
+         id="g9867"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)">
+        <path
+           id="path9869"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5829.9228,1978.8942)"
+       id="g9871"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         id="path9873"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path9875"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9877"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9879"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9881" /></flowRegion><flowPara
+           id="flowPara9883">L</flowPara></flowRoot>    </g>
+    <g
+       id="g9885"
+       transform="matrix(1.0000151,0,0,0.97306767,-3072.2278,5670.1939)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9887"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9889"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9891"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"><flowRegion
+           id="flowRegion9893"><rect
+             id="rect9895"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9897">L</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9899"
+       d="m -1941.3788,4902.6359 c -70.7,-56.668 -106.204,-152.05 -116.698,-205.785 -3.099,-15.867 0,0 -7.347,-56.95"
+       style="fill:none;stroke:#00b3f2;stroke-width:12.78997898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendECJ)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       y="1096.9458"
+       x="-2837.3757"
+       height="1901.3876"
+       width="563.39862"
+       id="rect9901"
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#00b3f2;stroke-width:10.16353321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       y="1093.5376"
+       x="-3971.4851"
+       height="1901.3876"
+       width="563.39862"
+       id="rect9903"
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#3db0d9;stroke-width:10.16353321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <rect
+       style="opacity:0.2469136;fill:#00b7ff;fill-opacity:0.50684928;stroke:#00b3f2;stroke-width:10.16353321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect9905"
+       width="563.39862"
+       height="1901.3876"
+       x="-5109.9692"
+       y="1090.5781"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5055.2608,1553.0796)"
+       id="g9907"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         id="path9909"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path9911"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g9913">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           id="path9915" />
+      </g>
+    </g>
+    <g
+       id="g9917"
+       transform="matrix(1.0000151,0,0,0.97306767,-8706.0398,46.067844)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9919"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9921"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9923"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"><flowRegion
+           id="flowRegion9925"><rect
+             id="rect9927"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9929">L</flowPara></flowRoot>    </g>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9931"
+       y="1052.5699"
+       x="-4805.7676"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="1052.5699"
+         x="-4805.7676"
+         id="tspan9933"
+         sodipodi:role="line">1</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path9935"
+       d="m -1864.0828,989.56104 280.004,0 0,2140.74926 -1480.023,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3559.377"
+       y="3215.5227"
+       id="text9937"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9939"
+         x="-3559.377"
+         y="3215.5227"
+         style="font-size:118.37393188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Back to</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path9941"
+       d="m -3764.5988,3125.327 -1480.024,0 0,-2140.74956 280.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4255.3301"
+       y="1052.5699"
+       id="text9943"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9945"
+         x="-4255.3301"
+         y="1052.5699"
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">2</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9947"
+       y="1052.5699"
+       x="-3677.2676"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="1052.5699"
+         x="-3677.2676"
+         id="tspan9949"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3115.0017"
+       y="1050.6915"
+       id="text9951"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9953"
+         x="-3115.0017"
+         y="1050.6915"
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">5</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       sodipodi:linespacing="125%"
+       id="text9955"
+       y="1052.5699"
+       x="-2548.7673"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="1052.5699"
+         x="-2548.7673"
+         id="tspan9957"
+         sodipodi:role="line">6</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1986.4939"
+       y="1052.5699"
+       id="text9959"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><tspan
+         sodipodi:role="line"
+         id="tspan9961"
+         x="-1986.4939"
+         y="1052.5699"
+         style="font-size:147.96748352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">7</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path9963"
+       d="m -4704.1278,990.02064 320.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -4132.1178,990.02064 320.004,0"
+       id="path9965"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9967"
+       d="m -3562.1098,990.02064 320.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2998.1008,990.02064 320.005,0"
+       id="path9969"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9971"
+       d="m -2416.0918,990.02064 320.005,0"
+       style="fill:none;stroke:#000000;stroke-width:13.98117256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       style="fill:none;stroke:#ff002d;stroke-width:13.6316433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2MendEC)"
+       d="m -2964.5858,1986.8374 c 91.152,90.2446 106.105,247.6738 26.883,382.7542 -8.873,15.1284 0.486,-4.6597 -46.232,48.7085"
+       id="path9973"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g9975"
+       transform="matrix(1.0000151,0,0,0.97306767,-5704.6578,2658.0807)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9977"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path9979"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9981"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"><flowRegion
+           id="flowRegion9983"><rect
+             id="rect9985"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara9987">R</flowPara></flowRoot>    </g>
+    <g
+       id="g9989"
+       transform="matrix(1.0000151,0,0,0.97306767,-6199.8788,2137.2217)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         id="path9991"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         id="path9993"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot9995"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9997"><rect
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect9999" /></flowRegion><flowPara
+           id="flowPara10001">L</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#00b3f2;stroke-width:17.08817863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2MstartOl);marker-end:none"
+       d="m -4922.6168,2185.3434 c -60.001,-107.0376 -110.002,-243.2673 -100.002,-351.6948 8.615,-93.4125 30.001,-125.1088 70.002,-183.4923"
+       id="path10003"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g10005"
+       transform="matrix(1.0000151,0,0,0.97306767,-4487.2518,1327.3283)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10007"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10009"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <g
+         id="g10011"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)">
+        <path
+           id="path10013"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-8170.0318,46.067844)"
+       id="g10015"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         id="path10017"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path10019"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot10021"
+         xml:space="preserve"><flowRegion
+           id="flowRegion10023"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect10025" /></flowRegion><flowPara
+           id="flowPara10027">L</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path10029"
+       d="m -3664.5978,2438.341 c -0.377,19.4583 -0.85,43.7809 -1.322,68.1025"
+       style="fill:none;stroke:#00b3f2;stroke-width:10.69183064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMdR);marker-end:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path10031"
+       d="m -4204.6058,1975.1609 c 0.135,19.4607 0.303,43.7866 0.471,68.1132"
+       style="fill:none;stroke:#ff002d;stroke-width:10.69183064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMd);marker-end:none"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-3883.2418,1377.9278)"
+       id="g10033"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         id="path10035"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path10037"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g10039">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           id="path10041" />
+      </g>
+    </g>
+    <g
+       id="g10043"
+       transform="matrix(1.0000151,0,0,0.97306767,-7600.0228,-160.22256)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10045"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10047"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot10049"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"><flowRegion
+           id="flowRegion10051"><rect
+             id="rect10053"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara10055">L</flowPara></flowRoot>    </g>
+    <g
+       id="g10057"
+       transform="matrix(1.0000151,0,0,0.97306767,-5061.8908,3162.2669)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10059"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10061"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot10063"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"><flowRegion
+           id="flowRegion10065"><rect
+             id="rect10067"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara10069">L</flowPara></flowRoot>    </g>
+    <g
+       id="g10071"
+       transform="matrix(1.0000151,0,0,0.97306767,-3305.2328,2352.9412)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10073"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10075"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <g
+         id="g10077"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)">
+        <path
+           id="path10079"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-7002.0138,-164.11486)"
+       id="g10081"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         id="path10083"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path10085"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot10087"
+         xml:space="preserve"><flowRegion
+           id="flowRegion10089"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect10091" /></flowRegion><flowPara
+           id="flowPara10093">L</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-4492.9748,2415.5193)"
+       id="g10095"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         id="path10097"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path10099"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot10101"
+         xml:space="preserve"><flowRegion
+           id="flowRegion10103"><rect
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect10105" /></flowRegion><flowPara
+           id="flowPara10107">R</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-2749.2238,2352.9412)"
+       id="g10109"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         id="path10111"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path10113"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="g10115">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           id="path10117" />
+      </g>
+    </g>
+    <g
+       id="g10119"
+       transform="matrix(1.0000151,0,0,0.97306767,-6464.0058,-384.02816)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10121"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10123"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         style="fill:#00b3f2;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot10125"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"><flowRegion
+           id="flowRegion10127"><rect
+             id="rect10129"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara10131">L</flowPara></flowRoot>    </g>
+    <g
+       id="g10133"
+       transform="matrix(1.0000151,0,0,0.97306767,-3923.8718,2950.138)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10135"
+         d="m 1236.7919,-657.8214 108.4788,-22.1408 c -10.3653,-136.09602 26.7963,-77.5684 17.9713,-178.58472 -6.2553,-36.1823 -28.3992,-92.5716 -83.6124,-87.5123 -76.8634,11.8179 -81.0214,74.9655 -83.4948,149.7766 4.5149,66.55202 24.4938,84.99622 40.6571,138.46122 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7926)" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10137"
+         d="m 1243.8653,-631.8295 107.6121,-24.4257 15.3365,68.3368 c 2.911,31.5746 8.8317,48.4905 -37.3824,63.761 -29.2257,8.2708 -55.614,-10.6507 -62.9521,-32.8224 z"
+         style="fill:none;stroke:#00b3f2;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7922)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot10139"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00b3f2;fill-opacity:1;stroke:none;filter:url(#filter7906);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,2056.7463,-1826.4853)"><flowRegion
+           id="flowRegion10141"><rect
+             id="rect10143"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#00b3f2;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara10145">L</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#00b3f2;stroke-width:10.69183064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMdR);marker-end:none"
+       d="m -2524.5788,2239.8352 c -0.377,19.4578 -0.85,43.7808 -1.322,68.1027"
+       id="path10147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <g
+       id="g10149"
+       transform="matrix(1.0000151,0,0,0.97306767,-2138.4998,2199.197)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10151"
+         d="m 366.23613,474.9213 -107.8058,-22.1408 c 10.301,-136.096 -26.6301,-77.5684 -17.8599,-178.5847 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.552 -24.3419,84.9962 -40.4048,138.4612 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10153"
+         d="m 359.20663,500.9132 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <g
+         id="g10155"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,1488.4693,-273.722)">
+        <path
+           id="path10157"
+           d="m -1005.8613,1038.1612 c 3.9387,10e-5 6.75449,-0.7323 8.44724,-2.1972 1.72521,-1.4648 2.58784,-3.8737 2.58789,-7.2266 -5e-5,-3.3202 -0.86268,-5.6965 -2.58789,-7.1289 -1.69275,-1.4322 -4.50854,-2.1484 -8.44724,-2.1484 l -7.9102,0 0,18.7011 7.9102,0 m -7.9102,12.9883 0,27.5879 -18.7988,0 0,-72.9004 28.7109,0 c 9.60284,10e-5 16.63409,1.6114 21.09378,4.834 4.49212,3.2227 6.73821,8.3171 6.73828,15.2832 -7e-5,4.8178 -1.17194,8.7728 -3.51563,11.8652 -2.31126,3.0925 -5.8106,5.3712 -10.49805,6.836 2.57156,0.586 4.86648,1.9206 6.88477,4.0039 2.05072,2.0508 4.11778,5.1758 6.20117,9.375 l 10.20508,20.7031 -20.01953,0 -8.88672,-18.1152 c -1.79041,-3.6458 -3.61332,-6.1361 -5.46875,-7.4707 -1.823,-1.3346 -4.2644,-2.0019 -7.3242,-2.002 l -5.3223,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-5853.2818,-384.02816)"
+       id="g10159"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3740.4441,2545.6436 108.4789,-22.1408 c -10.3654,-136.096 26.7963,-77.5684 17.9713,-178.5847 -6.2553,-36.1823 -28.3993,-92.5716 -83.6125,-87.5123 -76.8633,11.8179 -81.0213,74.9655 -83.4947,149.7766 4.5148,66.552 24.4938,84.9962 40.657,138.4612 z"
+         id="path10161"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#00b3f2;fill-opacity:1;stroke:none"
+         d="m 3747.5176,2571.6355 107.6121,-24.4257 15.3365,68.3368 c 2.9109,31.5746 8.8316,48.4905 -37.3824,63.761 -29.2258,8.2708 -55.614,-10.6507 -62.9522,-32.8224 z"
+         id="path10163"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97468279,-0.2235922,0.2235922,0.97468279,4563.1371,1371.7494)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot10165"
+         xml:space="preserve"><flowRegion
+           id="flowRegion10167"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect10169" /></flowRegion><flowPara
+           id="flowPara10171">L</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(1.0000151,0,0,0.97306767,-3362.0488,3452.3347)"
+       id="g10173"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064">
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         id="path10175"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path10177"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot10179"
+         xml:space="preserve"><flowRegion
+           id="flowRegion10181"><rect
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect10183" /></flowRegion><flowPara
+           id="flowPara10185">R</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#ff002d;stroke-width:10.69183064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInMd);marker-end:none"
+       d="m -1764.5668,2804.2146 c 0.135,19.461 0.303,43.7868 0.471,68.1135"
+       id="path10187"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10189"
+       style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#050392;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(-3.1275772e-4,-1.0000151,0.97306762,-3.0432983e-4,-4671.9248,4141.1933)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><flowRegion
+         id="flowRegion10191"><rect
+           id="rect10193"
+           width="1754.4723"
+           height="682.50555"
+           x="4315.8574"
+           y="-1028.3138"
+           style="font-size:144px;fill:#050392;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara10195"
+         style="font-size:270px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#050392;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">Mambo</flowPara></flowRoot>    <flowRoot
+       transform="matrix(-0.00266203,-1.0000116,0.97306422,-0.00259029,-4661.0338,9930.0579)"
+       style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#050392;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot10197"
+       xml:space="preserve"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><flowRegion
+         id="flowRegion10199"><rect
+           style="font-size:144px;fill:#050392;fill-opacity:1"
+           y="-1028.3138"
+           x="4315.8574"
+           height="359.35117"
+           width="1919.9863"
+           id="rect10201" /></flowRegion><flowPara
+         style="font-size:270px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#050392;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold"
+         id="flowPara10203">Side Cross-over</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10205"
+       style="font-size:144px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#050392;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.00166439,-1.0000137,0.97306632,0.00161954,-4681.4308,7047.2949)"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-ydpi="59.383064"><flowRegion
+         id="flowRegion10207"><rect
+           id="rect10209"
+           width="1919.9863"
+           height="359.35117"
+           x="4315.8574"
+           y="-1028.3138"
+           style="font-size:144px;fill:#050392;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara10211"
+         style="font-size:270px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#050392;fill-opacity:1;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">Back Pedal</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="59.383064"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       transform="matrix(1.0000151,0,0,0.97306767,-4067.2308,738.02814)"
+       id="g10213">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10215"
+         d="m 1085.6657,-666.9123 -107.8058,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8599,-178.58472 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3419,84.99622 -40.4048,138.46122 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path10217"
+         d="m 1078.6362,-640.9204 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         style="fill:#ff002d;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot10219"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2207.8989,-1415.5556)"><flowRegion
+           id="flowRegion10221"><rect
+             id="rect10223"
+             width="214.78331"
+             height="196.77753"
+             x="-1041.7633"
+             y="979.05292"
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold" /></flowRegion><flowPara
+           id="flowPara10225">R</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="59.383064"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       id="g10227"
+       transform="matrix(1.0000151,0,0,0.97306767,-3491.7268,738.02814)">
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 1085.6657,-666.9123 -107.8058,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8599,-178.58472 6.2165,-36.1823 28.2231,-92.5716 83.0938,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3419,84.99622 -40.4048,138.46122 z"
+         id="path10229"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ff002d;fill-opacity:1;stroke:none"
+         d="m 1078.6362,-640.9204 -106.9446,-24.4257 -15.2413,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path10231"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2207.8989,-1415.5556)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot10233"
+         xml:space="preserve"><flowRegion
+           id="flowRegion10235"><rect
+             style="font-size:100px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect10237" /></flowRegion><flowPara
+           id="flowPara10239">R</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="59.383064"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       id="g10241"
+       transform="matrix(1.0000151,0,0,0.97306767,-3403.1498,724.88254)">
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7918)"
+         d="m 1554.0294,-657.8214 -107.8059,-22.1408 c 10.301,-136.09602 -26.6301,-77.5684 -17.8598,-178.58472 6.2164,-36.1823 28.223,-92.5716 83.0937,-87.5123 76.3866,11.8179 80.5188,74.9655 82.9768,149.7766 -4.4868,66.55202 -24.3418,84.99622 -40.4048,138.46122 z"
+         id="path10243"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#ff002d;stroke-width:7.08661413;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:21.25984252, 7.08661417;stroke-dashoffset:0;filter:url(#filter7914)"
+         d="m 1546.9998,-631.8295 -106.9445,-24.4257 -15.2414,68.3368 c -2.8929,31.5746 -8.7769,48.4905 37.1505,63.761 29.0444,8.2708 55.269,-10.6507 62.5616,-32.8224 z"
+         id="path10245"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <flowRoot
+         transform="matrix(0.97900305,0.20384561,-0.20384561,0.97900305,2673.5239,-1401.2345)"
+         style="font-size:100px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff002d;fill-opacity:1;stroke:none;filter:url(#filter7910);font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowRoot10247"
+         xml:space="preserve"><flowRegion
+           id="flowRegion10249"><rect
+             style="font-size:100px;font-weight:bold;fill:#ff002d;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="979.05292"
+             x="-1041.7633"
+             height="196.77753"
+             width="214.78331"
+             id="rect10251" /></flowRegion><flowPara
+           id="flowPara10253">R</flowPara></flowRoot>    </g>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       inkscape:export-ydpi="59.383064"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       sodipodi:linespacing="125%"
+       id="text10255"
+       y="498.91763"
+       x="-3577.5176"
+       style="font-size:118.37393951px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:118.37393951px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="498.91763"
+         x="-3577.5176"
+         id="tspan10257"
+         sodipodi:role="line">Back to</tspan></text>
+    <text
+       transform="scale(1.0137521,0.98643446)"
+       inkscape:export-ydpi="59.383064"
+       inkscape:export-xdpi="59.383064"
+       inkscape:export-filename="/home/map479-admin/mxochicale/phd/manuscripts/human-machine-systems/manuscript/figures/steps_v00.png"
+       xml:space="preserve"
+       style="font-size:118.37393188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3553.5879"
+       y="5897.8975"
+       id="text10259"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10261"
+         x="-3553.5879"
+         y="5897.8975"
+         style="font-size:118.37393188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Back to</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+
+## CB' comments on the 1st of February 2015
+
+RE: Three month report
+Christopher Baber
+Sent: 	Sunday, February 01, 2015 10:24 PM
+To: 	
+Miguel Perez Xochicale
+Dear Miguel
+
+I've been your report. It is good. I only have one or two comments:
+
+Abstract - I think that you should add a phrase after the word 'dance', such as 'other complex, dynamic human activity'... just so that you can show that the work is meant to be extensible and not just about dance.  I also think that you ought to say in the Abstract that the methodology, using NLD, is meant to be complimentary to other HAR approaches.
+
+Introduction
+You begin by noting that human activity recognition is complex, but don't say why.  One of the challenges is that, unlike speech, we don't have a single model of how the signal is produced.  This either means that we have to create unique generation models for all types of activity, or we have to ignore generation models in favour in finding patterns in the data.  While both approaches are commonly used, they do tend to limit how well the field of HAR can advance. 
+
+A further point is that HAR tends to focus on defining events and sequences of events.  The approach that you propose, using NLD, takes a different perspective with a high level view of sets of events over time and with the focus on temporal dynamics rather than event transition or event definition.  While this might limit the detail that you would get from the analysis (in terms of defining specific features of events) it might provide a different level of detail on the differences between sources of the data (and you give a good list of the features of these sources when you talk about dance).
+
+Your questions make sense, although could be rewritten....
+1. I wouldn't use the phrase 'non-reported' - because it sounds odd in English and doesn't help the sentence
+2. You imply that motion of body parts only relate to HAR - why not to NLD? Are you using HAR to refer to both the study of human activity and the approaches / techniques to do HAR?  Perhaps you need to use a different phrase for the stddy of human activity?
+3.  Plural of 'axis' is 'axes'... but, anyway, isn't this the same as point 2 - you want to ask how, given a large set of parameters, can you reduce these to most important ones?
+4. I would rephrase this as 'How do common machine learning algorithms relate to the data collected from dancing, and how does the output of these algorithms compare and contrast with the results from NLD?'
+
+Previous work
+This reads well and shows that you've started engaging with the relevant literature.
+
+Research Methods
+Taken's Theorem
+For some reason you have used the word 'transpormation' - surely this should be 'transformation'?
+
+Current Progress
+Rather than 'It has been proposed...'  - write 'A body sensor network has been built using four Razor 9DOF Inertial Measurement Units communicating using Bluetooth (Adeunis ARF7044)'
+
+Preliminary Experiments
+You define m = 30 and r = 3... it would be good to have a sentence or two explaining how you decided on these parameters.
+
+Overall, a well structured and clear explanation of the area you will be working in and the challenges it presents.
+
+I am happy for you to submit this tomorrow (probably when we get back from IBM).
+
+best wishes
+chris

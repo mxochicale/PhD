@@ -1,0 +1,946 @@
+%% bare_jrnl_compsoc.tex
+%% V1.4a
+%% 2014/09/17
+%% by Michael Shell
+%% See:
+%% http://www.michaelshell.org/
+%% for current contact information.
+%%
+%% This is a skeleton file demonstrating the use of IEEEtran.cls
+%% (requires IEEEtran.cls version 1.8a or later) with an IEEE
+%% Computer Society journal paper.
+%%
+%% Support sites:
+%% http://www.michaelshell.org/tex/ieeetran/
+%% http://www.ctan.org/tex-archive/macros/latex/contrib/IEEEtran/
+%% and
+%% http://www.ieee.org/
+
+%%*************************************************************************
+%% Legal Notice:
+%% This code is offered as-is without any warranty either expressed or
+%% implied; without even the implied warranty of MERCHANTABILITY or
+%% FITNESS FOR A PARTICULAR PURPOSE! 
+%% User assumes all risk.
+%% In no event shall IEEE or any contributor to this code be liable for
+%% any damages or losses, including, but not limited to, incidental,
+%% consequential, or any other damages, resulting from the use or misuse
+%% of any information contained here.
+%%
+%% All comments are the opinions of their respective authors and are not
+%% necessarily endorsed by the IEEE.
+%%
+%% This work is distributed under the LaTeX Project Public License (LPPL)
+%% ( http://www.latex-project.org/ ) version 1.3, and may be freely used,
+%% distributed and modified. A copy of the LPPL, version 1.3, is included
+%% in the base LaTeX documentation of all distributions of LaTeX released
+%% 2003/12/01 or later.
+%% Retain all contribution notices and credits.
+%% ** Modified files should be clearly indicated as such, including  **
+%% ** renaming them and changing author support contact information. **
+%%
+%% File list of work: IEEEtran.cls, IEEEtran_HOWTO.pdf, bare_adv.tex,
+%%                    bare_conf.tex, bare_jrnl.tex, bare_conf_compsoc.tex,
+%%                    bare_jrnl_compsoc.tex, bare_jrnl_transmag.tex
+%%*************************************************************************
+
+
+% *** Authors should verify (and, if needed, correct) their LaTeX system  ***
+% *** with the testflow diagnostic prior to trusting their LaTeX platform ***
+% *** with production work. IEEE's font choices and paper sizes can       ***
+% *** trigger bugs that do not appear when using other class files.       ***
+% The testflow support page is at:
+% http://www.michaelshell.org/tex/testflow/
+
+
+% \documentclass[10pt,journal,compsoc]{IEEEtran}
+\documentclass[11pt,journal,onecolumn,compsoc]{IEEEtran}
+
+
+ 
+ 
+%
+% If IEEEtran.cls has not been installed into the LaTeX system files,
+% manually specify the path to it like:
+% \documentclass[10pt,journal,compsoc]{../sty/IEEEtran}
+
+
+
+\usepackage[switch]{lineno}
+\linenumbers
+\leftlinenumbers
+% http://tex.stackexchange.com/questions/20368/lineno-for-2-column
+
+
+
+% Some very useful LaTeX packages include:
+% (uncomment the ones you want to load)
+
+
+% *** MISC UTILITY PACKAGES ***
+%
+%\usepackage{ifpdf}
+% Heiko Oberdiek's ifpdf.sty is very useful if you need conditional
+% compilation based on whether the output is pdf or dvi.
+% usage:
+% \ifpdf
+%   % pdf code
+% \else
+%   % dvi code
+% \fi
+% The latest version of ifpdf.sty can be obtained from:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/
+% Also, note that IEEEtran.cls V1.7 and later provides a builtin
+% \ifCLASSINFOpdf conditional that works the same way.
+% When switching from latex to pdflatex and vice-versa, the compiler may
+% have to be run twice to clear warning/error messages.
+
+
+
+
+
+
+% *** CITATION PACKAGES ***
+%
+\ifCLASSOPTIONcompsoc
+  % IEEE Computer Society needs nocompress option
+  % requires cite.sty v4.0 or later (November 2003)
+  \usepackage[nocompress]{cite}
+\else
+  % normal IEEE
+  \usepackage{cite}
+\fi
+% cite.sty was written by Donald Arseneau
+% V1.6 and later of IEEEtran pre-defines the format of the cite.sty package
+% \cite{} output to follow that of IEEE. Loading the cite package will
+% result in citation numbers being automatically sorted and properly
+% "compressed/ranged". e.g., [1], [9], [2], [7], [5], [6] without using
+% cite.sty will become [1], [2], [5]--[7], [9] using cite.sty. cite.sty's
+% \cite will automatically add leading space, if needed. Use cite.sty's
+% noadjust option (cite.sty V3.8 and later) if you want to turn this off
+% such as if a citation ever needs to be enclosed in parenthesis.
+% cite.sty is already installed on most LaTeX systems. Be sure and use
+% version 5.0 (2009-03-20) and later if using hyperref.sty.
+% The latest version can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/cite/
+% The documentation is contained in the cite.sty file itself.
+%
+% Note that some packages require special options to format as the Computer
+% Society requires. In particular, Computer Society  papers do not use
+% compressed citation ranges as is done in typical IEEE papers
+% (e.g., [1]-[4]). Instead, they list every citation separately in order
+% (e.g., [1], [2], [3], [4]). To get the latter we need to load the cite
+% package with the nocompress option which is supported by cite.sty v4.0
+% and later. Note also the use of a CLASSOPTION conditional provided by
+% IEEEtran.cls V1.7 and later.
+
+
+  
+
+
+% *** GRAPHICS RELATED PACKAGES ***
+%
+\ifCLASSINFOpdf
+  \usepackage[pdftex]{graphicx}
+   \graphicspath{{figures/}}
+  % declare the path(s) where your graphic files are
+  % \graphicspath{{../pdf/}{../jpeg/}}
+  % and their extensions so you won't have to specify these with
+  % every instance of \includegraphics
+  % \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+\else
+  % or other class option (dvipsone, dvipdf, if not using dvips). graphicx
+  % will default to the driver specified in the system graphics.cfg if no
+  % driver is specified.
+  % \usepackage[dvips]{graphicx}
+  % declare the path(s) where your graphic files are
+  % \graphicspath{{../eps/}}
+  % and their extensions so you won't have to specify these with
+  % every instance of \includegraphics
+  % \DeclareGraphicsExtensions{.eps}
+\fi
+% graphicx was written by David Carlisle and Sebastian Rahtz. It is
+% required if you want graphics, photos, etc. graphicx.sty is already
+% installed on most LaTeX systems. The latest version and documentation
+% can be obtained at: 
+% http://www.ctan.org/tex-archive/macros/latex/required/graphics/
+% Another good source of documentation is "Using Imported Graphics in
+% LaTeX2e" by Keith Reckdahl which can be found at:
+% http://www.ctan.org/tex-archive/info/epslatex/
+%
+% latex, and pdflatex in dvi mode, support graphics in encapsulated
+% postscript (.eps) format. pdflatex in pdf mode supports graphics
+% in .pdf, .jpeg, .png and .mps (metapost) formats. Users should ensure
+% that all non-photo figures use a vector format (.eps, .pdf, .mps) and
+% not a bitmapped formats (.jpeg, .png). IEEE frowns on bitmapped formats
+% which can result in "jaggedy"/blurry rendering of lines and letters as
+% well as large increases in file sizes.
+%
+% You can find documentation about the pdfTeX application at:
+% http://www.tug.org/applications/pdftex
+
+
+
+
+
+
+% *** MATH PACKAGES ***
+%
+\usepackage[cmex10]{amsmath}
+% A popular package from the American Mathematical Society that provides
+% many useful and powerful commands for dealing with mathematics. If using
+% it, be sure to load this package with the cmex10 option to ensure that
+% only type 1 fonts will utilized at all point sizes. Without this option,
+% it is possible that some math symbols, particularly those within
+% footnotes, will be rendered in bitmap form which will result in a
+% document that can not be IEEE Xplore compliant!
+%
+% Also, note that the amsmath package sets \interdisplaylinepenalty to 10000
+% thus preventing page breaks from occurring within multiline equations. Use:
+%\interdisplaylinepenalty=2500
+% after loading amsmath to restore such page breaks as IEEEtran.cls normally
+% does. amsmath.sty is already installed on most LaTeX systems. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/
+
+
+\usepackage{amsfonts} % to use $\mathbb{Z}$
+
+
+% *** SPECIALIZED LIST PACKAGES ***
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+% algorithmic.sty was written by Peter Williams and Rogerio Brito.
+% This package provides an algorithmic environment fo describing algorithms.
+% You can use the algorithmic environment in-text or within a figure
+% environment to provide for a floating algorithm. Do NOT use the algorithm
+% floating environment provided by algorithm.sty (by the same authors) or
+% algorithm2e.sty (by Christophe Fiorio) as IEEE does not use dedicated
+% algorithm float types and packages that provide these will not provide
+% correct IEEE style captions. The latest version and documentation of
+% algorithmic.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms/
+% There is also a support site at:
+% http://algorithms.berlios.de/index.html
+% Also of interest may be the (relatively newer and more customizable)
+% algorithmicx.sty package by Szasz Janos:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithmicx/
+
+
+
+
+% *** ALIGNMENT PACKAGES ***
+%
+%\usepackage{array}
+% Frank Mittelbach's and David Carlisle's array.sty patches and improves
+% the standard LaTeX2e array and tabular environments to provide better
+% appearance and additional user controls. As the default LaTeX2e table
+% generation code is lacking to the point of almost being broken with
+% respect to the quality of the end results, all users are strongly
+% advised to use an enhanced (at the very least that provided by array.sty)
+% set of table tools. array.sty is already installed on most systems. The
+% latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/tools/
+
+
+% IEEEtran contains the IEEEeqnarray family of commands that can be used to
+% generate multiline equations as well as matrices, tables, etc., of high
+% quality.
+
+
+
+
+% *** SUBFIGURE PACKAGES ***
+%\ifCLASSOPTIONcompsoc
+%  \usepackage[caption=false,font=footnotesize,labelfont=sf,textfont=sf]{subfig}
+%\else
+%  \usepackage[caption=false,font=footnotesize]{subfig}
+%\fi
+% subfig.sty, written by Steven Douglas Cochran, is the modern replacement
+% for subfigure.sty, the latter of which is no longer maintained and is
+% incompatible with some LaTeX packages including fixltx2e. However,
+% subfig.sty requires and automatically loads Axel Sommerfeldt's caption.sty
+% which will override IEEEtran.cls' handling of captions and this will result
+% in non-IEEE style figure/table captions. To prevent this problem, be sure
+% and invoke subfig.sty's "caption=false" package option (available since
+% subfig.sty version 1.3, 2005/06/28) as this is will preserve IEEEtran.cls
+% handling of captions.
+% Note that the Computer Society format requires a sans serif font rather
+% than the serif font used in traditional IEEE formatting and thus the need
+% to invoke different subfig.sty package options depending on whether
+% compsoc mode has been enabled.
+%
+% The latest version and documentation of subfig.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/subfig/
+
+
+
+
+% *** FLOAT PACKAGES ***
+%
+%\usepackage{fixltx2e}
+% fixltx2e, the successor to the earlier fix2col.sty, was written by
+% Frank Mittelbach and David Carlisle. This package corrects a few problems
+% in the LaTeX2e kernel, the most notable of which is that in current
+% LaTeX2e releases, the ordering of single and double column floats is not
+% guaranteed to be preserved. Thus, an unpatched LaTeX2e can allow a
+% single column figure to be placed prior to an earlier double column
+% figure. The latest version and documentation can be found at:
+% http://www.ctan.org/tex-archive/macros/latex/base/
+
+
+%\usepackage{stfloats}
+% stfloats.sty was written by Sigitas Tolusis. This package gives LaTeX2e
+% the ability to do double column floats at the bottom of the page as well
+% as the top. (e.g., "\begin{figure*}[!b]" is not normally possible in
+% LaTeX2e). It also provides a command:
+%\fnbelowfloat
+% to enable the placement of footnotes below bottom floats (the standard
+% LaTeX2e kernel puts them above bottom floats). This is an invasive package
+% which rewrites many portions of the LaTeX2e float routines. It may not work
+% with other packages that modify the LaTeX2e float routines. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/sttools/
+% Do not use the stfloats baselinefloat ability as IEEE does not allow
+% \baselineskip to stretch. Authors submitting work to the IEEE should note
+% that IEEE rarely uses double column equations and that authors should try
+% to avoid such use. Do not be tempted to use the cuted.sty or midfloat.sty
+% packages (also by Sigitas Tolusis) as IEEE does not format its papers in
+% such ways.
+% Do not attempt to use stfloats with fixltx2e as they are incompatible.
+% Instead, use Morten Hogholm'a dblfloatfix which combines the features
+% of both fixltx2e and stfloats:
+%
+% \usepackage{dblfloatfix}
+% The latest version can be found at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/dblfloatfix/
+
+
+
+
+%\ifCLASSOPTIONcaptionsoff
+%  \usepackage[nomarkers]{endfloat}
+% \let\MYoriglatexcaption\caption
+% \renewcommand{\caption}[2][\relax]{\MYoriglatexcaption[#2]{#2}}
+%\fi
+% endfloat.sty was written by James Darrell McCauley, Jeff Goldberg and 
+% Axel Sommerfeldt. This package may be useful when used in conjunction with 
+% IEEEtran.cls'  captionsoff option. Some IEEE journals/societies require that
+% submissions have lists of figures/tables at the end of the paper and that
+% figures/tables without any captions are placed on a page by themselves at
+% the end of the document. If needed, the draftcls IEEEtran class option or
+% \CLASSINPUTbaselinestretch interface can be used to increase the line
+% spacing as well. Be sure and use the nomarkers option of endfloat to
+% prevent endfloat from "marking" where the figures would have been placed
+% in the text. The two hack lines of code above are a slight modification of
+% that suggested by in the endfloat docs (section 8.4.1) to ensure that
+% the full captions always appear in the list of figures/tables - even if
+% the user used the short optional argument of \caption[]{}.
+% IEEE papers do not typically make use of \caption[]'s optional argument,
+% so this should not be an issue. A similar trick can be used to disable
+% captions of packages such as subfig.sty that lack options to turn off
+% the subcaptions:
+% For subfig.sty:
+% \let\MYorigsubfloat\subfloat
+% \renewcommand{\subfloat}[2][\relax]{\MYorigsubfloat[]{#2}}
+% However, the above trick will not work if both optional arguments of
+% the \subfloat command are used. Furthermore, there needs to be a
+% description of each subfigure *somewhere* and endfloat does not add
+% subfigure captions to its list of figures. Thus, the best approach is to
+% avoid the use of subfigure captions (many IEEE journals avoid them anyway)
+% and instead reference/explain all the subfigures within the main caption.
+% The latest version of endfloat.sty and its documentation can obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/endfloat/
+%
+% The IEEEtran \ifCLASSOPTIONcaptionsoff conditional can also be used
+% later in the document, say, to conditionally put the References on a 
+% page by themselves.
+
+
+
+
+% *** PDF, URL AND HYPERLINK PACKAGES ***
+%
+\usepackage{url}
+% url.sty was written by Donald Arseneau. It provides better support for
+% handling and breaking URLs. url.sty is already installed on most LaTeX
+% systems. The latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/url/
+% Basically, \url{my_url_here}.
+
+
+
+
+
+% *** Do not adjust lengths that control margins, column widths, etc. ***
+% *** Do not use packages that alter fonts (such as pslatex).         ***
+% There should be no need to do such things with IEEEtran.cls V1.6 and later.
+% (Unless specifically asked to do so by the journal or conference you plan
+% to submit to, of course. )
+
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor  Birmingham}
+
+
+\begin{document}
+%
+% paper title
+% Titles are generally capitalized except for words such as a, an, and, as,
+% at, but, by, for, in, nor, of, on, or, the, to and up, which are usually
+% not capitalized unless they are the first or last word of the title.
+% Linebreaks \\ can be used within to get better formatting as desired.
+% Do not put math or special symbols in the title.
+% \title{Bare Demo of IEEEtran.cls\\ for Computer Society Journals}
+\title{
+% Automatic Identification of Human Movement Variability
+ Automatic Identification of \\ Human Movement Variability
+}
+
+
+
+
+
+%
+%
+% author names and IEEE memberships
+% note positions of commas and nonbreaking spaces ( ~ ) LaTeX will not break
+% a structure at a ~ so this keeps an author's name from being broken across
+% two lines.
+% use \thanks{} to gain access to the first footnote area
+% a separate \thanks must be used for each paragraph as LaTeX2e's \thanks
+% was not built to handle multiple paragraphs
+%
+%
+%\IEEEcompsocitemizethanks is a special \thanks that produces the bulleted
+% lists the Computer Society journals use for "first footnote" author
+% affiliations. Use \IEEEcompsocthanksitem which works much like \item
+% for each affiliation group. When not in compsoc mode,
+% \IEEEcompsocitemizethanks becomes like \thanks and
+% \IEEEcompsocthanksitem becomes a line break with idention. This
+% facilitates dual compilation, although admittedly the differences in the
+% desired content of \author between the different types of papers makes a
+% one-size-fits-all approach a daunting prospect. For instance, compsoc 
+% journal papers have the author affiliations above the "Manuscript
+% received ..."  text while in non-compsoc journals this is reversed. Sigh.
+
+\author{
+% Miguel Xochicale
+ 	Miguel~Xochicale,~\IEEEmembership{Doctoral~Researcher;}\\
+         Chris~Baber,~\IEEEmembership{Lead~Supervisor;}
+         ~Martin~Russell,~\IEEEmembership{Co-Supervisor;} \\
+         and~?~?,~\IEEEmembership{Academic~Advisor.}
+         % <-this % stops a space
+
+ \IEEEcompsocitemizethanks{\IEEEcompsocthanksitem 
+ M. Xochicale, C. Baber and M. Russell are with the School of Electronic, Electrical and Systems Engineering, 
+ The University of Birmingham, U.K. \protect\\
+ % note need leading \protect in front of \\ to get a newline within \thanks as
+ % \\ is fragile and will error, could use \hfil\break instead.
+ E-mail: see http://mxochicale.github.io/
+ }% <-this 
+% stops an unwanted space
+\thanks{Manuscript received August 15, 2016; revised Month Day, 2016.}
+}
+
+% note the % following the last \IEEEmembership and also \thanks - 
+% these prevent an unwanted space from occurring between the last author name
+% and the end of the author line. i.e., if you had this:
+% 
+% \author{....lastname \thanks{...} \thanks{...} }
+%                     ^------------^------------^----Do not want these spaces!
+%
+% a space would be appended to the last name and could cause every name on that
+% line to be shifted left slightly. This is one of those "LaTeX things". For
+% instance, "\textbf{A} \textbf{B}" will typeset as "A B" not "AB". To get
+% "AB" then you have to do: "\textbf{A}\textbf{B}"
+% \thanks is no different in this regard, so shield the last } of each \thanks
+% that ends a line with a % and do not let a space in before the next \thanks.
+% Spaces after \IEEEmembership other than the last one are OK (and needed) as
+% you are supposed to have spaces between the names. For what it is worth,
+% this is a minor point as most people would not even notice if the said evil
+% space somehow managed to creep in.
+
+% The paper headers
+\markboth{Twenty-oneth Month Report, August~2016}%
+{Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for Computer 
+Society Journals}
+% The only time the second header will appear is for the odd numbered pages
+% after the title page when using the twoside option.
+% 
+% *** Note that you probably will NOT want to include the author's ***
+% *** name in the headers of peer review papers.                   ***
+% You can use \ifCLASSOPTIONpeerreview for conditional compilation here if
+% you desire.
+
+% The publisher's ID mark at the bottom of the page is less important with
+% Computer Society journal papers as those publications place the marks
+% outside of the main text columns and, therefore, unlike regular IEEE
+% journals, the available text space is not reduced by their presence.
+% If you want to put a publisher's ID mark on the page you can do it like
+% this:
+%\IEEEpubid{0000--0000/00\$00.00~\copyright~2014 IEEE}
+% or like this to get the Computer Society new two part style.
+%\IEEEpubid{\makebox[\columnwidth]{\hfill 0000--0000/00/\$00.00~\copyright~2014 IEEE}%
+%\hspace{\columnsep}\makebox[\columnwidth]{Published by the IEEE Computer Society\hfill}}
+% Remember, if you use this you must call \IEEEpubidadjcol in the second
+% column for its text to clear the IEEEpubid mark (Computer Society jorunal
+% papers don't need this extra clearance.)
+
+% use for special paper notices
+%\IEEEspecialpapernotice{(Invited Paper)}
+
+% for Computer Society papers, we must declare the abstract and index terms
+% PRIOR to the title within the \IEEEtitleabstractindextext IEEEtran
+% command as these need to go into the title area created by \maketitle.
+% As a general rule, do not put math, special symbols or citations
+% in the abstract or keywords.
+\IEEEtitleabstractindextext{%
+
+
+ 
+% \begin{abstract}
+% ...
+% \end{abstract}
+
+
+% % Note that keywords are not normally used for peerreview papers.
+% \begin{IEEEkeywords}
+% X;X;X;
+% \end{IEEEkeywords}
+
+
+
+}
+
+
+
+% make the title area
+\maketitle
+
+
+% To allow for easy dual compilation without having to reenter the
+% abstract/keywords data, the \IEEEtitleabstractindextext text will
+% not be used in maketitle, but will appear (i.e., to be "transported")
+% here as \IEEEdisplaynontitleabstractindextext when the compsoc 
+% or transmag modes are not selected <OR> if conference mode is selected 
+% - because all conference papers position the abstract like regular
+% papers do.
+\IEEEdisplaynontitleabstractindextext
+% \IEEEdisplaynontitleabstractindextext has no effect when using
+% compsoc or transmag under a non-conference mode.
+
+
+
+% For peer review papers, you can put extra information on the cover
+% page as needed:
+% \ifCLASSOPTIONpeerreview
+% \begin{center} \bfseries EDICS Category: 3-BBND \end{center}
+% \fi
+%
+% For peerreview papers, this IEEEtran command inserts a page break and
+% creates the second title. It will be ignored for other modes.
+\IEEEpeerreviewmaketitle
+
+
+
+
+
+\IEEEraisesectionheading{\section{Introduction}\label{sec:introduction}}
+
+\subsection{Aim}
+
+This report presents the progress of the PhD research project titled
+``Automatic Identification of Human Movement Variability'' 
+for the period between September 2015 and August 2016.
+
+\subsection{Background}
+As stated in the 9 Month Report that was submitted in August 2015,
+I am generally interested in using nonlinear dynamics methods 
+that can provide insight into the variability of human activities.
+Particularly, I explored the use of the time-delay embedding and PCA methods
+applied to dance activities. 
+
+The research themes of the 9 Month Report can be summarised as follows:
+
+\begin{itemize}
+ \item Revision of challenges in Human Activity Recognition using body-worn sensors.
+ \item Revision of non-linear tools that measure variability.
+ \item Revision of sensing technology to capture dance activities.
+ \item Implementation of the Cao and mutual information algorithms in order 
+    to compute the Time-delay Embedding parameters $m$ and $\tau$.
+ \item Implementation of an stochastic model to gain better understanding of the 
+ structure of human movement considering the repeativility and structure of the motion.
+ \item Exceution of a preliminary experiment in which data from 13 participants of different 
+ levels of dance expertise were analysed with the time-delay Embedding and PCA methods.
+ However, data collection for this experiment were corrupted due to the impression of sampling rate.
+\end{itemize}
+
+For further references refer to the 9 Month report \textbf{[ADD REF]}.
+
+
+\section{Progress}
+
+\subsection{September 2015 to November 2015}
+
+I did research regarding the calculations of Euler angles from the
+low-cost (Razor 9DOF) IMU sensors as well as the sensor placement on the body.
+Additionally, I explore PCA and its use and analyse artificial signals with added noise.
+
+
+
+
+\subsection{December 2015 to February 2016}
+The paper submission titled ``Dancing in Time: applying time-series analysis to Human Activity''
+was rejected at the Human-Computer Interaction conference (CHI) 2016. From the reviewers' comments, 
+I have learnt that the proposed methodology is too specific and it is not transferable for other applications.
+Additionally, the data set consisting of 1 expert, 
+1 intermeiate and 11 novice dancers, was too small to make statistically significant conclusions.
+However, reviewers pointed out that research in handwriting recognition presents metrics 
+that might help us to recognise the dexterity of dance activities.
+
+Addionally, a third pilot experiment was performed in which 7 participants danced 
+six basic salsa steps with and without music.
+The experiment includes anthropomorphic data of the participants 
+(gender, age, handedness, height, weight and ethnic group).
+However, I did not analyse the data becuase I found that the
+ sampling rate of the low-cost (Razor 9DOF) IMU sensors were different to 50 Hz.
+%  since less than 50 samples were obtained for one second. 
+
+To gain a better understanding of the varialibility of human movement,
+I follow the work of Hammerla  \textit{et al.} \cite{Hammerla2011} in order to implement a stochastic model 
+that considers the repeativility and structure of the motion.
+Hammerla's model considers a constant period per repetition
+which leaves room to develop the model further.
+Therefore, I added a normalised random vector for frequency which basically varies the frequency 
+(therefore the period) per repetition using gaussian random parameters (mean and standard deviation).
+
+\subsection{March 2016 to May 2016}
+
+I restated my research question which reads as follows:
+\begin{itemize}
+ \item \textit{Can I use the variability of simplistic movements not only to automatically identify
+an activity but also as an automatic index of users' performance over the course of practice?}
+\end{itemize}
+
+
+A fourth pilot experiment was performed due to the problems with sensor syncronisation, sample rate and drift.
+The experiment consists of six simplistic movements 
+(static, horizontal, vertical, diagonal, circular and 8-shape)
+which were performed by six participants. 
+For data collection low-cost (Razor 9DOF) IMU sensors were attached to the wrist of the participants.
+
+I submitted the following body of work:
+(i) a Poster Abstract Submission to the University of Birmingham research poster conference.;
+(ii) an extended abstract (2 pages)  and its poster submission to the The Fifth ACM International 
+Symposium on Pervasive Displays; and
+(iii) an extended abstract (2 pages) submission to the 2nd International Symposium on Wearable Robotics.
+I also applied to the European computational motor control summer school,
+however I was not accepted due to the high number of applications.
+
+A valiation test using the Razor 9DOF sensors and shimmer sensors
+was performed 
+due to the fluctuation of the sample rate of the low-cost sensors.
+I also performed a benchmark for commertial IMUS
+(9DOF Razor, myAHRS+, EXLs3, WAX9, Xsens sensors MTw Awinda DK Lite, shimmer and Muse)
+which included:
+Price, Connectivity, Sensor range for accelerometer, gyroscope and magnetometer, 
+sample rate, temperature, battery time and API.
+
+
+
+\subsection{June 2016 to August 2016}
+
+For data analysis, I proposed the use of the Georgia Tech Gesture Toolkit \cite{Westeyn2003}
+which is based on the Hidden Markov Model Toolkit (HTK).
+I therefore installed HTK 3.5 on a machine with Ubuntu 14.01 x64.
+
+I also proposed to use The Gesture Recognition Toolkit (GRT) as a machine learning library.
+GTR contains 15 machine-learning algorithms and 16 pre-processing, post-processing, and feature-extraction algorithms 
+\cite{Gillian2014}.
+
+I presented a poster at the XIV Symposium of Mexican Students in the U.K. at the University of Edinburgh
+in which I received a prize for one of the two best posters presented.
+
+I am testing the drift in the accelerometer and gyroscope sensors over long acquistion periods for two Razor 9DOF IMUS sensors. 
+I am using Robot Operating System (ROS) to collect and process data from the sensors.
+For further experiments, I am also planning  to create a Human-Robot Interaction with NAO Humanoid Robot in ROS.
+
+
+\section{Publication Plan}
+
+\begin{enumerate}
+ \item Journal Submission: Human Movement Science - Elsavier [Impact factor: 1.606] (December 2016).
+I plan to report the use of different nonlinear techniques 
+(Empirical Mode Decomposition, Lyapunov exponent, fractal dimensionality, poincare maps)
+with the pre-processing and post-processing techniques on GRT using data from IMUs of simplistic human movements.
+
+My aim is to gain a better understanding of the use of techniques and tools,
+in order to better measure the variability of simplistic activities
+
+\item Journal Submission: IEEE Transactions on Pattern Analysis and Machine Intelligence.
+[Impact factor: 6.077] (April 2017).
+I plan to apply nonlinear techniques as a pre-processing technique 
+to test different machine learning algorithms of the GTR in order 
+to automatically clasify the variability of human movements. 
+
+
+\end{enumerate}
+
+
+
+
+\section{Work Plan} 
+The gantt chart 1 presents a monthly breakdown for the next six months.
+
+\section{Conclusion}
+
+
+Generally, I have been establishing and learning 
+from the literature (refer to Appendix A), running and planning experiments (refer to Appendix B)
+and facing technical problems with the low-cost inertial sensors. 
+
+For the previous experiments, I noted that the embedded values ($m$ and $\tau$)  were 
+only computed from the expert dancer and 
+the same values were also used for the intermediate and novice dancers,
+which means that further tests have to be done in order to validate the 
+effect the embedded values have for different participants.
+
+In terms of scientific publications two short abstracts were accepted in
+(i) the Fifth ACM International Symposium on Pervasive Displays, and 
+(ii) the Second International Symposium on Wearable Robotics.
+
+For future plans, a preliminary experiment is going to be performed (refer to Appendix B)
+and further experiment with an humanoid robot is going to be performed (refer to Appendix C).
+
+
+\appendices
+
+\section{Extensive, up to date literature survey}
+
+%  Newell and Corcos stated that variability is an inherent characteristic of human movement .
+
+The aim of automatic activity recognition is to provide information about a user's activity
+generally by means of still images and video. 
+However, this constrained environment using cameras has caused a shift toward the use of body-worn sensors \cite{bulling2014}.
+Such sensors that are commonly used include accelerometer, gyroscope and magnetometer
+for applications such as detection falls, movement and analysis of body 
+or a subject's postural orientation to mention but a few \cite{Mukhopadhyay2014}.
+
+Although the advances in HAR has been providing good results in terms of recognition rates.
+There is little research investigating the automatic identification of variability in human activity recognition.
+Bulling \textit{et al.}, for instance, stated that one of the common challenges in HAR 
+using body-worn sensors is \textit{intraclass variability} which occurs when 
+an activity is performed differently either by a single person or several people \cite{bulling2014} . 
+Lim \textit{et al.}, for example, performed an empirical study to test the motion variabilty 
+presented between 20 gestures with 12 participants. %in which each gesture was perfomed three times.
+Data was collected on hand orientation using a Microsoft Kinect sensor \cite{Lim2012}. % as reference coordinates.
+As expected, due to the intrinsic variability of human movement \cite{newell1993variability}, 
+there was statistical significant variability of the lenght of trace and speed of gesture movements.
+However, Lim \textit{et al.} stated that ``the gesture type did not show significant effect of the variation`` \cite{Lim2012}.
+
+On the other hand, another possible source of variability is the displacement of the body-worn sensors. 
+For instance, Haratian \textit{et al.} investigated the inadvertent changes in the position of on-body sensors 
+due to rapid movements or displacement of sensors during different trials and seasons.
+They proposed the use of functional-PCA 
+which separates determinist and sthocastic components of the movements
+in order to filter and interpret, what they called, ``the true nature of movement data variabitliy'' 
+\cite{Haratian2012,Haratian2014,Haratian2016}.
+
+
+
+Regarding the sensor brands, 
+Commotti \textit{et al.} presented neMEMSi which is a microelectromechanical systems (MEMS)  based inertial and magnetic 
+system-on-bard with embedding processing and wireless communication.
+For validation purposed the neMEMSi was compared with respect to the state-of-the-art device Xsense MTi-30
+in which the 3D static orientation acuracy is 0.057 degrees average on Roll, Pitch and Yaw 
+and 3D dynamic orientation acuracy is 0.55 degrees average on Roll, Pitch and Yaw \cite{Comotti2014}.
+
+Furthermore, Galizzi \textit{et al.} performed power consumption tests with the 
+neMEMSi-TEG for Thermo-Electric-Generators in order to increase the lifetime of the batteries.
+They found that there is a trade off between accuracy, power consumtion and sampling rate.
+It can be said that the use of a gyroscope strongly affects the increase of power consumption
+and the static and dynamic error are within 1 degree and 10 degrees respectively 
+when the sampling rate is higher than 50 Hz \cite{Galizzi2015}.
+
+neMEMSi sensors has been used for Parkinson's Disease patients' rehabilitation 
+in a Timed-Up-and-Go test, where data was gathered and analysed from 
+13 PD participants (mean age: 16.6$\pm$9) and 4 control subjects (mean age: 16.3$\pm$4) \cite{Caldara2014}.
+
+Similarly, neMEMSi-Smart has been used to assess the motor performance of elderly people
+in a six-minute walk test, using five adults with no pathologies (mean age: 31$\pm$6) and four elderly people with Type 2 Diabetes 
+(mean age: 70.8$\pm$7) \cite{Caldara2015}.
+Further experiments were made by Lorenzi \textit{et al.} in which the neMEMSi were attached to the head 
+%,where the mass center of the sensors oscillates in the $y$ direction,
+of 5 participants  with Parkinson's Disease in order to 
+automatically classify those human motion dissorders with an Artificial Neural Network \cite{Lorenzi2015}.
+However, the neck join added signals from many postural problems
+and irregular movements because of the Parkinson Disease.
+Therefore, in the most recent work of Lorenzi \textit{et al.} two neMEMSi sensors were attached to the shins
+of 16 patients for fine detection of gait patterns
+which results in a ``good'' peformance in terms of sensitivity, precision and accuracy of 
+the detection of freezing of gait (FOG) for elderly people with Parkinson's Disease  \cite{Lorenzi2016}.
+
+Both Lorenzi \textit{et al.} and Arsenault and Whitehead 
+pointed out that the use of quaternion representation is more benefical over 
+other rotational representations such as the Euler angles.
+For instance, quaternion representation does not suffer from the problem of gimbal lock
+and they are numerically stable 
+since they do not require the calculations of many trigonometric functions \cite{Lorenzi2015, Arsenault2015_a, Munkundan2002}.
+
+Arsenault and Whitehead collected data from 10 individuals performing six gestures fifty times each,
+this lead to 3000 samples in total, with 500 samples per gesutre. 
+For recognition purposes, they reported an improvement of the classification rates
+in terms of speed and accuracy using Markov Chain instead of Hidden Markov Models \cite{Arsenault2015_a, Arsenault2015_b}.
+They used a network of InvenSense MPU-6050 (3-axis accelerometer and 3-axis gyroscope) sensors with the  PIC24 microcontroller.
+  
+% Another important point to make when you are recognising gestures is the segmentation or windowing,
+% Recently, Banos \textit{et al.} 
+% demonstrated that large window size does not lead good recognition performance.
+% Therefore using a data set of 17 participants performing 33 fitness activities 
+% reported that short windows (0.25-0.5 s) lead to better recognition performances \cite{Banos2014}. 
+% 
+% 
+% 
+% 
+\section{Detailed Description of Preliminary Experiment}
+
+\subsection{Aim}
+Apply non-linear methods to time-series from intertial sensors of 
+simplistic movements.
+
+\subsection{Materials and Methods}
+
+
+Data collection from 12 participants will be performed. 
+Each participant is going to 
+perform 7 simplistic movements (static standing, static in T position, horizontal,
+vertical, diagonal, circular and eight-shape) with their arms for three minutes per movement
+in six seasons.
+Three sensors will be attached to the wrist, forearm and upperarm of the participants.
+
+Using the data set, it is planned to apply different nonlinear techniques 
+(Empirical Mode Decomposition, Lyapunov exponent, fractal dimensionality, poincare maps).
+Also, the GRT is going to be used to apply techniques of 
+pre-processing, post-processing and feature-extraction algorithms.
+
+\subsection{Results and Publication}
+
+By analysing the data using the nonlinear techniques, I expect to
+gain better insight to asses variablity of simplistic movements.
+I am therefore going to submit the outcomes of this experiment to
+the journal Human Movement Science by Elsavier (Impact factor: 1.606) on December 2016.
+
+
+\section{Further Experimenting}
+
+In order to automatically access the variability of simplistic movements, 
+I am going to implement a Human-Robot Interaction application 
+with NAO humanoid robot \cite{NAO}
+in which simplistic movements will be performed by NAO 
+and participants are going to replicate the movements.
+
+
+% use section* for acknowledgment
+\ifCLASSOPTIONcompsoc
+  % The Computer Society usually uses the plural form
+  \section*{Acknowledgments}
+\else
+  % regular IEEE prefers the singular form
+  \section*{Acknowledgment}
+\fi
+
+Miguel Xochicale gratefully acknowledges the studentship from 
+the National Council for Science and Technology (CONACyT) Mexico
+to pursue his postgraduate studies at University of Birmingham U.K.
+
+\ifCLASSOPTIONcaptionsoff
+  \newpage
+\fi
+
+
+
+% trigger a \newpage just before the given reference
+% number - used to balance the columns on the last page
+% adjust value as needed - may need to be readjusted if
+% the document is modified later
+%\IEEEtriggeratref{8}
+% The "triggered" command can be changed if desired:
+%\IEEEtriggercmd{\enlargethispage{-5in}}
+
+% references section
+
+% can use a bibliography generated by BibTeX as a .bbl file
+% BibTeX documentation can be easily obtained at:
+% http://www.ctan.org/tex-archive/biblio/bibtex/contrib/doc/
+% The IEEEtran BibTeX style support page is at:
+% http://www.michaelshell.org/tex/ieeetran/bibtex/
+%\bibliographystyle{IEEEtran}
+% argument is your BibTeX string definitions and bibliography database(s)
+%\bibliography{IEEEabrv,../bib/paper}
+%
+% <OR> manually copy in the resultant .bbl file
+% set second argument of \begin to the number of references
+% (used to reserve space for the reference number labels box)
+% \begin{thebibliography}{1}
+% 
+% \bibitem{IEEEhowto:kopka}
+% H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
+%   0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
+% 
+% \end{thebibliography}
+
+% \nocite{*}
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+
+% biography section
+% 
+% If you have an EPS/PDF photo (graphicx package needed) extra braces are
+% needed around the contents of the optional argument to biography to prevent
+% the LaTeX parser from getting confused when it sees the complicated
+% \includegraphics command within an optional argument. (You could create
+% your own custom macro containing the \includegraphics command to make things
+% simpler here.)
+%\begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{mshell}}]{Michael Shell}
+% or if you just want to reserve a space for a photo:
+
+% \begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{mxochicale38x44.pdf}}]{name}
+
+% \begin{IEEEbiography}{Miguel Perez-Xochicale}
+% ........................
+% \end{IEEEbiography}
+
+
+
+% % if you will not have a photo at all:
+% \begin{IEEEbiographynophoto}{John Doe}
+% Biography text here.
+% \end{IEEEbiographynophoto}
+% 
+% % insert where needed to balance the two columns on the last page with
+% % biographies
+% %\newpage
+% 
+% \begin{IEEEbiographynophoto}{Jane Doe}
+% Biography text here.
+% \end{IEEEbiographynophoto}
+
+% You can push biographies down or up by placing
+% a \vfill before or after them. The appropriate
+% use of \vfill depends on what kind of text is
+% on the last page and whether or not the columns
+% are being equalized.
+
+%\vfill
+
+% Can be used to pull up biographies so that the bottom of the last one
+% is flush with the other column.
+%\enlargethispage{-5in}
+
+
+
+% that's all folks
+\end{document}

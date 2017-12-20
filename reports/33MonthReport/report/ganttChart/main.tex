@@ -1,0 +1,263 @@
+% http://tex.stackexchange.com/questions/237422/can-i-have-a-pgfgantt-chart-with-different-colors-per-bar
+
+\documentclass[12pt,a4paper]{article}
+% \usepackage[a4paper]{geometry}
+% \usepackage[margin=10mm]{geometry}
+\usepackage{geometry}
+
+\usepackage{pgfgantt}
+
+
+
+
+% \usepackage{lscape}
+
+
+% \usepackage[yyyymmdd,hhmmss]{datetime}
+\usepackage{datetime}
+\longdate
+
+\usepackage{fancyhdr}
+
+
+\title{
+% Classification of
+Human Movement Variability \\
+in the context of Human-Robot Interaction
+% :  \\Plan for the 1st Year
+}
+\author{Miguel P. Xochicale}
+\date{\today}
+
+
+
+\begin{document}
+\maketitle
+
+\thispagestyle{empty}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% First Year
+
+\begin{flushleft}
+
+\begin{ganttchart}[
+    hgrid, vgrid,
+    x unit=10mm,
+    y unit title=0.5cm,
+    y unit chart=0.6cm,
+    time slot format=isodate-yearmonth,
+    compress calendar,
+    title/.append style={shape=rectangle, fill=black!10},
+    title label font=\bfseries\color{black},
+    title height=1,
+    bar/.append style={fill=green!90},
+    bar height=.6,
+    bar label font=\normalsize\color{black!50},
+    group top shift=.6,
+    group height=.3,
+    group peaks height=.1,
+    bar incomplete/.append style={fill=green!40},
+%     vgrid=*{5}{dotted},
+%     today={2016-08}
+  ]{2014-11}{2015-10}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\gantttitle{First Year}{12} \\
+\gantttitlecalendar{year, month=shortname} \\
+\ganttset{progress label text={},
+     bar incomplete/.append style={fill=blue!20},% <<-------  blue!20 back ground
+     group/.append style={draw=black, fill=green},} % this suppresses percentage done labels
+
+
+\ganttbar[progress=00, name=3r]{3 Month Report}{2015-01}{2015-01} \\
+\ganttbar[progress=00, name=1cr]{1 CONACyT Report}{2015-05}{2015-05} \\
+\ganttbar[progress=00, name=9r]{9 Month Report}{2015-07}{2015-07} \\
+\ganttbar[progress=00, name=9r]{MECATE2015}{2015-05}{2015-05} \\
+\ganttlinkedbar[progress=00, name=6cr]{Event MECATE2015}{2015-07}{2015-07}
+
+\end{ganttchart}
+
+
+\vspace{5mm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% Second Year
+\begin{ganttchart}[
+    hgrid, vgrid,
+    x unit=10mm,
+    y unit title=0.5cm,
+    y unit chart=0.6cm,
+    time slot format=isodate-yearmonth,
+    compress calendar,
+    title/.append style={shape=rectangle, fill=black!10},
+    title label font=\bfseries\color{black},
+    title height=1,
+    bar/.append style={fill=green!90},
+    bar height=.6,
+    bar label font=\normalsize\color{black!50},
+    group top shift=.6,
+    group height=.3,
+    group peaks height=.1,
+    bar incomplete/.append style={fill=green!40},
+%     vgrid=*{5}{dotted}
+  ]{2015-11}{2016-10}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\gantttitle{Second Year}{12} \\
+\gantttitlecalendar{year, month=shortname} \\
+\ganttset{progress label text={},
+     bar incomplete/.append style={fill=blue!40},  % <<-------  blue!40 back ground
+     group/.append style={draw=black, fill=green},} % this suppresses percentage done labels
+
+
+% \ganttbar[progress=00, name=3r]{Three Month Report}{2015-11}{2016-01} \\
+\ganttbar[progress=00, name=1cr]{2 CONACyT Report}{2015-11}{2015-11} \\
+\ganttbar[progress=00, name=1cr]{Abstract PerDis2016}{2016-04}{2016-04} \\
+\ganttlinkedbar[progress=00, name=6cr]{Conf PerDis2016}{2016-06}{2016-06} \\
+
+\ganttbar[progress=00, name=1cr]{MXSymposiumUK2016}{2016-04}{2016-04} \\
+\ganttlinkedbar[progress=00, name=6cr]{MXSymposiumUK2016}{2016-06}{2016-06} \\
+
+\ganttbar[progress=00, name=1cr]{Abstract WeRob2016}{2016-04}{2016-04} \\
+\ganttlinkedbar[progress=00, name=6cr]{Conf WeRob2016}{2016-10}{2016-10} \\
+\ganttbar[progress=00, name=1cr]{3 CONACyT Report}{2016-05}{2016-05} \\
+\ganttbar[progress=00, name=9r]{22 Month Report}{2016-08}{2016-08}
+
+\end{ganttchart}
+
+
+\newpage
+
+
+
+\vspace{5mm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% Third Year
+\begin{ganttchart}[
+    hgrid, vgrid,
+    x unit=10mm,
+    y unit title=0.5cm,
+    y unit chart=0.6cm,
+    time slot format=isodate-yearmonth,
+    compress calendar,
+    title/.append style={shape=rectangle, fill=black!10},
+    title label font=\bfseries\color{black},
+    title height=1,
+    bar/.append style={fill=green!90},
+    bar height=.6,
+    bar label font=\normalsize\color{black!50},
+    group top shift=.6,
+    group height=.3,
+    group peaks height=.1,
+    bar incomplete/.append style={fill=green!40},
+%     vgrid=*{5}{dotted}
+  ]{2016-11}{2017-10}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\gantttitle{Third Year}{12} \\
+\gantttitlecalendar{year, month=shortname} \\
+\ganttset{progress label text={},
+     bar incomplete/.append style={fill=blue!60},  % <<-------  blue! back ground
+     group/.append style={draw=black, fill=green},} % this suppresses percentage done labels
+
+
+% \ganttbar[progress=00, name=3r]{Three Month Report}{2015-11}{2016-01} \\
+\ganttbar[progress=00, name=1cr]{4 CONACyT Report}{2016-11}{2016-11} \\
+\ganttbar[progress=00, name=1cr]{Poster to HRI2017}{2016-11}{2016-11} \\
+\ganttlinkedbar[progress=00, name=6cr]{Conf HRI2016}{2017-03}{2017-03} \\
+\ganttbar[progress=00, name=1cr]{Presentation IMMX2017}{2016-12}{2016-12} \\
+\ganttlinkedbar[progress=00, name=6cr]{Conf IMMX2017}{2017-05}{2017-05} \\
+\ganttbar[progress=00, name=1cr]{5 CONACyT Report}{2017-05}{2017-05} \\
+\ganttbar[progress=00, name=1cr]{33 Month Report}{2017-05}{2017-05} \\
+
+\ganttbar[progress=00, name=1cr]{MXSymposiumUK2017}{2017-04}{2017-04} \\
+\ganttlinkedbar[progress=00, name=6cr]{MXSymposiumUK2017}{2017-07}{2017-07} \\
+
+\ganttbar[progress=00, name=1cr]{Human Movement Journal}{2016-12}{2017-07} \\
+\ganttbar[progress=00, name=1cr]{8-page Paper to HRI2018}{2017-05}{2017-09} \\
+\ganttbar[progress=00, name=1cr]{4-page Paper to HAI2017}{2017-05}{2017-05} \\
+\ganttlinkedbar[progress=00, name=6cr]{Conf HAI2017}{2017-10}{2017-10}
+
+\end{ganttchart}
+
+
+
+
+
+\vspace{5mm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% Fourth Year
+\begin{ganttchart}[
+    hgrid, vgrid,
+    x unit=10mm,
+    y unit title=0.5cm,
+    y unit chart=0.6cm,
+    time slot format=isodate-yearmonth,
+    compress calendar,
+    title/.append style={shape=rectangle, fill=black!10},
+    title label font=\bfseries\color{black},
+    title height=1,
+    bar/.append style={fill=green!90},
+    bar height=.6,
+    bar label font=\normalsize\color{black!50},
+    group top shift=.6,
+    group height=.3,
+    group peaks height=.1,
+    bar incomplete/.append style={fill=green!40},
+%     vgrid=*{5}{dotted}
+  ]{2017-11}{2018-11}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\gantttitle{Fourth Year}{13} \\
+\gantttitlecalendar{year, month=shortname} \\
+\ganttset{progress label text={},
+     bar incomplete/.append style={fill=red!80},  % <<-------  blue! back ground
+     group/.append style={draw=black, fill=green},} % this suppresses percentage done labels
+
+
+% \ganttbar[progress=00, name=3r]{Three Month Report}{2015-11}{2016-01} \\
+\ganttbar[progress=00, name=1cr]{6 CONACyT Report}{2017-11}{2017-11} \\
+\ganttbar[progress=00, name=1cr]{J. of Social Robotics}{2017-11}{2018-02} \\
+\ganttbar[progress=00, name=1cr]{HRI2018}{2018-03}{2018-03} \\
+\ganttbar[progress=00, name=1cr]{7 CONACyT Report}{2018-05}{2018-05} \\
+\ganttbar[progress=00, name=1cr]{Thesis Write Up}{2018-02}{2018-05} \\
+\ganttbar[progress=00, name=1cr]{Thesis Submission}{2018-06}{2018-05} \\
+
+\ganttbar[progress=00, name=1cr]{MXSymposiumUK2018}{2018-04}{2018-04} \\
+\ganttlinkedbar[progress=00, name=6cr]{MXSymposiumUK2018}{2018-07}{2018-07} \\
+
+\ganttbar[progress=00, name=1cr]{VIVA Preparation}{2018-06}{2018-08} \\
+\ganttbar[progress=00, name=6cr]{VIVA}{2018-09}{2018-08} \\
+\ganttbar[progress=00, name=cr]{Thesis Corrections}{2018-09}{2018-10} \\
+
+\ganttbar[progress=00, name=1cr]{8 CONACyT Report}{2018-11}{2018-11} \\
+
+% \ganttbar[progress=00, name=9r]{Nine Month Report}{2017-08}{2017-08}
+
+\end{ganttchart}
+
+
+
+
+
+
+\end{flushleft}
+
+
+
+
+
+
+
+
+
+
+
+% \begin{flushright}
+% Compiled on \today\ at \currenttime
+% \end{flushright}
+
+
+\end{document}

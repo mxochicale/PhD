@@ -1,0 +1,18 @@
+# Reference
+# http://www.physics.emory.edu/faculty/weeks//software/minfo.html
+
+
+To compile, use 
+gcc -o minfo minfo5.c -lm
+
+
+run either lorenz_extracdata.R or imu_extractdata.R
+
+To run, use
+./minfo datafile -b 100 -t 100 > r.mi
+
+run comparison.R
+
+
+
+
