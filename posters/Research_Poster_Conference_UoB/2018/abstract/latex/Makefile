@@ -8,7 +8,7 @@ version := alpha1
 #
 
 
-FILENAME = abstract
+FILENAME = abstract01
 LATEX = pdflatex -shell-escape -interaction=nonstopmode -file-line-error
 BIB = bibtex
 
