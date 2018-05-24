@@ -20,6 +20,7 @@ convert -verbose -density 50 -trim print_version_A1.pdf -quality 100 -flatten -s
 # svg to png
 
 ```
+inkscape --export-png v02.png drawing.svg
 inkscape --export-png v01.png drawing.svg
 inkscape --export-png v00.png drawing.svg
 
