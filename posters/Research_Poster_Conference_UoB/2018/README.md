@@ -3,34 +3,25 @@ Research Poster Conference 2018 [:link:](https://intranet.birmingham.ac.uk/as/st
 
 ## eMOTION: Analysis of Emotion and Movement Variability in the Context of Human-Robot Interaction
 
-Author: Miguel P Xochicale   
-Department of Electronic Engineering   
+Miguel P Xochicale   
 School of Engineering   
 University of Birmingham, UK    
 
 
 ### Abstract 
-Movement variability is an inherent feature within and between persons.
-Research on measurement and understanding of movement variability has been well
-established in the previous three decades in areas such as biomechanics,
-sport science, psychology, cognitive science, neuroscience and robotics.
-With that in mind, we hypothesise that the subtle variations of face emotions
-and simple body movements can be both described and quantified in a similar 
-fashion as with the methodologies of movement variability.
-Such methodologies are based on nonlinear dynamics, particularly with the use of
-the state space reconstruction theorem where dynamics of an unknown system
-can be reconstructed using one dimensional time series.
-For this work, we explain how the state space reconstruction theorem works and
-present preliminary results of the use of the state reconstruction
-to understand the relationship between the variability of arm movements, head
-pose estimation and the emotion of six participants in the context of 
-human-robot interactions.
-The results of the state space reconstruction in the context of face emotions 
-lead us to conclude that not only the variability of upper body movement 
-can be analysed and quantified using the state space reconstruction theorem
-but also the subtle variability of face emotion transitions across time 
-(e.g. from excitement to neutral to boredom, etc)
-can be understood and measured using nonlinear dynamics.
+
+Movement variability (MV) is an inherent feature within and between persons.
+Such MV can be seen in many activities where human body movement is involved. 
+So, we hypothesise that not only the subtle 
+variations of face expressions but also simple body movements 
+in the context of human-robot interaction activities
+can be described and quantified 
+using nonlinear dynamics (ND) theorems.
+
+We therefore explain how the uniform time-delay embedding theorem, a technique of ND, works 
+and present both results of our hypothesis and its potential impact 
+in areas such as 
+rehabilitation, neuroscience or artificial intelligence to name a few.
 
 
 ![poster](https://github.com/mxochicale/PhD/blob/master/posters/Research_Poster_Conference_UoB/2018/poster/main/vfinal.png)
