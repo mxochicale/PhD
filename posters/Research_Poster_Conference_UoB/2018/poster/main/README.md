@@ -31,3 +31,8 @@ inkscape --export-png v00.png drawing.svg
 ```
 
 
+# poster final version
+
+![poster](https://github.com/mxochicale/PhD/blob/master/posters/Research_Poster_Conference_UoB/2018/poster/main/vfinal.png)
+
+

@@ -45,6 +45,5 @@ will be on display in the Great Hall when you arrive on Wednesday (13th June) mo
 You will receive more detailed information about the exact location of 
 your poster on the day of the conference.
 
-# TWITTER THREAD
 
 
